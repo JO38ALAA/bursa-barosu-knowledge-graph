@@ -7,6 +7,7 @@ import logging
 from typing import Dict, List, Optional
 import sys
 import os
+from nlp.normalizer import make_key, normalize_text
 
 # Config dosyasını import etmek için path ekliyoruz
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
@@ -50,10 +51,11 @@ class GraphBuilder:
             with self.driver.session() as session:
                 # Varlık türleri için indeksler
                 indexes = [
-                    "CREATE INDEX person_name_index IF NOT EXISTS FOR (p:Person) ON (p.name)",
-                    "CREATE INDEX organization_name_index IF NOT EXISTS FOR (o:Organization) ON (o.name)",
-                    "CREATE INDEX location_name_index IF NOT EXISTS FOR (l:Location) ON (l.name)",
-                    "CREATE INDEX date_value_index IF NOT EXISTS FOR (d:Date) ON (d.value)",
+                    "CREATE INDEX person_norm_index IF NOT EXISTS FOR (p:Person) ON (p.normalized_key)",
+                    "CREATE INDEX organization_norm_index IF NOT EXISTS FOR (o:Organization) ON (o.normalized_key)",
+                    "CREATE INDEX location_norm_index IF NOT EXISTS FOR (l:Location) ON (l.normalized_key)",
+                    "CREATE INDEX date_norm_index IF NOT EXISTS FOR (d:Date) ON (d.normalized_key)",
+                    "CREATE INDEX entity_norm_index IF NOT EXISTS FOR (e:Entity) ON (e.normalized_key)",
                     "CREATE INDEX document_url_index IF NOT EXISTS FOR (doc:Document) ON (doc.url)"
                 ]
                 
@@ -130,53 +132,45 @@ class GraphBuilder:
             bool: Başarı durumu
         """
         try:
-            entity_name = entity['text'].strip()
+            entity_name = normalize_text(entity['text'].strip())
             entity_label = entity['label']
+            norm_key = make_key(entity_name)
             
             # Label'a göre düğüm türünü belirle
             node_label = self._get_node_label(entity_label)
             
             with self.driver.session() as session:
-                if node_label == "Person":
+                if node_label == "Date":
                     query = f"""
-                    MERGE (n:{node_label} {{name: $name}})
-                    SET n.updated_at = datetime(),
-                        n.mention_count = COALESCE(n.mention_count, 0) + 1
-                    RETURN n.name as name
-                    """
-                elif node_label == "Organization":
-                    query = f"""
-                    MERGE (n:{node_label} {{name: $name}})
-                    SET n.updated_at = datetime(),
-                        n.mention_count = COALESCE(n.mention_count, 0) + 1
-                    RETURN n.name as name
-                    """
-                elif node_label == "Location":
-                    query = f"""
-                    MERGE (n:{node_label} {{name: $name}})
-                    SET n.updated_at = datetime(),
-                        n.mention_count = COALESCE(n.mention_count, 0) + 1
-                    RETURN n.name as name
-                    """
-                elif node_label == "Date":
-                    query = f"""
-                    MERGE (n:{node_label} {{value: $name}})
-                    SET n.updated_at = datetime(),
+                    MERGE (n:{node_label} {{normalized_key: $normalized_key}})
+                    SET n.value = $name,
+                        n.updated_at = datetime(),
                         n.mention_count = COALESCE(n.mention_count, 0) + 1
                     RETURN n.value as name
+                    """
+                elif node_label in ("Person", "Organization", "Location"):
+                    query = f"""
+                    MERGE (n:{node_label} {{normalized_key: $normalized_key}})
+                    SET n.name = COALESCE(n.name, $name),
+                        n.updated_at = datetime(),
+                        n.mention_count = COALESCE(n.mention_count, 0) + 1
+                    RETURN n.name as name
                     """
                 else:
                     # Genel varlık düğümü
                     query = f"""
-                    MERGE (n:Entity {{name: $name, type: $type}})
-                    SET n.updated_at = datetime(),
+                    MERGE (n:Entity {{normalized_key: $normalized_key}})
+                    SET n.name = COALESCE(n.name, $name),
+                        n.type = $type,
+                        n.updated_at = datetime(),
                         n.mention_count = COALESCE(n.mention_count, 0) + 1
                     RETURN n.name as name
                     """
                 
                 result = session.run(query, {
                     'name': entity_name,
-                    'type': entity_label
+                    'type': entity_label,
+                    'normalized_key': norm_key,
                 })
                 
                 created_name = result.single()["name"]
@@ -201,15 +195,17 @@ class GraphBuilder:
             bool: Başarı durumu
         """
         try:
-            entity1_name = entity1['text'].strip()
-            entity2_name = entity2['text'].strip()
+            entity1_name = normalize_text(entity1['text'].strip())
+            entity2_name = normalize_text(entity2['text'].strip())
             entity1_label = self._get_node_label(entity1['label'])
             entity2_label = self._get_node_label(entity2['label'])
+            e1_key = make_key(entity1_name)
+            e2_key = make_key(entity2_name)
             
             with self.driver.session() as session:
                 query = f"""
-                MATCH (e1:{entity1_label} {{name: $entity1_name}})
-                MATCH (e2:{entity2_label} {{name: $entity2_name}})
+                MATCH (e1:{entity1_label} {{normalized_key: $e1_key}})
+                MATCH (e2:{entity2_label} {{normalized_key: $e2_key}})
                 MERGE (e1)-[r:{relation_type}]->(e2)
                 SET r.updated_at = datetime(),
                     r.strength = COALESCE(r.strength, 0) + 1,
@@ -218,8 +214,8 @@ class GraphBuilder:
                 """
                 
                 result = session.run(query, {
-                    'entity1_name': entity1_name,
-                    'entity2_name': entity2_name,
+                    'e1_key': e1_key,
+                    'e2_key': e2_key,
                     'document_url': document_url
                 })
                 
@@ -248,12 +244,13 @@ class GraphBuilder:
         try:
             with self.driver.session() as session:
                 for entity in entities:
-                    entity_name = entity['text'].strip()
+                    entity_name = normalize_text(entity['text'].strip())
                     entity_label = self._get_node_label(entity['label'])
+                    norm_key = make_key(entity_name)
                     
                     query = f"""
                     MATCH (doc:Document {{url: $document_url}})
-                    MATCH (e:{entity_label} {{name: $entity_name}})
+                    MATCH (e:{entity_label} {{normalized_key: $normalized_key}})
                     MERGE (e)-[r:MENTIONED_IN]->(doc)
                     SET r.sentence = $sentence,
                         r.updated_at = datetime()
@@ -261,7 +258,7 @@ class GraphBuilder:
                     
                     session.run(query, {
                         'document_url': document_url,
-                        'entity_name': entity_name,
+                        'normalized_key': norm_key,
                         'sentence': entity.get('sentence', '')
                     })
                 

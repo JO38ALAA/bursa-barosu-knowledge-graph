@@ -24,6 +24,17 @@ PROCESSED_DATA_DIR = os.path.join(DATA_DIR, "processed")
 USE_SPACY = False
 SPACY_MODEL = "tr_core_news_sm"  # Gelecekte kullanım için
 
+# Transformer tabanlı NER ayarları
+USE_TRANSFORMERS_NER = os.getenv("USE_TRANSFORMERS_NER", "true").lower() == "true"
+NER_MODEL_NAME = os.getenv("NER_MODEL_NAME", "savasy/bert-base-turkish-ner-cased")
+USE_STANZA = os.getenv("USE_STANZA", "false").lower() == "true"  # Cümleleme/parse için opsiyonel
+USE_MREBEL = os.getenv("USE_MREBEL", "false").lower() == "true"   # Çok dilli RE için opsiyonel
+
+# Normalizasyon ve eşleştirme ayarları
+ENABLE_NORMALIZATION = os.getenv("ENABLE_NORMALIZATION", "true").lower() == "true"
+ENABLE_FUZZY_MATCH = os.getenv("ENABLE_FUZZY_MATCH", "true").lower() == "true"
+FUZZY_THRESHOLD = int(os.getenv("FUZZY_THRESHOLD", "90"))
+
 # Logging Ayarları
 LOG_LEVEL = "INFO"
 LOG_FORMAT = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

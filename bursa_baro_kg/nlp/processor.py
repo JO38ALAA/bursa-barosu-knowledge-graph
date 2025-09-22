@@ -10,7 +10,16 @@ import os
 
 # Config dosyasını import etmek için path ekliyoruz
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
-from config import USE_SPACY, SPACY_MODEL
+from config import (
+    USE_SPACY,
+    SPACY_MODEL,
+    USE_TRANSFORMERS_NER,
+    NER_MODEL_NAME,
+    USE_STANZA,
+)
+
+# Normalizasyon yardımcıları
+from nlp.normalizer import normalize_text
 
 # Logging ayarları
 logging.basicConfig(level=logging.INFO)
@@ -23,6 +32,7 @@ class NLPProcessor:
     def __init__(self):
         """NLP Processor'ı başlat"""
         self.use_spacy = USE_SPACY
+        self.use_transformers_ner = USE_TRANSFORMERS_NER
         
         if self.use_spacy:
             try:
@@ -32,6 +42,21 @@ class NLPProcessor:
             except Exception as e:
                 logger.warning(f"SpaCy yüklenemedi: {e}. Regex tabanlı işleme kullanılacak.")
                 self.use_spacy = False
+        
+        # Transformer tabanlı NER
+        self.ner_pipeline = None
+        if self.use_transformers_ner:
+            try:
+                from transformers import pipeline
+                self.ner_pipeline = pipeline(
+                    task="token-classification",
+                    model=NER_MODEL_NAME,
+                    aggregation_strategy="simple",
+                )
+                logger.info(f"Transformers NER modeli yüklendi: {NER_MODEL_NAME}")
+            except Exception as e:
+                logger.warning(f"Transformers NER yüklenemedi: {e}. Regex tabanlı işleme kullanılacak.")
+                self.use_transformers_ner = False
         
         if not self.use_spacy:
             logger.info("Regex tabanlı NLP işleme kullanılıyor")
@@ -112,15 +137,117 @@ class NLPProcessor:
         Returns:
             Dict: Varlıklar ve ilişkiler içeren dictionary
         """
+        text = normalize_text(text)
         if self.use_spacy:
             return self._process_with_spacy(text)
-        else:
-            return self._process_with_regex(text)
+        if self.use_transformers_ner and self.ner_pipeline is not None:
+            return self._process_with_transformers(text)
+        return self._process_with_regex(text)
     
     def _process_with_spacy(self, text: str) -> Dict:
         """SpaCy ile metin işleme (gelecekte kullanım için)"""
         # TODO: SpaCy implementasyonu
         pass
+    
+    def _process_with_transformers(self, text: str) -> Dict:
+        """Hugging Face pipeline ile Türkçe NER ve basit ilişki çıkarımı"""
+        entities = []
+        relationships = []
+        
+        # Cümlelere böl (basit)
+        sentences = re.split(r'[.!?]+', text)
+        
+        # NER çalıştır ve cümlelere dağıt
+        label_map = {
+            'PER': 'PERSON', 'B-PER': 'PERSON', 'I-PER': 'PERSON',
+            'ORG': 'ORGANIZATION', 'B-ORG': 'ORGANIZATION', 'I-ORG': 'ORGANIZATION',
+            'LOC': 'LOCATION', 'B-LOC': 'LOCATION', 'I-LOC': 'LOCATION',
+            # Bazı modeller MISC döndürebilir; şimdilik Entity olarak sayalım
+            'MISC': 'Entity'
+        }
+        
+        # Tüm metinde NER
+        try:
+            ner_results = self.ner_pipeline(text)
+        except Exception as e:
+            logger.warning(f"NER pipeline hatası, regex'e dönülüyor: {e}")
+            return self._process_with_regex(text)
+        
+        # NER sonuçlarını varlık listesine dönüştür
+        for item in ner_results:
+            raw_label = item.get('entity_group') or item.get('entity')
+            label = label_map.get(raw_label, 'Entity')
+            ent_text = item['word'].strip()
+            if not ent_text:
+                continue
+            # Çok kısa/tek kelime filtreleri gerektiğinde eklenebilir
+            entities.append({
+                'text': ent_text,
+                'label': label,
+                'sentence_idx': None,
+                'sentence': None,
+            })
+        
+        # Ek olarak regex ile Tarih ve Hukuki terimler ekle (transformer NER’de olmayabilir)
+        regex_only = self._process_with_regex(text)
+        for e in regex_only['entities']:
+            if e['label'] in ('DATE', 'LEGAL_TERM'):
+                entities.append(e)
+        
+        # Cümle bazlı ilişki: aynı cümlede geçen farklı tipte varlıklar
+        # Basit cümle bölme; ileride Stanza ile geliştirilebilir
+        for sentence_idx, sentence in enumerate(sentences):
+            s = sentence.strip()
+            if len(s) < 10:
+                continue
+            sent_ents = []
+            for ent in entities:
+                if ent.get('sentence_idx') is not None:
+                    continue
+                # kaba eşleme: metindeki span bilgimiz yok; içerme kontrolü
+                if ent['text'] and ent['text'] in s:
+                    ent_local = ent.copy()
+                    ent_local['sentence_idx'] = sentence_idx
+                    ent_local['sentence'] = s
+                    sent_ents.append(ent_local)
+            # farklı tiplerdeki her çiftten ilişki kur
+            for i in range(len(sent_ents)):
+                for j in range(i + 1, len(sent_ents)):
+                    e1, e2 = sent_ents[i], sent_ents[j]
+                    if e1['label'] != e2['label']:
+                        relationships.append({
+                            'entity1': e1['text'],
+                            'entity1_label': e1['label'],
+                            'entity2': e2['text'],
+                            'entity2_label': e2['label'],
+                            'relation_type': 'MENTIONED_WITH',
+                            'sentence': s,
+                            'sentence_idx': sentence_idx,
+                        })
+        
+        # Duplicate temizliği (regex yöntemindekiyle aynı mantık)
+        unique_entities = []
+        seen_entities = set()
+        for entity in entities:
+            key = (entity['text'].lower(), entity['label'])
+            if key not in seen_entities:
+                seen_entities.add(key)
+                unique_entities.append(entity)
+        
+        unique_relationships = []
+        seen_relationships = set()
+        for rel in relationships:
+            key = (rel['entity1'].lower(), rel['entity2'].lower(), rel['relation_type'])
+            if key not in seen_relationships:
+                seen_relationships.add(key)
+                unique_relationships.append(rel)
+        
+        return {
+            'entities': unique_entities,
+            'relationships': unique_relationships,
+            'total_sentences': len(sentences),
+            'processed_sentences': len([s for s in sentences if len(s.strip()) >= 10])
+        }
     
     def _process_with_regex(self, text: str) -> Dict:
         """Regex ile metin işleme"""
