@@ -1,0 +1,870 @@
+{
+  "url": "https://bursabarosu.org.tr/tr/basin-kiti",
+  "title": "BURSA BAROSU - Basın Kiti",
+  "content": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av. Metin Öztosun Bursa Barosu Başkanı Av. Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+  "scraped_at": "2025-09-19T17:34:16.914830",
+  "processed_at": "2025-09-19T17:35:05.842088",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Baro Basın Kiti",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "Bursa Barosu Logosu",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "Bursa Barosu Başkanı",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "ANA SAYFA Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "Kiti Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "Bursa",
+        "label": "LOCATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "Metin Öztosun Bursa",
+        "label": "PERSON",
+        "sentence_idx": 1,
+        "sentence": "Metin Öztosun Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "Barosu Başkanı",
+        "label": "PERSON",
+        "sentence_idx": 1,
+        "sentence": "Metin Öztosun Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "Öztosun Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 1,
+        "sentence": "Metin Öztosun Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "label": "PERSON",
+        "sentence_idx": 2,
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Metin Öztosun",
+        "label": "PERSON",
+        "sentence_idx": 2,
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Baro Tarihçe Başkan",
+        "label": "PERSON",
+        "sentence_idx": 2,
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Yönetim Kurulu Disiplin",
+        "label": "PERSON",
+        "sentence_idx": 2,
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Kurulu Denetleme Kurulu",
+        "label": "PERSON",
+        "sentence_idx": 2,
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Türkiye Barolar Birliği",
+        "label": "PERSON",
+        "sentence_idx": 2,
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Temsilcilikleri Bursa Barosu",
+        "label": "PERSON",
+        "sentence_idx": 2,
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Personeli Merkezler Komisyonlar",
+        "label": "PERSON",
+        "sentence_idx": 2,
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Servisler Baro Meclisi",
+        "label": "PERSON",
+        "sentence_idx": 2,
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Basın Kiti Daha",
+        "label": "PERSON",
+        "sentence_idx": 2,
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Öztosun PAYLAŞ Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 2,
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Temsilcilikleri Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 2,
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 2,
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Türkiye Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 2,
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 2,
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Baro Basın Kiti",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Basın Kiti",
+        "entity1_label": "PERSON",
+        "entity2": "Kiti Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Basın Kiti",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Logosu",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Logosu",
+        "entity1_label": "PERSON",
+        "entity2": "Kiti Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Logosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "Kiti Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "ANA SAYFA Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kiti Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Basın Kiti Bursa Barosu Logosu Bursa Barosu Logosu Bursa Barosu Başkanı Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Metin Öztosun Bursa",
+        "entity1_label": "PERSON",
+        "entity2": "Öztosun Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun Bursa Barosu Başkanı Av",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "Metin Öztosun Bursa",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun Bursa Barosu Başkanı Av",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "Barosu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "Öztosun Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun Bursa Barosu Başkanı Av",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "Barosu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun Bursa Barosu Başkanı Av",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "Öztosun Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun Bursa Barosu Başkanı Av",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Öztosun PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Metin Öztosun",
+        "entity1_label": "PERSON",
+        "entity2": "Öztosun PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Metin Öztosun",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Metin Öztosun",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Metin Öztosun",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Metin Öztosun",
+        "entity1_label": "PERSON",
+        "entity2": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Metin Öztosun",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Öztosun PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Öztosun PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Öztosun PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Öztosun PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Öztosun PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Öztosun PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Öztosun PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Öztosun PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Öztosun PAYLAŞ Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 2
+      }
+    ],
+    "total_sentences": 3,
+    "processed_sentences": 3
+  }
+}

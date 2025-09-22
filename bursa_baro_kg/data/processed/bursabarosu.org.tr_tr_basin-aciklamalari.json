@@ -1,0 +1,714 @@
+{
+  "url": "https://bursabarosu.org.tr/tr/basin-aciklamalari",
+  "title": "BURSA BAROSU - Basın Açıklamaları",
+  "content": "ANA SAYFA Gündem Basın Açıklamaları Gazeteci Sedef Kabaş hakkında basın açıklaması BASIN AÇIKLAMASI GÜNDEM HABER BARINAKLAR SOKAK HAYVANLARININ YAŞAM ALANI DEĞİLDİR! Cumhurbaşkanı Recep Tayyip Erdoğan'ın, 23.12.2021 tarihindeki Belediye Başkanları İstişare ve Değerlendirme Toplantısı'nda belediye başkanlarına “Öncelikle sahipsiz hayvanların yerinin sokaklar değil, barınaklar olduğunu unutmamalıyız” şeklindeki beyanları açıkça hukuka aykırıdır. BASIN AÇIKLAMASI GÜNDEM HABER Kamuoyuna Bugün, Ankara'da üniversite öğrencileri tarafından gerçekleştirilmek istenen “Barınamıyoruz” eylemine katılmak için şehir dışından gelenlerin Ankara'ya girişi keyfi bir şekilde engellenmiş, Yüksel Caddesi'nde toplanan öğrencilere de kolluk tarafından müdahale edilerek çok sayıda kişi gözaltına alınmıştır. BASIN AÇIKLAMASI GÜNDEM TBB'de görev devir teslimi yapıldı, yeni yönetim Atatürk'ün huzuruna çıktı Türkiye Barolar Birliği'nin (TBB) 36. Olağan Genel Kurul toplantısında seçilen Av. Erinç Sağkan yönetimi, düzenlenen törenle görevi teslim aldı. Yönetim Kurulu Üyesi seçilen Bursa Barosu Başkanı Av. Gürkan Altun'un cübbesini, önceki dönem TBB Yönetim Kurulu Üyesi Av. Asude Şenol giydirdi. BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız. BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu Hayvan Hakları Komisyonu: “Kedi-köpek mamalarında KDV sıfırlanmalıdır” İnsan gıda maddelerinde genelde % 1 - % 8 oranlarında KDV alınırken kedi ve köpeklerin temel ihtiyacı olan gıda maddelerinde %18 KDV alınmaktadır. Yine yat ve gezi teknelerinin alım ve hizmet ifalarında %1 KDV alınırken kedi-köpek mamalarında %18'lik KDV oranı hakkaniyete aykırıdır. BASIN AÇIKLAMASI GÜNDEM ORHANGAZİ'DE İKİNCİ CARGİLL VAKASI! ZEYTİNYAĞI TESİSİ İZİNLERİNİ İPTAL EDEN YARGI KARARLARI YOK SAYILIYOR! ZEYTİNYAĞI TESİSİ İZİNLERİNİ İPTAL EDEN YARGI KARARLARI YOK SAYILIYOR! BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu Yönetim Kurulu: “Engelli birey olmak, hayatı yaşamak için engel değildir” Bursa Barosu Yönetim Kurulu, engellilerin yaşadığı sıkıntıları, sorunların çözümü konusundaki tıkanıklıkları bir basın açıklamasıyla kamuoyuna duyurdu. BASIN AÇIKLAMASI GÜNDEM HABER ZİHNİYET DEĞİŞMEDİKÇE, İSTİSMARI, ŞİDDETİ ÖNLEYEMEYECEĞİZ Kadına yönelik şiddetin önlenmesinin öncelikli koşulu Medeni Kanun başta olmak üzere 6284 sayılı kanunun gereklerinin yerine getirilmesi ve ayrıca Türkiye'de imzalandığı için “İstanbul Sözleşmesi” olarak adlandırılan sözleşmenin yeniden yürürlüğe konularak hükümlerinin uygulanmasıdır. BASIN AÇIKLAMASI GÜNDEM HABER Her çocuğun eşit, özgür, mutlu ve onurlu birer birey olarak yaşamda var olabildiği... Dünya Çocuk Hakları Günü kutlu olsun… BASIN AÇIKLAMASI GÜNDEM « 1 2 3 4 ... 34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+  "scraped_at": "2025-09-19T17:34:58.557526",
+  "processed_at": "2025-09-19T17:35:05.795327",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Gündem Basın Açıklamaları",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Basın Açıklamaları Gazeteci Sedef Kabaş hakkında basın açıklaması BASIN AÇIKLAMASI GÜNDEM HABER BARINAKLAR SOKAK HAYVANLARININ YAŞAM ALANI DEĞİLDİR"
+      },
+      {
+        "text": "Gazeteci Sedef Kabaş",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Basın Açıklamaları Gazeteci Sedef Kabaş hakkında basın açıklaması BASIN AÇIKLAMASI GÜNDEM HABER BARINAKLAR SOKAK HAYVANLARININ YAŞAM ALANI DEĞİLDİR"
+      },
+      {
+        "text": "Cumhurbaşkanı Recep Tayyip",
+        "label": "PERSON",
+        "sentence_idx": 1,
+        "sentence": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın, 23"
+      },
+      {
+        "text": "Belediye Başkanları",
+        "label": "PERSON",
+        "sentence_idx": 3,
+        "sentence": "2021 tarihindeki Belediye Başkanları İstişare ve Değerlendirme Toplantısı'nda belediye başkanlarına “Öncelikle sahipsiz hayvanların yerinin sokaklar değil, barınaklar olduğunu unutmamalıyız” şeklindeki beyanları açıkça hukuka aykırıdır"
+      },
+      {
+        "text": "Değerlendirme Toplantısı",
+        "label": "PERSON",
+        "sentence_idx": 3,
+        "sentence": "2021 tarihindeki Belediye Başkanları İstişare ve Değerlendirme Toplantısı'nda belediye başkanlarına “Öncelikle sahipsiz hayvanların yerinin sokaklar değil, barınaklar olduğunu unutmamalıyız” şeklindeki beyanları açıkça hukuka aykırıdır"
+      },
+      {
+        "text": "Kamuoyuna Bugün",
+        "label": "PERSON",
+        "sentence_idx": 4,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Kamuoyuna Bugün, Ankara'da üniversite öğrencileri tarafından gerçekleştirilmek istenen “Barınamıyoruz” eylemine katılmak için şehir dışından gelenlerin Ankara'ya girişi keyfi bir şekilde engellenmiş, Yüksel Caddesi'nde toplanan öğrencilere de kolluk tarafından müdahale edilerek çok sayıda kişi gözaltına alınmıştır"
+      },
+      {
+        "text": "Yüksel Caddesi",
+        "label": "PERSON",
+        "sentence_idx": 4,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Kamuoyuna Bugün, Ankara'da üniversite öğrencileri tarafından gerçekleştirilmek istenen “Barınamıyoruz” eylemine katılmak için şehir dışından gelenlerin Ankara'ya girişi keyfi bir şekilde engellenmiş, Yüksel Caddesi'nde toplanan öğrencilere de kolluk tarafından müdahale edilerek çok sayıda kişi gözaltına alınmıştır"
+      },
+      {
+        "text": "Ankara",
+        "label": "LOCATION",
+        "sentence_idx": 4,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Kamuoyuna Bugün, Ankara'da üniversite öğrencileri tarafından gerçekleştirilmek istenen “Barınamıyoruz” eylemine katılmak için şehir dışından gelenlerin Ankara'ya girişi keyfi bir şekilde engellenmiş, Yüksel Caddesi'nde toplanan öğrencilere de kolluk tarafından müdahale edilerek çok sayıda kişi gözaltına alınmıştır"
+      },
+      {
+        "text": "Yüksel Caddesi",
+        "label": "LOCATION",
+        "sentence_idx": 4,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Kamuoyuna Bugün, Ankara'da üniversite öğrencileri tarafından gerçekleştirilmek istenen “Barınamıyoruz” eylemine katılmak için şehir dışından gelenlerin Ankara'ya girişi keyfi bir şekilde engellenmiş, Yüksel Caddesi'nde toplanan öğrencilere de kolluk tarafından müdahale edilerek çok sayıda kişi gözaltına alınmıştır"
+      },
+      {
+        "text": "Türkiye Barolar Birliği",
+        "label": "PERSON",
+        "sentence_idx": 5,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM TBB'de görev devir teslimi yapıldı, yeni yönetim Atatürk'ün huzuruna çıktı Türkiye Barolar Birliği'nin (TBB) 36"
+      },
+      {
+        "text": "Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 5,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM TBB'de görev devir teslimi yapıldı, yeni yönetim Atatürk'ün huzuruna çıktı Türkiye Barolar Birliği'nin (TBB) 36"
+      },
+      {
+        "text": "Türkiye Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 5,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM TBB'de görev devir teslimi yapıldı, yeni yönetim Atatürk'ün huzuruna çıktı Türkiye Barolar Birliği'nin (TBB) 36"
+      },
+      {
+        "text": "ün huzuruna çıktı Türkiye Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 5,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM TBB'de görev devir teslimi yapıldı, yeni yönetim Atatürk'ün huzuruna çıktı Türkiye Barolar Birliği'nin (TBB) 36"
+      },
+      {
+        "text": "Olağan Genel Kurul",
+        "label": "PERSON",
+        "sentence_idx": 6,
+        "sentence": "Olağan Genel Kurul toplantısında seçilen Av"
+      },
+      {
+        "text": "Erinç Sağkan",
+        "label": "PERSON",
+        "sentence_idx": 7,
+        "sentence": "Erinç Sağkan yönetimi, düzenlenen törenle görevi teslim aldı"
+      },
+      {
+        "text": "Yönetim Kurulu Üyesi",
+        "label": "PERSON",
+        "sentence_idx": 8,
+        "sentence": "Yönetim Kurulu Üyesi seçilen Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "Bursa Barosu Başkanı",
+        "label": "PERSON",
+        "sentence_idx": 8,
+        "sentence": "Yönetim Kurulu Üyesi seçilen Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "seçilen Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 8,
+        "sentence": "Yönetim Kurulu Üyesi seçilen Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "Bursa",
+        "label": "LOCATION",
+        "sentence_idx": 8,
+        "sentence": "Yönetim Kurulu Üyesi seçilen Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "Gürkan Altun",
+        "label": "PERSON",
+        "sentence_idx": 9,
+        "sentence": "Gürkan Altun'un cübbesini, önceki dönem TBB Yönetim Kurulu Üyesi Av"
+      },
+      {
+        "text": "Asude Şenol",
+        "label": "PERSON",
+        "sentence_idx": 10,
+        "sentence": "Asude Şenol giydirdi"
+      },
+      {
+        "text": "Bursa Barosu",
+        "label": "PERSON",
+        "sentence_idx": 11,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız"
+      },
+      {
+        "text": "Hakları Komisyonu",
+        "label": "PERSON",
+        "sentence_idx": 11,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız"
+      },
+      {
+        "text": "Aralık Dünya",
+        "label": "PERSON",
+        "sentence_idx": 11,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız"
+      },
+      {
+        "text": "Hakları Günü",
+        "label": "PERSON",
+        "sentence_idx": 11,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız"
+      },
+      {
+        "text": "HABER Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 11,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız"
+      },
+      {
+        "text": "açıklaması Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 11,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız"
+      },
+      {
+        "text": "hukuk",
+        "label": "LEGAL_TERM",
+        "sentence_idx": 11,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız"
+      },
+      {
+        "text": "Bursa Barosu Hayvan",
+        "label": "PERSON",
+        "sentence_idx": 12,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu Hayvan Hakları Komisyonu: “Kedi-köpek mamalarında KDV sıfırlanmalıdır” İnsan gıda maddelerinde genelde % 1 - % 8 oranlarında KDV alınırken kedi ve köpeklerin temel ihtiyacı olan gıda maddelerinde %18 KDV alınmaktadır"
+      },
+      {
+        "text": "Bursa Barosu Yönetim",
+        "label": "PERSON",
+        "sentence_idx": 17,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu Yönetim Kurulu: “Engelli birey olmak, hayatı yaşamak için engel değildir” Bursa Barosu Yönetim Kurulu, engellilerin yaşadığı sıkıntıları, sorunların çözümü konusundaki tıkanıklıkları bir basın açıklamasıyla kamuoyuna duyurdu"
+      },
+      {
+        "text": "değildir” Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 17,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu Yönetim Kurulu: “Engelli birey olmak, hayatı yaşamak için engel değildir” Bursa Barosu Yönetim Kurulu, engellilerin yaşadığı sıkıntıları, sorunların çözümü konusundaki tıkanıklıkları bir basın açıklamasıyla kamuoyuna duyurdu"
+      },
+      {
+        "text": "Medeni Kanun",
+        "label": "PERSON",
+        "sentence_idx": 18,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER ZİHNİYET DEĞİŞMEDİKÇE, İSTİSMARI, ŞİDDETİ ÖNLEYEMEYECEĞİZ Kadına yönelik şiddetin önlenmesinin öncelikli koşulu Medeni Kanun başta olmak üzere 6284 sayılı kanunun gereklerinin yerine getirilmesi ve ayrıca Türkiye'de imzalandığı için “İstanbul Sözleşmesi” olarak adlandırılan sözleşmenin yeniden yürürlüğe konularak hükümlerinin uygulanmasıdır"
+      },
+      {
+        "text": "İstanbul",
+        "label": "LOCATION",
+        "sentence_idx": 18,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER ZİHNİYET DEĞİŞMEDİKÇE, İSTİSMARI, ŞİDDETİ ÖNLEYEMEYECEĞİZ Kadına yönelik şiddetin önlenmesinin öncelikli koşulu Medeni Kanun başta olmak üzere 6284 sayılı kanunun gereklerinin yerine getirilmesi ve ayrıca Türkiye'de imzalandığı için “İstanbul Sözleşmesi” olarak adlandırılan sözleşmenin yeniden yürürlüğe konularak hükümlerinin uygulanmasıdır"
+      },
+      {
+        "text": "Dünya Çocuk Hakları",
+        "label": "PERSON",
+        "sentence_idx": 20,
+        "sentence": "Dünya Çocuk Hakları Günü kutlu olsun… BASIN AÇIKLAMASI GÜNDEM « 1 2 3 4"
+      },
+      {
+        "text": "Gündem Sosyal Sorumluluk",
+        "label": "PERSON",
+        "sentence_idx": 21,
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
+      },
+      {
+        "text": "Çalışmaları Baro Medya",
+        "label": "PERSON",
+        "sentence_idx": 21,
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
+      },
+      {
+        "text": "Basında Bursa Barosu",
+        "label": "PERSON",
+        "sentence_idx": 21,
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
+      },
+      {
+        "text": "Basın Açıklamaları",
+        "label": "PERSON",
+        "sentence_idx": 21,
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
+      },
+      {
+        "text": "Duyuruları Duyurular Daha",
+        "label": "PERSON",
+        "sentence_idx": 21,
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
+      },
+      {
+        "text": "Sorumluluk Çalışmaları Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 21,
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Kamuoyuna Bugün",
+        "entity1_label": "PERSON",
+        "entity2": "Ankara",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Kamuoyuna Bugün, Ankara'da üniversite öğrencileri tarafından gerçekleştirilmek istenen “Barınamıyoruz” eylemine katılmak için şehir dışından gelenlerin Ankara'ya girişi keyfi bir şekilde engellenmiş, Yüksel Caddesi'nde toplanan öğrencilere de kolluk tarafından müdahale edilerek çok sayıda kişi gözaltına alınmıştır",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Kamuoyuna Bugün",
+        "entity1_label": "PERSON",
+        "entity2": "Yüksel Caddesi",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Kamuoyuna Bugün, Ankara'da üniversite öğrencileri tarafından gerçekleştirilmek istenen “Barınamıyoruz” eylemine katılmak için şehir dışından gelenlerin Ankara'ya girişi keyfi bir şekilde engellenmiş, Yüksel Caddesi'nde toplanan öğrencilere de kolluk tarafından müdahale edilerek çok sayıda kişi gözaltına alınmıştır",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Yüksel Caddesi",
+        "entity1_label": "PERSON",
+        "entity2": "Ankara",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Kamuoyuna Bugün, Ankara'da üniversite öğrencileri tarafından gerçekleştirilmek istenen “Barınamıyoruz” eylemine katılmak için şehir dışından gelenlerin Ankara'ya girişi keyfi bir şekilde engellenmiş, Yüksel Caddesi'nde toplanan öğrencilere de kolluk tarafından müdahale edilerek çok sayıda kişi gözaltına alınmıştır",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Yüksel Caddesi",
+        "entity1_label": "PERSON",
+        "entity2": "Yüksel Caddesi",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Kamuoyuna Bugün, Ankara'da üniversite öğrencileri tarafından gerçekleştirilmek istenen “Barınamıyoruz” eylemine katılmak için şehir dışından gelenlerin Ankara'ya girişi keyfi bir şekilde engellenmiş, Yüksel Caddesi'nde toplanan öğrencilere de kolluk tarafından müdahale edilerek çok sayıda kişi gözaltına alınmıştır",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM TBB'de görev devir teslimi yapıldı, yeni yönetim Atatürk'ün huzuruna çıktı Türkiye Barolar Birliği'nin (TBB) 36",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM TBB'de görev devir teslimi yapıldı, yeni yönetim Atatürk'ün huzuruna çıktı Türkiye Barolar Birliği'nin (TBB) 36",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "ün huzuruna çıktı Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM TBB'de görev devir teslimi yapıldı, yeni yönetim Atatürk'ün huzuruna çıktı Türkiye Barolar Birliği'nin (TBB) 36",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "Yönetim Kurulu Üyesi",
+        "entity1_label": "PERSON",
+        "entity2": "seçilen Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Yönetim Kurulu Üyesi seçilen Bursa Barosu Başkanı Av",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Yönetim Kurulu Üyesi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Yönetim Kurulu Üyesi seçilen Bursa Barosu Başkanı Av",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Bursa Barosu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "seçilen Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Yönetim Kurulu Üyesi seçilen Bursa Barosu Başkanı Av",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Bursa Barosu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Yönetim Kurulu Üyesi seçilen Bursa Barosu Başkanı Av",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "seçilen Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Yönetim Kurulu Üyesi seçilen Bursa Barosu Başkanı Av",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "HABER Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "açıklaması Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Hakları Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "HABER Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Hakları Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "açıklaması Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Hakları Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Hakları Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Aralık Dünya",
+        "entity1_label": "PERSON",
+        "entity2": "HABER Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Aralık Dünya",
+        "entity1_label": "PERSON",
+        "entity2": "açıklaması Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Aralık Dünya",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Aralık Dünya",
+        "entity1_label": "PERSON",
+        "entity2": "hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Hakları Günü",
+        "entity1_label": "PERSON",
+        "entity2": "HABER Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Hakları Günü",
+        "entity1_label": "PERSON",
+        "entity2": "açıklaması Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Hakları Günü",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Hakları Günü",
+        "entity1_label": "PERSON",
+        "entity2": "hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "HABER Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "HABER Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "açıklaması Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "açıklaması Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Bursa",
+        "entity1_label": "LOCATION",
+        "entity2": "hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu İnsan Hakları Komisyonu'nun 10 Aralık Dünya İnsan Hakları Günü basın açıklaması Bursa Barosu İnsan Hakları Komisyonu olarak, hukukun üstünlüğünü, demokratik, laik ve sosyal hukuk devletini savunmaya devam edeceğimizi bildirir, insan hakları ihlallerinin ortadan kaldırılması için her zaman olduğu gibi mücadele etme kararlılığımızı kamuoyu ile paylaşırız",
+        "sentence_idx": 11
+      },
+      {
+        "entity1": "Bursa Barosu Hayvan",
+        "entity1_label": "PERSON",
+        "entity2": "HABER Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu Hayvan Hakları Komisyonu: “Kedi-köpek mamalarında KDV sıfırlanmalıdır” İnsan gıda maddelerinde genelde % 1 - % 8 oranlarında KDV alınırken kedi ve köpeklerin temel ihtiyacı olan gıda maddelerinde %18 KDV alınmaktadır",
+        "sentence_idx": 12
+      },
+      {
+        "entity1": "Bursa Barosu Hayvan",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu Hayvan Hakları Komisyonu: “Kedi-köpek mamalarında KDV sıfırlanmalıdır” İnsan gıda maddelerinde genelde % 1 - % 8 oranlarında KDV alınırken kedi ve köpeklerin temel ihtiyacı olan gıda maddelerinde %18 KDV alınmaktadır",
+        "sentence_idx": 12
+      },
+      {
+        "entity1": "Bursa Barosu Yönetim",
+        "entity1_label": "PERSON",
+        "entity2": "HABER Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu Yönetim Kurulu: “Engelli birey olmak, hayatı yaşamak için engel değildir” Bursa Barosu Yönetim Kurulu, engellilerin yaşadığı sıkıntıları, sorunların çözümü konusundaki tıkanıklıkları bir basın açıklamasıyla kamuoyuna duyurdu",
+        "sentence_idx": 17
+      },
+      {
+        "entity1": "Bursa Barosu Yönetim",
+        "entity1_label": "PERSON",
+        "entity2": "değildir” Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu Yönetim Kurulu: “Engelli birey olmak, hayatı yaşamak için engel değildir” Bursa Barosu Yönetim Kurulu, engellilerin yaşadığı sıkıntıları, sorunların çözümü konusundaki tıkanıklıkları bir basın açıklamasıyla kamuoyuna duyurdu",
+        "sentence_idx": 17
+      },
+      {
+        "entity1": "Bursa Barosu Yönetim",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu Yönetim Kurulu: “Engelli birey olmak, hayatı yaşamak için engel değildir” Bursa Barosu Yönetim Kurulu, engellilerin yaşadığı sıkıntıları, sorunların çözümü konusundaki tıkanıklıkları bir basın açıklamasıyla kamuoyuna duyurdu",
+        "sentence_idx": 17
+      },
+      {
+        "entity1": "değildir” Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Bursa Barosu Yönetim Kurulu: “Engelli birey olmak, hayatı yaşamak için engel değildir” Bursa Barosu Yönetim Kurulu, engellilerin yaşadığı sıkıntıları, sorunların çözümü konusundaki tıkanıklıkları bir basın açıklamasıyla kamuoyuna duyurdu",
+        "sentence_idx": 17
+      },
+      {
+        "entity1": "Medeni Kanun",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER ZİHNİYET DEĞİŞMEDİKÇE, İSTİSMARI, ŞİDDETİ ÖNLEYEMEYECEĞİZ Kadına yönelik şiddetin önlenmesinin öncelikli koşulu Medeni Kanun başta olmak üzere 6284 sayılı kanunun gereklerinin yerine getirilmesi ve ayrıca Türkiye'de imzalandığı için “İstanbul Sözleşmesi” olarak adlandırılan sözleşmenin yeniden yürürlüğe konularak hükümlerinin uygulanmasıdır",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Gündem Sosyal Sorumluluk",
+        "entity1_label": "PERSON",
+        "entity2": "Sorumluluk Çalışmaları Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Gündem Sosyal Sorumluluk",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Çalışmaları Baro Medya",
+        "entity1_label": "PERSON",
+        "entity2": "Sorumluluk Çalışmaları Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Çalışmaları Baro Medya",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Basında Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Sorumluluk Çalışmaları Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Basında Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Basın Açıklamaları",
+        "entity1_label": "PERSON",
+        "entity2": "Sorumluluk Çalışmaları Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Basın Açıklamaları",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Duyuruları Duyurular Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Sorumluluk Çalışmaları Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Duyuruları Duyurular Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Sorumluluk Çalışmaları Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "34 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 21
+      }
+    ],
+    "total_sentences": 22,
+    "processed_sentences": 21
+  }
+}

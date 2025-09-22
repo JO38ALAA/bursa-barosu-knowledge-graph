@@ -1,0 +1,1122 @@
+{
+  "url": "https://bursabarosu.org.tr/tr/baro-bursa-barosu-personeli",
+  "title": "BURSA BAROSU - Bursa Barosu Personeli",
+  "content": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+  "scraped_at": "2025-09-19T17:34:28.228932",
+  "processed_at": "2025-09-19T17:35:05.582414",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Baro Bursa Barosu",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Birim Adli Yardım",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Uygulama Merkezi",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Temsilcilikleri Diğer Birimler",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Baro Tarihçe Başkan",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Yönetim Kurulu Disiplin",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Kurulu Denetleme Kurulu",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Türkiye Barolar Birliği",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Temsilcilikleri Bursa Barosu",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Personeli Merkezler Komisyonlar",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Servisler Baro Meclisi",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Basın Kiti Daha",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "ANA SAYFA Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Birimler PAYLAŞ Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Temsilcilikleri Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Türkiye Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "CMK Uygulama Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Bursa",
+        "label": "LOCATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Birimler PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "CMK Uygulama Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Birimler PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "CMK Uygulama Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birim Adli Yardım",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birim Adli Yardım",
+        "entity1_label": "PERSON",
+        "entity2": "Birimler PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birim Adli Yardım",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birim Adli Yardım",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birim Adli Yardım",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birim Adli Yardım",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birim Adli Yardım",
+        "entity1_label": "PERSON",
+        "entity2": "CMK Uygulama Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birim Adli Yardım",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Uygulama Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Uygulama Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "Birimler PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Uygulama Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Uygulama Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Uygulama Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Uygulama Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Uygulama Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "CMK Uygulama Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Uygulama Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Diğer Birimler",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Diğer Birimler",
+        "entity1_label": "PERSON",
+        "entity2": "Birimler PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Diğer Birimler",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Diğer Birimler",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Diğer Birimler",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Diğer Birimler",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Diğer Birimler",
+        "entity1_label": "PERSON",
+        "entity2": "CMK Uygulama Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Diğer Birimler",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Birimler PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "CMK Uygulama Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Birimler PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "CMK Uygulama Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Birimler PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "CMK Uygulama Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Birimler PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "CMK Uygulama Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Birimler PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "CMK Uygulama Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Birimler PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "CMK Uygulama Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Birimler PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "CMK Uygulama Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Birimler PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "CMK Uygulama Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "ANA SAYFA Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birimler PAYLAŞ Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "CMK Uygulama Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Bursa Barosu Personeli İdari Birim Adli Yardım Bürosu CMK Uygulama Merkezi İlçe Temsilcilikleri Diğer Birimler PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 0
+      }
+    ],
+    "total_sentences": 1,
+    "processed_sentences": 1
+  }
+}

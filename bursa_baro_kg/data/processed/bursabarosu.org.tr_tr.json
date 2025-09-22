@@ -1,0 +1,26 @@
+{
+  "url": "https://bursabarosu.org.tr/tr",
+  "title": "BURSA BAROSU",
+  "content": "BİLGİ DANIŞMA MERKEZİ Bilgi edinmenin en kısa yolu! Siz sorun, biz cevaplayalım BİLGİ EDİNME FORMUNU AÇ",
+  "scraped_at": "2025-09-19T17:34:52.825613",
+  "processed_at": "2025-09-19T17:35:05.532230",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "BİLGİ DANIŞMA MERKEZİ",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "BİLGİ DANIŞMA MERKEZİ Bilgi edinmenin en kısa yolu"
+      },
+      {
+        "text": "BİLGİ DANIŞMA",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "BİLGİ DANIŞMA MERKEZİ Bilgi edinmenin en kısa yolu"
+      }
+    ],
+    "relationships": [],
+    "total_sentences": 2,
+    "processed_sentences": 2
+  }
+}

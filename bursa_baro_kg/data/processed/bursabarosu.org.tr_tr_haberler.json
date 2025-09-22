@@ -1,0 +1,1461 @@
+{
+  "url": "https://bursabarosu.org.tr/tr/haberler",
+  "title": "BURSA BAROSU - Haberler",
+  "content": "ANA SAYFA Gündem Haberler Cengiz Göral Makale Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av. M. Cengiz Göral Makale Yarışması'nın 2025 sonuçları belirlendi. BASIN AÇIKLAMASI GÜNDEM HABER Akbelen basın açıklaması Akbelen Direnişi'nin sembolü Zehra Nine'nin vefatından daha 24 saat geçmeden Muğla'nın Milas ilçesine bağlı İkizköy ve Akbelen'de, YK Enerji / Limak-İçtaş ortaklığıyla yürütülen ve termik santrale kömür sağlama amaçlı projenin ve maden sahası genişletme girişimlerinin yeniden başladığını, zeytinliklerle ormanların yeni bir ekokırımla karşı karşıya kaldığını öğrenmiş bulunmaktayız. BASIN AÇIKLAMASI GÜNDEM HABER Av. Özgür Aksoy Şiir Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av. Özgür Aksoy Şiir Yarışması'nın 2025 sonuçları belirlendi. BASIN AÇIKLAMASI GÜNDEM HABER Öztosun, İmamoğlu'nun diploma davasındaydı Bursa Barosu Başkanı Av.Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı. GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı. Toplantıda kente ait sorunlar konuşuldu. GÜNDEM HABER “TUTUKLU SAVUNMAYI” REDDEDİYORUZ Barolardan ortak açıklama: Avukatlık faaliyetleri nedeniyle hukuka aykırı şekilde tutuklu bulunan meslektaşımız Av. Mehmet Pehlivan; bağımsız savunmanın sembolü olan cübbesinden ve savunmanın yapılması için gerekli uygun koşullardan mahrum bırakılmış, müvekkilini cezaevinden SEGBİS aracılığıyla savunmak zorunda kalmıştır. BASIN AÇIKLAMASI GÜNDEM HABER İstanbul Barosu'nun yanındayız İstanbul Barosu Başkan ve yönetim kurulu üyelerinin yaptıkları bir açıklama sebebiyle halkı yanıltıcı bilgiyi alenen yayma ve terör örgütü propagandası yapmak suçlamasıyla yargılandığı davanın Silivri'de yapılan duruşmasına Bursa Barosu Başkanı Av.Metin Öztosun, başkan yardımcısı Av.Aslı Evke Yetkin, genel sekreter Av.Yener Poroy ile genç yk Av. Metin Gökalp katıldı. BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr. Mesut Bilen, Bursa Barosu'na iadei ziyarette bulundu. GÜNDEM HABER Hukukun Siyasallaştırılmasını Reddediyoruz Barolar, CHP İstanbul İl Yönetimine kayyum atanmasıyla ilgili ortak açıklama yaptı. BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu. BASIN AÇIKLAMASI GÜNDEM HABER « 1 2 3 4 ... 114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+  "scraped_at": "2025-09-19T17:34:18.111312",
+  "processed_at": "2025-09-19T17:35:05.833426",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Gündem Haberler Cengiz",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Cengiz Göral Makale Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av"
+      },
+      {
+        "text": "Göral Makale Yarışması",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Cengiz Göral Makale Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av"
+      },
+      {
+        "text": "Bursa Barosu",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Cengiz Göral Makale Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av"
+      },
+      {
+        "text": "oldu Bursa Barosu'nun",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Cengiz Göral Makale Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av"
+      },
+      {
+        "text": "Bursa",
+        "label": "LOCATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Cengiz Göral Makale Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av"
+      },
+      {
+        "text": "Cengiz Göral Makale",
+        "label": "PERSON",
+        "sentence_idx": 2,
+        "sentence": "Cengiz Göral Makale Yarışması'nın 2025 sonuçları belirlendi"
+      },
+      {
+        "text": "Akbelen Direnişi",
+        "label": "PERSON",
+        "sentence_idx": 3,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Akbelen basın açıklaması Akbelen Direnişi'nin sembolü Zehra Nine'nin vefatından daha 24 saat geçmeden Muğla'nın Milas ilçesine bağlı İkizköy ve Akbelen'de, YK Enerji / Limak-İçtaş ortaklığıyla yürütülen ve termik santrale kömür sağlama amaçlı projenin ve maden sahası genişletme girişimlerinin yeniden başladığını, zeytinliklerle ormanların yeni bir ekokırımla karşı karşıya kaldığını öğrenmiş bulunmaktayız"
+      },
+      {
+        "text": "Zehra Nine",
+        "label": "PERSON",
+        "sentence_idx": 3,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Akbelen basın açıklaması Akbelen Direnişi'nin sembolü Zehra Nine'nin vefatından daha 24 saat geçmeden Muğla'nın Milas ilçesine bağlı İkizköy ve Akbelen'de, YK Enerji / Limak-İçtaş ortaklığıyla yürütülen ve termik santrale kömür sağlama amaçlı projenin ve maden sahası genişletme girişimlerinin yeniden başladığını, zeytinliklerle ormanların yeni bir ekokırımla karşı karşıya kaldığını öğrenmiş bulunmaktayız"
+      },
+      {
+        "text": "Özgür Aksoy Şiir",
+        "label": "PERSON",
+        "sentence_idx": 5,
+        "sentence": "Özgür Aksoy Şiir Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av"
+      },
+      {
+        "text": "Bursa Barosu Başkanı",
+        "label": "PERSON",
+        "sentence_idx": 7,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Öztosun, İmamoğlu'nun diploma davasındaydı Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "davasındaydı Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 7,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Öztosun, İmamoğlu'nun diploma davasındaydı Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "Metin Öztosun",
+        "label": "PERSON",
+        "sentence_idx": 8,
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı"
+      },
+      {
+        "text": "Silivri Cezaevi",
+        "label": "PERSON",
+        "sentence_idx": 8,
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı"
+      },
+      {
+        "text": "Büyükşehir Belediye Başkanı",
+        "label": "PERSON",
+        "sentence_idx": 8,
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı"
+      },
+      {
+        "text": "Asliye Ceza Mahkemesi",
+        "label": "PERSON",
+        "sentence_idx": 8,
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı"
+      },
+      {
+        "text": "Çağlayan Adliyesi",
+        "label": "PERSON",
+        "sentence_idx": 8,
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı"
+      },
+      {
+        "text": "Ceza Mahkemesi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 8,
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı"
+      },
+      {
+        "text": "İstanbul",
+        "label": "LOCATION",
+        "sentence_idx": 8,
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı"
+      },
+      {
+        "text": "Mahkemesi",
+        "label": "LEGAL_TERM",
+        "sentence_idx": 8,
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı"
+      },
+      {
+        "text": "Bursa Barosu Başkanlığı",
+        "label": "PERSON",
+        "sentence_idx": 9,
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı"
+      },
+      {
+        "text": "Bursa Akademik Odalar",
+        "label": "PERSON",
+        "sentence_idx": 9,
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı"
+      },
+      {
+        "text": "Bursa Büyükşehir Belediyesi",
+        "label": "PERSON",
+        "sentence_idx": 9,
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı"
+      },
+      {
+        "text": "Başkanı Mustafa Bozbey",
+        "label": "PERSON",
+        "sentence_idx": 9,
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı"
+      },
+      {
+        "text": "sözcülüğünü Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 9,
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı"
+      },
+      {
+        "text": "Barosu Başkanlığı",
+        "label": "ORGANIZATION",
+        "sentence_idx": 9,
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı"
+      },
+      {
+        "text": "nın yaptığı Bursa Akademik Odalar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 9,
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı"
+      },
+      {
+        "text": "Mehmet Pehlivan",
+        "label": "PERSON",
+        "sentence_idx": 12,
+        "sentence": "Mehmet Pehlivan; bağımsız savunmanın sembolü olan cübbesinden ve savunmanın yapılması için gerekli uygun koşullardan mahrum bırakılmış, müvekkilini cezaevinden SEGBİS aracılığıyla savunmak zorunda kalmıştır"
+      },
+      {
+        "text": "Barosu Başkan",
+        "label": "PERSON",
+        "sentence_idx": 13,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER İstanbul Barosu'nun yanındayız İstanbul Barosu Başkan ve yönetim kurulu üyelerinin yaptıkları bir açıklama sebebiyle halkı yanıltıcı bilgiyi alenen yayma ve terör örgütü propagandası yapmak suçlamasıyla yargılandığı davanın Silivri'de yapılan duruşmasına Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "HABER İstanbul Barosu'nun",
+        "label": "ORGANIZATION",
+        "sentence_idx": 13,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER İstanbul Barosu'nun yanındayız İstanbul Barosu Başkan ve yönetim kurulu üyelerinin yaptıkları bir açıklama sebebiyle halkı yanıltıcı bilgiyi alenen yayma ve terör örgütü propagandası yapmak suçlamasıyla yargılandığı davanın Silivri'de yapılan duruşmasına Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "duruşmasına Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 13,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER İstanbul Barosu'nun yanındayız İstanbul Barosu Başkan ve yönetim kurulu üyelerinin yaptıkları bir açıklama sebebiyle halkı yanıltıcı bilgiyi alenen yayma ve terör örgütü propagandası yapmak suçlamasıyla yargılandığı davanın Silivri'de yapılan duruşmasına Bursa Barosu Başkanı Av"
+      },
+      {
+        "text": "Aslı Evke Yetkin",
+        "label": "PERSON",
+        "sentence_idx": 15,
+        "sentence": "Aslı Evke Yetkin, genel sekreter Av"
+      },
+      {
+        "text": "Yener Poroy",
+        "label": "PERSON",
+        "sentence_idx": 16,
+        "sentence": "Yener Poroy ile genç yk Av"
+      },
+      {
+        "text": "Metin Gökalp",
+        "label": "PERSON",
+        "sentence_idx": 17,
+        "sentence": "Metin Gökalp katıldı"
+      },
+      {
+        "text": "Komisyon Başkanı Bilen",
+        "label": "PERSON",
+        "sentence_idx": 18,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr"
+      },
+      {
+        "text": "Bursa Adli Yargı",
+        "label": "PERSON",
+        "sentence_idx": 18,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr"
+      },
+      {
+        "text": "Derece Mahkemesi Adalet",
+        "label": "PERSON",
+        "sentence_idx": 18,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr"
+      },
+      {
+        "text": "Komisyonu Başkanı",
+        "label": "PERSON",
+        "sentence_idx": 18,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr"
+      },
+      {
+        "text": "Başkanı Bilen'den Baro'ya",
+        "label": "ORGANIZATION",
+        "sentence_idx": 18,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr"
+      },
+      {
+        "text": "Derece Mahkemesi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 18,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr"
+      },
+      {
+        "text": "Mesut Bilen",
+        "label": "PERSON",
+        "sentence_idx": 19,
+        "sentence": "Mesut Bilen, Bursa Barosu'na iadei ziyarette bulundu"
+      },
+      {
+        "text": "Bilen, Bursa Barosu'na",
+        "label": "ORGANIZATION",
+        "sentence_idx": 19,
+        "sentence": "Mesut Bilen, Bursa Barosu'na iadei ziyarette bulundu"
+      },
+      {
+        "text": "Hukukun Siyasallaştırılmasını Reddediyoruz",
+        "label": "PERSON",
+        "sentence_idx": 20,
+        "sentence": "GÜNDEM HABER Hukukun Siyasallaştırılmasını Reddediyoruz Barolar, CHP İstanbul İl Yönetimine kayyum atanmasıyla ilgili ortak açıklama yaptı"
+      },
+      {
+        "text": "Adalet Bakanlığı",
+        "label": "PERSON",
+        "sentence_idx": 21,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu"
+      },
+      {
+        "text": "Anayasa Mahkemesi",
+        "label": "PERSON",
+        "sentence_idx": 21,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu"
+      },
+      {
+        "text": "için Bursa Barosu'nca",
+        "label": "ORGANIZATION",
+        "sentence_idx": 21,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu"
+      },
+      {
+        "text": "Anayasa Mahkemesi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 21,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu"
+      },
+      {
+        "text": "Adalet Bakanlığı",
+        "label": "ORGANIZATION",
+        "sentence_idx": 21,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu"
+      },
+      {
+        "text": "Barosu'nca Adalet Bakanlığı'na",
+        "label": "ORGANIZATION",
+        "sentence_idx": 21,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu"
+      },
+      {
+        "text": "avukat",
+        "label": "LEGAL_TERM",
+        "sentence_idx": 21,
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu"
+      },
+      {
+        "text": "Gündem Sosyal Sorumluluk",
+        "label": "PERSON",
+        "sentence_idx": 23,
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
+      },
+      {
+        "text": "Çalışmaları Baro Medya",
+        "label": "PERSON",
+        "sentence_idx": 23,
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
+      },
+      {
+        "text": "Basında Bursa Barosu",
+        "label": "PERSON",
+        "sentence_idx": 23,
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
+      },
+      {
+        "text": "Basın Açıklamaları",
+        "label": "PERSON",
+        "sentence_idx": 23,
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
+      },
+      {
+        "text": "Duyuruları Duyurular Daha",
+        "label": "PERSON",
+        "sentence_idx": 23,
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
+      },
+      {
+        "text": "Sorumluluk Çalışmaları Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 23,
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Gündem Haberler Cengiz",
+        "entity1_label": "PERSON",
+        "entity2": "oldu Bursa Barosu'nun",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Cengiz Göral Makale Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Gündem Haberler Cengiz",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Cengiz Göral Makale Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Göral Makale Yarışması",
+        "entity1_label": "PERSON",
+        "entity2": "oldu Bursa Barosu'nun",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Cengiz Göral Makale Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Göral Makale Yarışması",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Cengiz Göral Makale Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "oldu Bursa Barosu'nun",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Cengiz Göral Makale Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Cengiz Göral Makale Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "oldu Bursa Barosu'nun",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Cengiz Göral Makale Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Özgür Aksoy Şiir",
+        "entity1_label": "PERSON",
+        "entity2": "oldu Bursa Barosu'nun",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Özgür Aksoy Şiir Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "Özgür Aksoy Şiir",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Özgür Aksoy Şiir Yarışması'nın sonuçları belli oldu Bursa Barosu'nun geleneksel hale getirdiği Av",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "Bursa Barosu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "davasındaydı Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Öztosun, İmamoğlu'nun diploma davasındaydı Bursa Barosu Başkanı Av",
+        "sentence_idx": 7
+      },
+      {
+        "entity1": "Bursa Barosu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Öztosun, İmamoğlu'nun diploma davasındaydı Bursa Barosu Başkanı Av",
+        "sentence_idx": 7
+      },
+      {
+        "entity1": "davasındaydı Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Öztosun, İmamoğlu'nun diploma davasındaydı Bursa Barosu Başkanı Av",
+        "sentence_idx": 7
+      },
+      {
+        "entity1": "Metin Öztosun",
+        "entity1_label": "PERSON",
+        "entity2": "Ceza Mahkemesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Metin Öztosun",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Metin Öztosun",
+        "entity1_label": "PERSON",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Silivri Cezaevi",
+        "entity1_label": "PERSON",
+        "entity2": "Ceza Mahkemesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Silivri Cezaevi",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Silivri Cezaevi",
+        "entity1_label": "PERSON",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Büyükşehir Belediye Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "Ceza Mahkemesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Büyükşehir Belediye Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Büyükşehir Belediye Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Asliye Ceza Mahkemesi",
+        "entity1_label": "PERSON",
+        "entity2": "Ceza Mahkemesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Asliye Ceza Mahkemesi",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Asliye Ceza Mahkemesi",
+        "entity1_label": "PERSON",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Çağlayan Adliyesi",
+        "entity1_label": "PERSON",
+        "entity2": "Ceza Mahkemesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Çağlayan Adliyesi",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Çağlayan Adliyesi",
+        "entity1_label": "PERSON",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Ceza Mahkemesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Ceza Mahkemesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "İstanbul",
+        "entity1_label": "LOCATION",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Metin Öztosun halen Silivri Cezaevi'nde tutuklu bulunan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun diploma iptalinden sonra aynı diploma ile ilgili hapis istemiyle yargılandığı İstanbul Asliye Ceza Mahkemesi'nin Çağlayan Adliyesi'nden Silivri durusma salonuna nakledilerek yapılan duruşmasına katıldı",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Bursa Barosu Başkanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "sözcülüğünü Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Bursa Barosu Başkanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "Barosu Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Bursa Barosu Başkanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "nın yaptığı Bursa Akademik Odalar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Bursa Barosu Başkanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Bursa Akademik Odalar",
+        "entity1_label": "PERSON",
+        "entity2": "sözcülüğünü Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Bursa Akademik Odalar",
+        "entity1_label": "PERSON",
+        "entity2": "Barosu Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Bursa Akademik Odalar",
+        "entity1_label": "PERSON",
+        "entity2": "nın yaptığı Bursa Akademik Odalar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Bursa Akademik Odalar",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Bursa Büyükşehir Belediyesi",
+        "entity1_label": "PERSON",
+        "entity2": "sözcülüğünü Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Bursa Büyükşehir Belediyesi",
+        "entity1_label": "PERSON",
+        "entity2": "Barosu Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Bursa Büyükşehir Belediyesi",
+        "entity1_label": "PERSON",
+        "entity2": "nın yaptığı Bursa Akademik Odalar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Bursa Büyükşehir Belediyesi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Başkanı Mustafa Bozbey",
+        "entity1_label": "PERSON",
+        "entity2": "sözcülüğünü Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Başkanı Mustafa Bozbey",
+        "entity1_label": "PERSON",
+        "entity2": "Barosu Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Başkanı Mustafa Bozbey",
+        "entity1_label": "PERSON",
+        "entity2": "nın yaptığı Bursa Akademik Odalar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Başkanı Mustafa Bozbey",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "sözcülüğünü Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Barosu Başkanlığı",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "nın yaptığı Bursa Akademik Odalar Birliği",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Bozbey, BAOB toplantısına katıldı Dönem sözcülüğünü Bursa Barosu Başkanlığı'nın yaptığı Bursa Akademik Odalar Birliği'nin aylık olağan toplantısına Bursa Büyükşehir Belediyesi Başkanı Mustafa Bozbey katıldı",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Barosu Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "HABER İstanbul Barosu'nun",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER İstanbul Barosu'nun yanındayız İstanbul Barosu Başkan ve yönetim kurulu üyelerinin yaptıkları bir açıklama sebebiyle halkı yanıltıcı bilgiyi alenen yayma ve terör örgütü propagandası yapmak suçlamasıyla yargılandığı davanın Silivri'de yapılan duruşmasına Bursa Barosu Başkanı Av",
+        "sentence_idx": 13
+      },
+      {
+        "entity1": "Barosu Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "duruşmasına Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER İstanbul Barosu'nun yanındayız İstanbul Barosu Başkan ve yönetim kurulu üyelerinin yaptıkları bir açıklama sebebiyle halkı yanıltıcı bilgiyi alenen yayma ve terör örgütü propagandası yapmak suçlamasıyla yargılandığı davanın Silivri'de yapılan duruşmasına Bursa Barosu Başkanı Av",
+        "sentence_idx": 13
+      },
+      {
+        "entity1": "Barosu Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER İstanbul Barosu'nun yanındayız İstanbul Barosu Başkan ve yönetim kurulu üyelerinin yaptıkları bir açıklama sebebiyle halkı yanıltıcı bilgiyi alenen yayma ve terör örgütü propagandası yapmak suçlamasıyla yargılandığı davanın Silivri'de yapılan duruşmasına Bursa Barosu Başkanı Av",
+        "sentence_idx": 13
+      },
+      {
+        "entity1": "Barosu Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER İstanbul Barosu'nun yanındayız İstanbul Barosu Başkan ve yönetim kurulu üyelerinin yaptıkları bir açıklama sebebiyle halkı yanıltıcı bilgiyi alenen yayma ve terör örgütü propagandası yapmak suçlamasıyla yargılandığı davanın Silivri'de yapılan duruşmasına Bursa Barosu Başkanı Av",
+        "sentence_idx": 13
+      },
+      {
+        "entity1": "Bursa Barosu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "HABER İstanbul Barosu'nun",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER İstanbul Barosu'nun yanındayız İstanbul Barosu Başkan ve yönetim kurulu üyelerinin yaptıkları bir açıklama sebebiyle halkı yanıltıcı bilgiyi alenen yayma ve terör örgütü propagandası yapmak suçlamasıyla yargılandığı davanın Silivri'de yapılan duruşmasına Bursa Barosu Başkanı Av",
+        "sentence_idx": 13
+      },
+      {
+        "entity1": "Bursa Barosu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "duruşmasına Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER İstanbul Barosu'nun yanındayız İstanbul Barosu Başkan ve yönetim kurulu üyelerinin yaptıkları bir açıklama sebebiyle halkı yanıltıcı bilgiyi alenen yayma ve terör örgütü propagandası yapmak suçlamasıyla yargılandığı davanın Silivri'de yapılan duruşmasına Bursa Barosu Başkanı Av",
+        "sentence_idx": 13
+      },
+      {
+        "entity1": "Bursa Barosu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER İstanbul Barosu'nun yanındayız İstanbul Barosu Başkan ve yönetim kurulu üyelerinin yaptıkları bir açıklama sebebiyle halkı yanıltıcı bilgiyi alenen yayma ve terör örgütü propagandası yapmak suçlamasıyla yargılandığı davanın Silivri'de yapılan duruşmasına Bursa Barosu Başkanı Av",
+        "sentence_idx": 13
+      },
+      {
+        "entity1": "HABER İstanbul Barosu'nun",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER İstanbul Barosu'nun yanındayız İstanbul Barosu Başkan ve yönetim kurulu üyelerinin yaptıkları bir açıklama sebebiyle halkı yanıltıcı bilgiyi alenen yayma ve terör örgütü propagandası yapmak suçlamasıyla yargılandığı davanın Silivri'de yapılan duruşmasına Bursa Barosu Başkanı Av",
+        "sentence_idx": 13
+      },
+      {
+        "entity1": "HABER İstanbul Barosu'nun",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER İstanbul Barosu'nun yanındayız İstanbul Barosu Başkan ve yönetim kurulu üyelerinin yaptıkları bir açıklama sebebiyle halkı yanıltıcı bilgiyi alenen yayma ve terör örgütü propagandası yapmak suçlamasıyla yargılandığı davanın Silivri'de yapılan duruşmasına Bursa Barosu Başkanı Av",
+        "sentence_idx": 13
+      },
+      {
+        "entity1": "duruşmasına Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER İstanbul Barosu'nun yanındayız İstanbul Barosu Başkan ve yönetim kurulu üyelerinin yaptıkları bir açıklama sebebiyle halkı yanıltıcı bilgiyi alenen yayma ve terör örgütü propagandası yapmak suçlamasıyla yargılandığı davanın Silivri'de yapılan duruşmasına Bursa Barosu Başkanı Av",
+        "sentence_idx": 13
+      },
+      {
+        "entity1": "duruşmasına Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER İstanbul Barosu'nun yanındayız İstanbul Barosu Başkan ve yönetim kurulu üyelerinin yaptıkları bir açıklama sebebiyle halkı yanıltıcı bilgiyi alenen yayma ve terör örgütü propagandası yapmak suçlamasıyla yargılandığı davanın Silivri'de yapılan duruşmasına Bursa Barosu Başkanı Av",
+        "sentence_idx": 13
+      },
+      {
+        "entity1": "Komisyon Başkanı Bilen",
+        "entity1_label": "PERSON",
+        "entity2": "Başkanı Bilen'den Baro'ya",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Komisyon Başkanı Bilen",
+        "entity1_label": "PERSON",
+        "entity2": "Derece Mahkemesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Komisyon Başkanı Bilen",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Komisyon Başkanı Bilen",
+        "entity1_label": "PERSON",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Bursa Adli Yargı",
+        "entity1_label": "PERSON",
+        "entity2": "Başkanı Bilen'den Baro'ya",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Bursa Adli Yargı",
+        "entity1_label": "PERSON",
+        "entity2": "Derece Mahkemesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Bursa Adli Yargı",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Bursa Adli Yargı",
+        "entity1_label": "PERSON",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Derece Mahkemesi Adalet",
+        "entity1_label": "PERSON",
+        "entity2": "Başkanı Bilen'den Baro'ya",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Derece Mahkemesi Adalet",
+        "entity1_label": "PERSON",
+        "entity2": "Derece Mahkemesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Derece Mahkemesi Adalet",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Derece Mahkemesi Adalet",
+        "entity1_label": "PERSON",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Komisyonu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "Başkanı Bilen'den Baro'ya",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Komisyonu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "Derece Mahkemesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Komisyonu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Komisyonu Başkanı",
+        "entity1_label": "PERSON",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Başkanı Bilen'den Baro'ya",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Başkanı Bilen'den Baro'ya",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Derece Mahkemesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Derece Mahkemesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Bursa",
+        "entity1_label": "LOCATION",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER Komisyon Başkanı Bilen'den Baro'ya iadei ziyaret Bursa Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Dr",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Mesut Bilen",
+        "entity1_label": "PERSON",
+        "entity2": "Bilen, Bursa Barosu'na",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Mesut Bilen, Bursa Barosu'na iadei ziyarette bulundu",
+        "sentence_idx": 19
+      },
+      {
+        "entity1": "Mesut Bilen",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Mesut Bilen, Bursa Barosu'na iadei ziyarette bulundu",
+        "sentence_idx": 19
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bilen, Bursa Barosu'na",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Mesut Bilen, Bursa Barosu'na iadei ziyarette bulundu",
+        "sentence_idx": 19
+      },
+      {
+        "entity1": "Bilen, Bursa Barosu'na",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Mesut Bilen, Bursa Barosu'na iadei ziyarette bulundu",
+        "sentence_idx": 19
+      },
+      {
+        "entity1": "Hukukun Siyasallaştırılmasını Reddediyoruz",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜNDEM HABER Hukukun Siyasallaştırılmasını Reddediyoruz Barolar, CHP İstanbul İl Yönetimine kayyum atanmasıyla ilgili ortak açıklama yaptı",
+        "sentence_idx": 20
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "için Bursa Barosu'nca",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Anayasa Mahkemesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Adalet Bakanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Barosu'nca Adalet Bakanlığı'na",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Adalet Bakanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "için Bursa Barosu'nca",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Adalet Bakanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "Anayasa Mahkemesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Adalet Bakanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "Adalet Bakanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Adalet Bakanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "Barosu'nca Adalet Bakanlığı'na",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Adalet Bakanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Adalet Bakanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Adalet Bakanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Anayasa Mahkemesi",
+        "entity1_label": "PERSON",
+        "entity2": "için Bursa Barosu'nca",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Anayasa Mahkemesi",
+        "entity1_label": "PERSON",
+        "entity2": "Anayasa Mahkemesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Anayasa Mahkemesi",
+        "entity1_label": "PERSON",
+        "entity2": "Adalet Bakanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Anayasa Mahkemesi",
+        "entity1_label": "PERSON",
+        "entity2": "Barosu'nca Adalet Bakanlığı'na",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Anayasa Mahkemesi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Anayasa Mahkemesi",
+        "entity1_label": "PERSON",
+        "entity2": "avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Anayasa Mahkemesi",
+        "entity1_label": "PERSON",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "için Bursa Barosu'nca",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "için Bursa Barosu'nca",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "için Bursa Barosu'nca",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Barosu'nca Adalet Bakanlığı'na",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Barosu'nca Adalet Bakanlığı'na",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Barosu'nca Adalet Bakanlığı'na",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Mahkemesi",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Bursa",
+        "entity1_label": "LOCATION",
+        "entity2": "avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "BASIN AÇIKLAMASI GÜNDEM HABER AYM bireysel başvurularının UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuru yapıldı Adalete erişimin çağın gereksinimleri doğrultusunda hızlandırılması, fiziki başvuru sırasında yaşanan zorlukların giderilebilmesi ve hak arama özgürlüğünün tam manasıyla sağlanması için diğer yargı yolu başvuru usullerinde olduğu gibi Anayasa Mahkemesi'ne bireysel başvuruların UYAP avukat portal üzerinden de yapılabilmesi için Bursa Barosu'nca Adalet Bakanlığı'na başvuruda bulunuldu",
+        "sentence_idx": 21
+      },
+      {
+        "entity1": "Gündem Sosyal Sorumluluk",
+        "entity1_label": "PERSON",
+        "entity2": "Sorumluluk Çalışmaları Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 23
+      },
+      {
+        "entity1": "Gündem Sosyal Sorumluluk",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 23
+      },
+      {
+        "entity1": "Çalışmaları Baro Medya",
+        "entity1_label": "PERSON",
+        "entity2": "Sorumluluk Çalışmaları Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 23
+      },
+      {
+        "entity1": "Çalışmaları Baro Medya",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 23
+      },
+      {
+        "entity1": "Basında Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Sorumluluk Çalışmaları Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 23
+      },
+      {
+        "entity1": "Basında Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 23
+      },
+      {
+        "entity1": "Basın Açıklamaları",
+        "entity1_label": "PERSON",
+        "entity2": "Sorumluluk Çalışmaları Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 23
+      },
+      {
+        "entity1": "Basın Açıklamaları",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 23
+      },
+      {
+        "entity1": "Duyuruları Duyurular Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Sorumluluk Çalışmaları Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 23
+      },
+      {
+        "entity1": "Duyuruları Duyurular Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 23
+      },
+      {
+        "entity1": "Sorumluluk Çalışmaları Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "114 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
+        "sentence_idx": 23
+      }
+    ],
+    "total_sentences": 24,
+    "processed_sentences": 23
+  }
+}

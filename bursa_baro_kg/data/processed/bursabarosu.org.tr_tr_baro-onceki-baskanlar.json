@@ -1,0 +1,96 @@
+{
+  "url": "https://bursabarosu.org.tr/tr/baro-onceki-baskanlar",
+  "title": "BURSA BAROSU - Önceki Başkanlar",
+  "content": "ANA SAYFA Baro Tarihçe Önceki Başkanlar Av. Osman Nuri ÖZPAY (1918 - 1919) Av. Ali NAZMİ (1919 - 1920) Av. Muhittin Baha PARS 1920 - 1921 1922 - 1923 Av. Enver MISRIZADE (1921 - 1922) Av. Mehmet Senihi YAŞMUT (1924 - 1926) Av. Ahmet Hulusi KÖYMEN (1926 - 1930) (1940 - 1944) Av. Cemil ÖZ (1930 - 1931) (1944 - 1946) Av. Numan Naim AKŞİT (1931 - 1933) Av. Kemal Ziya DEMİREL (1933 - 1940) (1946 - 1954) Av. Şinasi BEKEN (1954 - 1959) Av. Selahattin ÇANGA (1959 - 1963) Av. Mehmet Zeki YÜCEL (1963 - 1969) Av. İlhan SOMER (1969 - 1972) Av. Turgut BULUT (1972 - 1976) Av. Şükrü AKMANSOY (1976 - 1978) Av. Dr. Osman Oğuz ÖĞÜN (1978 - 1985) Av. Emin ERGİN (1985 - 1988) Av. İsmail ACAR (1988 - 1990) Av. Yahya ŞİMŞEK (1990 - 1995) Av. Ali ARABACI (1996 - 1999) Av. Çetin GÖZ (1999 - 2000) Av. Ramazan HOÇA (2000 - 2002) Av. Asude ŞENOL (2002 - 2008) Av. Zeki KAHRAMAN (2008 - 2011) Av. Zekeriya BİRKAN (2011 - 2012) Av. Ekrem DEMİRÖZ (2012 - 2016) Av. Gürkan ALTUN (2016 - 2022) Av. Metin ÖZTOSUN (2022-2024) PAYLAŞ Tarihçe Önceki Başkanlar Önceki Kurullar Daha Fazlası",
+  "scraped_at": "2025-09-19T17:34:47.111083",
+  "processed_at": "2025-09-19T17:35:05.649757",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Baro Tarihçe Önceki",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Önceki Başkanlar Av"
+      },
+      {
+        "text": "ANA SAYFA Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Önceki Başkanlar Av"
+      },
+      {
+        "text": "Osman Nuri",
+        "label": "PERSON",
+        "sentence_idx": 1,
+        "sentence": "Osman Nuri ÖZPAY (1918 - 1919) Av"
+      },
+      {
+        "text": "Muhittin Baha",
+        "label": "PERSON",
+        "sentence_idx": 3,
+        "sentence": "Muhittin Baha PARS 1920 - 1921 1922 - 1923 Av"
+      },
+      {
+        "text": "Mehmet Senihi",
+        "label": "PERSON",
+        "sentence_idx": 5,
+        "sentence": "Mehmet Senihi YAŞMUT (1924 - 1926) Av"
+      },
+      {
+        "text": "Ahmet Hulusi",
+        "label": "PERSON",
+        "sentence_idx": 6,
+        "sentence": "Ahmet Hulusi KÖYMEN (1926 - 1930) (1940 - 1944) Av"
+      },
+      {
+        "text": "Numan Naim",
+        "label": "PERSON",
+        "sentence_idx": 8,
+        "sentence": "Numan Naim AKŞİT (1931 - 1933) Av"
+      },
+      {
+        "text": "Kemal Ziya",
+        "label": "PERSON",
+        "sentence_idx": 9,
+        "sentence": "Kemal Ziya DEMİREL (1933 - 1940) (1946 - 1954) Av"
+      },
+      {
+        "text": "Mehmet Zeki",
+        "label": "PERSON",
+        "sentence_idx": 12,
+        "sentence": "Mehmet Zeki YÜCEL (1963 - 1969) Av"
+      },
+      {
+        "text": "Osman Oğuz",
+        "label": "PERSON",
+        "sentence_idx": 17,
+        "sentence": "Osman Oğuz ÖĞÜN (1978 - 1985) Av"
+      },
+      {
+        "text": "Tarihçe Önceki Başkanlar",
+        "label": "PERSON",
+        "sentence_idx": 29,
+        "sentence": "Metin ÖZTOSUN (2022-2024) PAYLAŞ Tarihçe Önceki Başkanlar Önceki Kurullar Daha Fazlası"
+      },
+      {
+        "text": "Önceki Kurullar Daha",
+        "label": "PERSON",
+        "sentence_idx": 29,
+        "sentence": "Metin ÖZTOSUN (2022-2024) PAYLAŞ Tarihçe Önceki Başkanlar Önceki Kurullar Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Baro Tarihçe Önceki",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Önceki Başkanlar Av",
+        "sentence_idx": 0
+      }
+    ],
+    "total_sentences": 30,
+    "processed_sentences": 29
+  }
+}

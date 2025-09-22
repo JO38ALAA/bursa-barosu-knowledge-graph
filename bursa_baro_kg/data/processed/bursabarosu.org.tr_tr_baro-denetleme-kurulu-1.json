@@ -1,0 +1,1905 @@
+{
+  "url": "https://bursabarosu.org.tr/tr/baro-denetleme-kurulu-1",
+  "title": "BURSA BAROSU - Denetleme Kurulu",
+  "content": "ANA SAYFA Baro Denetleme Kurulu Av. TEZCAN UÇAR DURGUN Av. TEZCAN UÇAR DURGUN Bulgaristan göçmeni bir ailenin üç çocuğundan en küçüğüdür. 1980 Edirne doğumludur. İlk -Orta ve Lise Öğrenimini Bursa'da tamamladı. Lise yıllarında lisanslı olarak hentbol ve taekwondo sporları ile uğraşmıştır. İstanbul Maltepe Üniversitesi Hukuk Fakültesi Mezunudur. 2004 yılında Bursa Barosunda avukatlık mesleğine başlamıştır. Eşi Avukat İlyas Durgun ile kurdukları avukatlık ofisinde 2018 yılından beri serbest avukatlık yapmaktadır. Arabulucudur. 2024-2026 döneminde Bursa Barosu Denetleme Kurulu görevine seçilmiştir. Av. NİLÜFER AYDIN Av. NİLÜFER AYDIN 1993 Orhangazi doğumludur. 2009 Doğu Akdeniz Üniversitesi Hukuk Fakültesi mezunudur. 2011 yılından beri Bursa Barosuna bağlı olarak serbest avukatlık yapmaktadır. 2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır. 2024-2026 döneminde Bursa Barosu Denetleme Kurulu görevine seçilmiştir. Av.SİBEL GÜNDÜZ TOPCU Av.SİBEL GÜNDÜZ TOPCU 1995 Bursa doğumludur. İlk, orta ve lise eğitimini Bursa'da tamamladı. Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır. 2018 yılından bu yana serbest avukatlık yapmaktadır. Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır. 2021 - 2022 ve 2022 - 2024 yıllarında Bursa Barosu Yönetim Kurulu Genç Temsilci Üyeliğinde bulunmuştur. Arabulucudur. 2024-2026 döneminde Bursa Barosu Denetleme Kurulu görevine seçilmiştir. PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+  "scraped_at": "2025-09-19T17:35:01.973302",
+  "processed_at": "2025-09-19T17:35:05.654667",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Baro Denetleme Kurulu",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Denetleme Kurulu Av"
+      },
+      {
+        "text": "ANA SAYFA Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Denetleme Kurulu Av"
+      },
+      {
+        "text": "Lise Öğrenimini Bursa",
+        "label": "PERSON",
+        "sentence_idx": 4,
+        "sentence": "İlk -Orta ve Lise Öğrenimini Bursa'da tamamladı"
+      },
+      {
+        "text": "Bursa",
+        "label": "LOCATION",
+        "sentence_idx": 4,
+        "sentence": "İlk -Orta ve Lise Öğrenimini Bursa'da tamamladı"
+      },
+      {
+        "text": "Maltepe Üniversitesi Hukuk",
+        "label": "PERSON",
+        "sentence_idx": 6,
+        "sentence": "İstanbul Maltepe Üniversitesi Hukuk Fakültesi Mezunudur"
+      },
+      {
+        "text": "Fakültesi Mezunudur",
+        "label": "PERSON",
+        "sentence_idx": 6,
+        "sentence": "İstanbul Maltepe Üniversitesi Hukuk Fakültesi Mezunudur"
+      },
+      {
+        "text": "Maltepe Üniversitesi Hukuk Fakültesi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 6,
+        "sentence": "İstanbul Maltepe Üniversitesi Hukuk Fakültesi Mezunudur"
+      },
+      {
+        "text": "İstanbul",
+        "label": "LOCATION",
+        "sentence_idx": 6,
+        "sentence": "İstanbul Maltepe Üniversitesi Hukuk Fakültesi Mezunudur"
+      },
+      {
+        "text": "Hukuk",
+        "label": "LEGAL_TERM",
+        "sentence_idx": 6,
+        "sentence": "İstanbul Maltepe Üniversitesi Hukuk Fakültesi Mezunudur"
+      },
+      {
+        "text": "Bursa Barosunda",
+        "label": "PERSON",
+        "sentence_idx": 7,
+        "sentence": "2004 yılında Bursa Barosunda avukatlık mesleğine başlamıştır"
+      },
+      {
+        "text": "Eşi Avukat",
+        "label": "PERSON",
+        "sentence_idx": 8,
+        "sentence": "Eşi Avukat İlyas Durgun ile kurdukları avukatlık ofisinde 2018 yılından beri serbest avukatlık yapmaktadır"
+      },
+      {
+        "text": "Avukat",
+        "label": "LEGAL_TERM",
+        "sentence_idx": 8,
+        "sentence": "Eşi Avukat İlyas Durgun ile kurdukları avukatlık ofisinde 2018 yılından beri serbest avukatlık yapmaktadır"
+      },
+      {
+        "text": "Bursa Barosu Denetleme",
+        "label": "PERSON",
+        "sentence_idx": 10,
+        "sentence": "2024-2026 döneminde Bursa Barosu Denetleme Kurulu görevine seçilmiştir"
+      },
+      {
+        "text": "döneminde Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 10,
+        "sentence": "2024-2026 döneminde Bursa Barosu Denetleme Kurulu görevine seçilmiştir"
+      },
+      {
+        "text": "Doğu Akdeniz Üniversitesi",
+        "label": "PERSON",
+        "sentence_idx": 14,
+        "sentence": "2009 Doğu Akdeniz Üniversitesi Hukuk Fakültesi mezunudur"
+      },
+      {
+        "text": "Hukuk Fakültesi",
+        "label": "PERSON",
+        "sentence_idx": 14,
+        "sentence": "2009 Doğu Akdeniz Üniversitesi Hukuk Fakültesi mezunudur"
+      },
+      {
+        "text": "Akdeniz Üniversitesi Hukuk Fakültesi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 14,
+        "sentence": "2009 Doğu Akdeniz Üniversitesi Hukuk Fakültesi mezunudur"
+      },
+      {
+        "text": "Bursa Barosuna",
+        "label": "PERSON",
+        "sentence_idx": 15,
+        "sentence": "2011 yılından beri Bursa Barosuna bağlı olarak serbest avukatlık yapmaktadır"
+      },
+      {
+        "text": "Bursa Valiliği",
+        "label": "PERSON",
+        "sentence_idx": 16,
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır"
+      },
+      {
+        "text": "Hakları Komisyonu Üyeliği",
+        "label": "PERSON",
+        "sentence_idx": 16,
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır"
+      },
+      {
+        "text": "Bursa Barosu Sağlık",
+        "label": "PERSON",
+        "sentence_idx": 16,
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır"
+      },
+      {
+        "text": "Hukuku Komisyonu Başkanlığı",
+        "label": "PERSON",
+        "sentence_idx": 16,
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır"
+      },
+      {
+        "text": "Sağlık Müdürlüğü Akraba",
+        "label": "PERSON",
+        "sentence_idx": 16,
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır"
+      },
+      {
+        "text": "Dışı Organ Nakli",
+        "label": "PERSON",
+        "sentence_idx": 16,
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır"
+      },
+      {
+        "text": "Etik Kurul Üyeliği",
+        "label": "PERSON",
+        "sentence_idx": 16,
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır"
+      },
+      {
+        "text": "arası Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 16,
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır"
+      },
+      {
+        "text": "Komisyonu Başkanlığı",
+        "label": "ORGANIZATION",
+        "sentence_idx": 16,
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır"
+      },
+      {
+        "text": "Sağlık Müdürlüğü",
+        "label": "ORGANIZATION",
+        "sentence_idx": 16,
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır"
+      },
+      {
+        "text": "İl Sağlık Müdürlüğü",
+        "label": "ORGANIZATION",
+        "sentence_idx": 16,
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır"
+      },
+      {
+        "text": "Bursa İl",
+        "label": "LOCATION",
+        "sentence_idx": 16,
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır"
+      },
+      {
+        "text": "Selçuk Üniversitesi Hukuk",
+        "label": "PERSON",
+        "sentence_idx": 22,
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır"
+      },
+      {
+        "text": "Uludağ Üniversitesi Alternatif",
+        "label": "PERSON",
+        "sentence_idx": 22,
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır"
+      },
+      {
+        "text": "Uyuşmazlık Çözümü Anabilim",
+        "label": "PERSON",
+        "sentence_idx": 22,
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır"
+      },
+      {
+        "text": "Selçuk Üniversitesi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 22,
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır"
+      },
+      {
+        "text": "Uludağ Üniversitesi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 22,
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır"
+      },
+      {
+        "text": "Bursa Barosu",
+        "label": "PERSON",
+        "sentence_idx": 24,
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır"
+      },
+      {
+        "text": "Hakları Komisyonu",
+        "label": "PERSON",
+        "sentence_idx": 24,
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır"
+      },
+      {
+        "text": "Yabancılar Komisyonu",
+        "label": "PERSON",
+        "sentence_idx": 24,
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır"
+      },
+      {
+        "text": "Tahkim Komisyonu",
+        "label": "PERSON",
+        "sentence_idx": 24,
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır"
+      },
+      {
+        "text": "Çocuk Hakları Merkezi",
+        "label": "PERSON",
+        "sentence_idx": 24,
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır"
+      },
+      {
+        "text": "Avukat Hakları Merkezinde",
+        "label": "PERSON",
+        "sentence_idx": 24,
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır"
+      },
+      {
+        "text": "Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 24,
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır"
+      },
+      {
+        "text": "Çocuk Hakları Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 24,
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır"
+      },
+      {
+        "text": "Bursa Barosu Yönetim",
+        "label": "PERSON",
+        "sentence_idx": 25,
+        "sentence": "2021 - 2022 ve 2022 - 2024 yıllarında Bursa Barosu Yönetim Kurulu Genç Temsilci Üyeliğinde bulunmuştur"
+      },
+      {
+        "text": "Kurulu Genç Temsilci",
+        "label": "PERSON",
+        "sentence_idx": 25,
+        "sentence": "2021 - 2022 ve 2022 - 2024 yıllarında Bursa Barosu Yönetim Kurulu Genç Temsilci Üyeliğinde bulunmuştur"
+      },
+      {
+        "text": "yıllarında Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 25,
+        "sentence": "2021 - 2022 ve 2022 - 2024 yıllarında Bursa Barosu Yönetim Kurulu Genç Temsilci Üyeliğinde bulunmuştur"
+      },
+      {
+        "text": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "label": "PERSON",
+        "sentence_idx": 28,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Baro Tarihçe Başkan",
+        "label": "PERSON",
+        "sentence_idx": 28,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Yönetim Kurulu Disiplin",
+        "label": "PERSON",
+        "sentence_idx": 28,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Kurulu Denetleme Kurulu",
+        "label": "PERSON",
+        "sentence_idx": 28,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Türkiye Barolar Birliği",
+        "label": "PERSON",
+        "sentence_idx": 28,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Temsilcilikleri Bursa Barosu",
+        "label": "PERSON",
+        "sentence_idx": 28,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Personeli Merkezler Komisyonlar",
+        "label": "PERSON",
+        "sentence_idx": 28,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Servisler Baro Meclisi",
+        "label": "PERSON",
+        "sentence_idx": 28,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Basın Kiti Daha",
+        "label": "PERSON",
+        "sentence_idx": 28,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "PAYLAŞ Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 28,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Temsilcilikleri Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 28,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 28,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Türkiye Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 28,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 28,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Baro Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Denetleme Kurulu Av",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Lise Öğrenimini Bursa",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İlk -Orta ve Lise Öğrenimini Bursa'da tamamladı",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Maltepe Üniversitesi Hukuk",
+        "entity1_label": "PERSON",
+        "entity2": "Maltepe Üniversitesi Hukuk Fakültesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İstanbul Maltepe Üniversitesi Hukuk Fakültesi Mezunudur",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Maltepe Üniversitesi Hukuk",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İstanbul Maltepe Üniversitesi Hukuk Fakültesi Mezunudur",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Maltepe Üniversitesi Hukuk",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İstanbul Maltepe Üniversitesi Hukuk Fakültesi Mezunudur",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Fakültesi Mezunudur",
+        "entity1_label": "PERSON",
+        "entity2": "Maltepe Üniversitesi Hukuk Fakültesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İstanbul Maltepe Üniversitesi Hukuk Fakültesi Mezunudur",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Fakültesi Mezunudur",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İstanbul Maltepe Üniversitesi Hukuk Fakültesi Mezunudur",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Fakültesi Mezunudur",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İstanbul Maltepe Üniversitesi Hukuk Fakültesi Mezunudur",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Maltepe Üniversitesi Hukuk Fakültesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İstanbul Maltepe Üniversitesi Hukuk Fakültesi Mezunudur",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Maltepe Üniversitesi Hukuk Fakültesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İstanbul Maltepe Üniversitesi Hukuk Fakültesi Mezunudur",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "İstanbul",
+        "entity1_label": "LOCATION",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İstanbul Maltepe Üniversitesi Hukuk Fakültesi Mezunudur",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Bursa Barosunda",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2004 yılında Bursa Barosunda avukatlık mesleğine başlamıştır",
+        "sentence_idx": 7
+      },
+      {
+        "entity1": "Eşi Avukat",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Eşi Avukat İlyas Durgun ile kurdukları avukatlık ofisinde 2018 yılından beri serbest avukatlık yapmaktadır",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Bursa Barosu Denetleme",
+        "entity1_label": "PERSON",
+        "entity2": "döneminde Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2024-2026 döneminde Bursa Barosu Denetleme Kurulu görevine seçilmiştir",
+        "sentence_idx": 10
+      },
+      {
+        "entity1": "Bursa Barosu Denetleme",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2024-2026 döneminde Bursa Barosu Denetleme Kurulu görevine seçilmiştir",
+        "sentence_idx": 10
+      },
+      {
+        "entity1": "döneminde Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2024-2026 döneminde Bursa Barosu Denetleme Kurulu görevine seçilmiştir",
+        "sentence_idx": 10
+      },
+      {
+        "entity1": "Doğu Akdeniz Üniversitesi",
+        "entity1_label": "PERSON",
+        "entity2": "Akdeniz Üniversitesi Hukuk Fakültesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2009 Doğu Akdeniz Üniversitesi Hukuk Fakültesi mezunudur",
+        "sentence_idx": 14
+      },
+      {
+        "entity1": "Doğu Akdeniz Üniversitesi",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2009 Doğu Akdeniz Üniversitesi Hukuk Fakültesi mezunudur",
+        "sentence_idx": 14
+      },
+      {
+        "entity1": "Hukuk Fakültesi",
+        "entity1_label": "PERSON",
+        "entity2": "Akdeniz Üniversitesi Hukuk Fakültesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2009 Doğu Akdeniz Üniversitesi Hukuk Fakültesi mezunudur",
+        "sentence_idx": 14
+      },
+      {
+        "entity1": "Hukuk Fakültesi",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2009 Doğu Akdeniz Üniversitesi Hukuk Fakültesi mezunudur",
+        "sentence_idx": 14
+      },
+      {
+        "entity1": "Akdeniz Üniversitesi Hukuk Fakültesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2009 Doğu Akdeniz Üniversitesi Hukuk Fakültesi mezunudur",
+        "sentence_idx": 14
+      },
+      {
+        "entity1": "Bursa Barosuna",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2011 yılından beri Bursa Barosuna bağlı olarak serbest avukatlık yapmaktadır",
+        "sentence_idx": 15
+      },
+      {
+        "entity1": "Bursa Valiliği",
+        "entity1_label": "PERSON",
+        "entity2": "arası Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Bursa Valiliği",
+        "entity1_label": "PERSON",
+        "entity2": "Komisyonu Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Bursa Valiliği",
+        "entity1_label": "PERSON",
+        "entity2": "Sağlık Müdürlüğü",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Bursa Valiliği",
+        "entity1_label": "PERSON",
+        "entity2": "İl Sağlık Müdürlüğü",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Bursa Valiliği",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Bursa Valiliği",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa İl",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Hakları Komisyonu Üyeliği",
+        "entity1_label": "PERSON",
+        "entity2": "arası Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Hakları Komisyonu Üyeliği",
+        "entity1_label": "PERSON",
+        "entity2": "Komisyonu Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Hakları Komisyonu Üyeliği",
+        "entity1_label": "PERSON",
+        "entity2": "Sağlık Müdürlüğü",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Hakları Komisyonu Üyeliği",
+        "entity1_label": "PERSON",
+        "entity2": "İl Sağlık Müdürlüğü",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Hakları Komisyonu Üyeliği",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Hakları Komisyonu Üyeliği",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa İl",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Bursa Barosu Sağlık",
+        "entity1_label": "PERSON",
+        "entity2": "arası Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Bursa Barosu Sağlık",
+        "entity1_label": "PERSON",
+        "entity2": "Komisyonu Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Bursa Barosu Sağlık",
+        "entity1_label": "PERSON",
+        "entity2": "Sağlık Müdürlüğü",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Bursa Barosu Sağlık",
+        "entity1_label": "PERSON",
+        "entity2": "İl Sağlık Müdürlüğü",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Bursa Barosu Sağlık",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Bursa Barosu Sağlık",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa İl",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Hukuku Komisyonu Başkanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "arası Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Hukuku Komisyonu Başkanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "Komisyonu Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Hukuku Komisyonu Başkanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "Sağlık Müdürlüğü",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Hukuku Komisyonu Başkanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "İl Sağlık Müdürlüğü",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Hukuku Komisyonu Başkanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Hukuku Komisyonu Başkanlığı",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa İl",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Sağlık Müdürlüğü Akraba",
+        "entity1_label": "PERSON",
+        "entity2": "arası Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Sağlık Müdürlüğü Akraba",
+        "entity1_label": "PERSON",
+        "entity2": "Komisyonu Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Sağlık Müdürlüğü Akraba",
+        "entity1_label": "PERSON",
+        "entity2": "Sağlık Müdürlüğü",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Sağlık Müdürlüğü Akraba",
+        "entity1_label": "PERSON",
+        "entity2": "İl Sağlık Müdürlüğü",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Sağlık Müdürlüğü Akraba",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Sağlık Müdürlüğü Akraba",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa İl",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Dışı Organ Nakli",
+        "entity1_label": "PERSON",
+        "entity2": "arası Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Dışı Organ Nakli",
+        "entity1_label": "PERSON",
+        "entity2": "Komisyonu Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Dışı Organ Nakli",
+        "entity1_label": "PERSON",
+        "entity2": "Sağlık Müdürlüğü",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Dışı Organ Nakli",
+        "entity1_label": "PERSON",
+        "entity2": "İl Sağlık Müdürlüğü",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Dışı Organ Nakli",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Dışı Organ Nakli",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa İl",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Etik Kurul Üyeliği",
+        "entity1_label": "PERSON",
+        "entity2": "arası Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Etik Kurul Üyeliği",
+        "entity1_label": "PERSON",
+        "entity2": "Komisyonu Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Etik Kurul Üyeliği",
+        "entity1_label": "PERSON",
+        "entity2": "Sağlık Müdürlüğü",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Etik Kurul Üyeliği",
+        "entity1_label": "PERSON",
+        "entity2": "İl Sağlık Müdürlüğü",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Etik Kurul Üyeliği",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Etik Kurul Üyeliği",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa İl",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "arası Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "arası Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa İl",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Komisyonu Başkanlığı",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Komisyonu Başkanlığı",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa İl",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Sağlık Müdürlüğü",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Sağlık Müdürlüğü",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa İl",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "İl Sağlık Müdürlüğü",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "İl Sağlık Müdürlüğü",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa İl",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016-2018 arası Bursa Valiliği İnsan Hakları Komisyonu Üyeliği, 2021-2024 arası Bursa Barosu Sağlık Hukuku Komisyonu Başkanlığı, 2022 Bursa İl Sağlık Müdürlüğü Akraba Dışı Organ Nakli Etik Kurul Üyeliği (halen devam etmektedir) görevlerini yapmıştır",
+        "sentence_idx": 16
+      },
+      {
+        "entity1": "Selçuk Üniversitesi Hukuk",
+        "entity1_label": "PERSON",
+        "entity2": "Selçuk Üniversitesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır",
+        "sentence_idx": 22
+      },
+      {
+        "entity1": "Selçuk Üniversitesi Hukuk",
+        "entity1_label": "PERSON",
+        "entity2": "Uludağ Üniversitesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır",
+        "sentence_idx": 22
+      },
+      {
+        "entity1": "Selçuk Üniversitesi Hukuk",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır",
+        "sentence_idx": 22
+      },
+      {
+        "entity1": "Uludağ Üniversitesi Alternatif",
+        "entity1_label": "PERSON",
+        "entity2": "Selçuk Üniversitesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır",
+        "sentence_idx": 22
+      },
+      {
+        "entity1": "Uludağ Üniversitesi Alternatif",
+        "entity1_label": "PERSON",
+        "entity2": "Uludağ Üniversitesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır",
+        "sentence_idx": 22
+      },
+      {
+        "entity1": "Uludağ Üniversitesi Alternatif",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır",
+        "sentence_idx": 22
+      },
+      {
+        "entity1": "Uyuşmazlık Çözümü Anabilim",
+        "entity1_label": "PERSON",
+        "entity2": "Selçuk Üniversitesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır",
+        "sentence_idx": 22
+      },
+      {
+        "entity1": "Uyuşmazlık Çözümü Anabilim",
+        "entity1_label": "PERSON",
+        "entity2": "Uludağ Üniversitesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır",
+        "sentence_idx": 22
+      },
+      {
+        "entity1": "Uyuşmazlık Çözümü Anabilim",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır",
+        "sentence_idx": 22
+      },
+      {
+        "entity1": "Selçuk Üniversitesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır",
+        "sentence_idx": 22
+      },
+      {
+        "entity1": "Uludağ Üniversitesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Selçuk Üniversitesi Hukuk Fakültesinden 2017 yılında mezun olmuş olup Uludağ Üniversitesi Alternatif Uyuşmazlık Çözümü Anabilim dalında yüksek lisans yapmaktadır",
+        "sentence_idx": 22
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Çocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Hakları Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Hakları Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Çocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Hakları Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Hakları Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Yabancılar Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Yabancılar Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Çocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Yabancılar Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Yabancılar Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Tahkim Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Tahkim Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Çocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Tahkim Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Tahkim Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Çocuk Hakları Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Çocuk Hakları Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "Çocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Çocuk Hakları Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Çocuk Hakları Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Avukat Hakları Merkezinde",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Avukat Hakları Merkezinde",
+        "entity1_label": "PERSON",
+        "entity2": "Çocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Avukat Hakları Merkezinde",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Avukat Hakları Merkezinde",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Bursa",
+        "entity1_label": "LOCATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu İnsan Hakları Komisyonu, Mülteciler ve Yabancılar Komisyonu, Tahkim Komisyonu, Çocuk Hakları Merkezi ve Avukat Hakları Merkezinde aktif olarak görev almıştır",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Bursa Barosu Yönetim",
+        "entity1_label": "PERSON",
+        "entity2": "yıllarında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2021 - 2022 ve 2022 - 2024 yıllarında Bursa Barosu Yönetim Kurulu Genç Temsilci Üyeliğinde bulunmuştur",
+        "sentence_idx": 25
+      },
+      {
+        "entity1": "Bursa Barosu Yönetim",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2021 - 2022 ve 2022 - 2024 yıllarında Bursa Barosu Yönetim Kurulu Genç Temsilci Üyeliğinde bulunmuştur",
+        "sentence_idx": 25
+      },
+      {
+        "entity1": "Kurulu Genç Temsilci",
+        "entity1_label": "PERSON",
+        "entity2": "yıllarında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2021 - 2022 ve 2022 - 2024 yıllarında Bursa Barosu Yönetim Kurulu Genç Temsilci Üyeliğinde bulunmuştur",
+        "sentence_idx": 25
+      },
+      {
+        "entity1": "Kurulu Genç Temsilci",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2021 - 2022 ve 2022 - 2024 yıllarında Bursa Barosu Yönetim Kurulu Genç Temsilci Üyeliğinde bulunmuştur",
+        "sentence_idx": 25
+      },
+      {
+        "entity1": "yıllarında Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2021 - 2022 ve 2022 - 2024 yıllarında Bursa Barosu Yönetim Kurulu Genç Temsilci Üyeliğinde bulunmuştur",
+        "sentence_idx": 25
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "PAYLAŞ Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 28
+      }
+    ],
+    "total_sentences": 29,
+    "processed_sentences": 27
+  }
+}

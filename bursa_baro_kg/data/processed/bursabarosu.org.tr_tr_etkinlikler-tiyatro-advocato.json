@@ -1,0 +1,117 @@
+{
+  "url": "https://bursabarosu.org.tr/tr/etkinlikler-tiyatro-advocato",
+  "title": "BURSA BAROSU - Tiyatro Advocato",
+  "content": "ANA SAYFA Etkinlikler Tiyatro Advocato Hakkımızda Tiyatro Haberleri 5. Baro Tiyatroları Festivali Basından Ekibimiz Oyunlarımız Yazılar İletişim PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
+  "scraped_at": "2025-09-19T17:34:35.740436",
+  "processed_at": "2025-09-19T17:35:05.621792",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Etkinlikler Tiyatro Advocato",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Etkinlikler Tiyatro Advocato Hakkımızda Tiyatro Haberleri 5"
+      },
+      {
+        "text": "Hakkımızda Tiyatro Haberleri",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Etkinlikler Tiyatro Advocato Hakkımızda Tiyatro Haberleri 5"
+      },
+      {
+        "text": "Baro Tiyatroları Festivali",
+        "label": "PERSON",
+        "sentence_idx": 1,
+        "sentence": "Baro Tiyatroları Festivali Basından Ekibimiz Oyunlarımız Yazılar İletişim PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
+      },
+      {
+        "text": "Basından Ekibimiz Oyunlarımız",
+        "label": "PERSON",
+        "sentence_idx": 1,
+        "sentence": "Baro Tiyatroları Festivali Basından Ekibimiz Oyunlarımız Yazılar İletişim PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
+      },
+      {
+        "text": "Müzik Aktiviteleri Spor",
+        "label": "PERSON",
+        "sentence_idx": 1,
+        "sentence": "Baro Tiyatroları Festivali Basından Ekibimiz Oyunlarımız Yazılar İletişim PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
+      },
+      {
+        "text": "Aktiviteleri Ruhsat Törenleri",
+        "label": "PERSON",
+        "sentence_idx": 1,
+        "sentence": "Baro Tiyatroları Festivali Basından Ekibimiz Oyunlarımız Yazılar İletişim PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
+      },
+      {
+        "text": "Söyleşiler Daha Fazlası",
+        "label": "PERSON",
+        "sentence_idx": 1,
+        "sentence": "Baro Tiyatroları Festivali Basından Ekibimiz Oyunlarımız Yazılar İletişim PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
+      },
+      {
+        "text": "Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 1,
+        "sentence": "Baro Tiyatroları Festivali Basından Ekibimiz Oyunlarımız Yazılar İletişim PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Baro Tiyatroları Festivali",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Baro Tiyatroları Festivali Basından Ekibimiz Oyunlarımız Yazılar İletişim PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "Basından Ekibimiz Oyunlarımız",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Baro Tiyatroları Festivali Basından Ekibimiz Oyunlarımız Yazılar İletişim PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "Etkinlikler Tiyatro Advocato",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Baro Tiyatroları Festivali Basından Ekibimiz Oyunlarımız Yazılar İletişim PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "Müzik Aktiviteleri Spor",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Baro Tiyatroları Festivali Basından Ekibimiz Oyunlarımız Yazılar İletişim PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "Aktiviteleri Ruhsat Törenleri",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Baro Tiyatroları Festivali Basından Ekibimiz Oyunlarımız Yazılar İletişim PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "Söyleşiler Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Baro Tiyatroları Festivali Basından Ekibimiz Oyunlarımız Yazılar İletişim PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
+        "sentence_idx": 1
+      }
+    ],
+    "total_sentences": 2,
+    "processed_sentences": 2
+  }
+}

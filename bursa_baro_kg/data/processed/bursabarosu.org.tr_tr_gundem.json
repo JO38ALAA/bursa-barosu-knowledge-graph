@@ -1,0 +1,1962 @@
+{
+  "url": "https://bursabarosu.org.tr/tr/gundem",
+  "title": "BURSA BAROSU - Gündem",
+  "content": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+  "scraped_at": "2025-09-19T17:34:23.714915",
+  "processed_at": "2025-09-19T17:35:05.812386",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Gündem Haberler Haberler",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Haber Arşivi",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Haber Fotografları Duyurular",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Bursa Barosu Duyuruları",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Duyuru Arşivi",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Duyuruları Türkiye Barolar",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Birliği Duyuruları Basın",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Açıklamaları Basın Açıklamaları",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Basın Açıklamaları Arşivi",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Fotograflar Basında Bursa",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Barosu Dijital",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Yazılı Basında Yer",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Alan Bursa Barosu",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Haberleri Baro Medya",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Bursa Barosu Dergileri",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Yayınlar Sosyal Sorumluluk",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Ana Dizin Baro",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Etkinlikler Bilgi Bankası",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Merkezi Daha Fazlası",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Duyurular Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Basında Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "a Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Alan Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Ana Dizin Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Türkiye Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "İletişim İlan Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Bursa",
+        "label": "LOCATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Gündem Haberler Haberler",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Gündem Haberler Haberler",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Gündem Haberler Haberler",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Gündem Haberler Haberler",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Gündem Haberler Haberler",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Gündem Haberler Haberler",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Gündem Haberler Haberler",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Gündem Haberler Haberler",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Gündem Haberler Haberler",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Gündem Haberler Haberler",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Fotografları Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Fotografları Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Fotografları Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Fotografları Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Fotografları Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Fotografları Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Fotografları Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Fotografları Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Fotografları Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haber Fotografları Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Duyuruları",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Duyuruları",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Duyuruları",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Duyuruları",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Duyuruları",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Duyuruları",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Duyuruları",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Duyuruları",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Duyuruları",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Duyuruları",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuru Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuru Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuru Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuru Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuru Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuru Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuru Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuru Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuru Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuru Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuruları Türkiye Barolar",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuruları Türkiye Barolar",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuruları Türkiye Barolar",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuruları Türkiye Barolar",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuruları Türkiye Barolar",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuruları Türkiye Barolar",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuruları Türkiye Barolar",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuruları Türkiye Barolar",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuruları Türkiye Barolar",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuruları Türkiye Barolar",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birliği Duyuruları Basın",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birliği Duyuruları Basın",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birliği Duyuruları Basın",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birliği Duyuruları Basın",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birliği Duyuruları Basın",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birliği Duyuruları Basın",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birliği Duyuruları Basın",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birliği Duyuruları Basın",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birliği Duyuruları Basın",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Birliği Duyuruları Basın",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Açıklamaları Basın Açıklamaları",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Açıklamaları Basın Açıklamaları",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Açıklamaları Basın Açıklamaları",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Açıklamaları Basın Açıklamaları",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Açıklamaları Basın Açıklamaları",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Açıklamaları Basın Açıklamaları",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Açıklamaları Basın Açıklamaları",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Açıklamaları Basın Açıklamaları",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Açıklamaları Basın Açıklamaları",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Açıklamaları Basın Açıklamaları",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Açıklamaları Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Açıklamaları Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Açıklamaları Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Açıklamaları Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Açıklamaları Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Açıklamaları Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Açıklamaları Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Açıklamaları Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Açıklamaları Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basın Açıklamaları Arşivi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Fotograflar Basında Bursa",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Fotograflar Basında Bursa",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Fotograflar Basında Bursa",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Fotograflar Basında Bursa",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Fotograflar Basında Bursa",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Fotograflar Basında Bursa",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Fotograflar Basında Bursa",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Fotograflar Basında Bursa",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Fotograflar Basında Bursa",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Fotograflar Basında Bursa",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Barosu Dijital",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Barosu Dijital",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Barosu Dijital",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Barosu Dijital",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Barosu Dijital",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Barosu Dijital",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Barosu Dijital",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Barosu Dijital",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Barosu Dijital",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Barosu Dijital",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yazılı Basında Yer",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yazılı Basında Yer",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yazılı Basında Yer",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yazılı Basında Yer",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yazılı Basında Yer",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yazılı Basında Yer",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yazılı Basında Yer",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yazılı Basında Yer",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yazılı Basında Yer",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yazılı Basında Yer",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Alan Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Alan Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Alan Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Alan Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Alan Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Alan Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Alan Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Alan Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Alan Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Alan Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haberleri Baro Medya",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haberleri Baro Medya",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haberleri Baro Medya",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haberleri Baro Medya",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haberleri Baro Medya",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haberleri Baro Medya",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haberleri Baro Medya",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haberleri Baro Medya",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haberleri Baro Medya",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Haberleri Baro Medya",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Dergileri",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Dergileri",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Dergileri",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Dergileri",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Dergileri",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Dergileri",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Dergileri",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Dergileri",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Dergileri",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bursa Barosu Dergileri",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yayınlar Sosyal Sorumluluk",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yayınlar Sosyal Sorumluluk",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yayınlar Sosyal Sorumluluk",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yayınlar Sosyal Sorumluluk",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yayınlar Sosyal Sorumluluk",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yayınlar Sosyal Sorumluluk",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yayınlar Sosyal Sorumluluk",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yayınlar Sosyal Sorumluluk",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yayınlar Sosyal Sorumluluk",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yayınlar Sosyal Sorumluluk",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Duyurular Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Basında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "a Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Alan Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyurular Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Barolar Birliği",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Basında Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "a Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "İletişim İlan Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Haberler Haberler, Haber Arşivi ve İlgili Haber Fotografları Duyurular Bursa Barosu Duyuruları, Duyuru Arşivi ve Görseller TBB Duyuruları Türkiye Barolar Birliği Duyuruları Basın Açıklamaları Basın Açıklamaları, Basın Açıklamaları Arşivi ve İlgili Fotograflar Basında Bursa Barosu Dijital ve Yazılı Basında Yer Alan Bursa Barosu Haberleri Baro Medya Baro TV, Bursa Barosu Dergileri, E-bültenleri ve Yayınlar Sosyal Sorumluluk Çalışmaları PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      }
+    ],
+    "total_sentences": 1,
+    "processed_sentences": 1
+  }
+}

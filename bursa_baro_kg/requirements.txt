@@ -1,0 +1,13 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+spacy==3.7.2
+neo4j==5.14.1
+tqdm==4.66.1
+lxml==4.9.3
+colorama==0.4.6
+fastapi==0.104.1
+uvicorn==0.24.0
+stanza==1.7.0
+redis==5.0.1
+cachetools==5.3.2
+schedule==1.2.0

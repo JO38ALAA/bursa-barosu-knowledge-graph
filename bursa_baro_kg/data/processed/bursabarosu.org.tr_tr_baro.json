@@ -1,0 +1,1044 @@
+{
+  "url": "https://bursabarosu.org.tr/tr/baro",
+  "title": "BURSA BAROSU - Baro",
+  "content": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+  "scraped_at": "2025-09-19T17:34:37.993200",
+  "processed_at": "2025-09-19T17:35:05.579439",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Baro Tarihçe Başkan",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Yönetim Kurulu Disiplin",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Kurulu Denetleme Kurulu",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Türkiye Barolar Birliği",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Temsilcilikleri Bursa Barosu",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Personeli Merkezler Komisyonlar",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Servisler Aramızdan Ayrılanlar",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Baro Meclisi Basın",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Ana Dizin Baro",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Etkinlikler Bilgi Bankası",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Merkezi Daha Fazlası",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "ANA SAYFA Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Temsilcilikleri Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Aramızdan Ayrılanlar Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "rılanlar Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Türkiye Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "İletişim İlan Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Bursa",
+        "label": "LOCATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Aramızdan Ayrılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "rılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Aramızdan Ayrılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "rılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Aramızdan Ayrılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "rılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Aramızdan Ayrılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "rılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Aramızdan Ayrılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "rılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Aramızdan Ayrılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "rılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Aramızdan Ayrılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "rılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Aramızdan Ayrılanlar",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Aramızdan Ayrılanlar",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Aramızdan Ayrılanlar",
+        "entity1_label": "PERSON",
+        "entity2": "Aramızdan Ayrılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Aramızdan Ayrılanlar",
+        "entity1_label": "PERSON",
+        "entity2": "rılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Aramızdan Ayrılanlar",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Aramızdan Ayrılanlar",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Aramızdan Ayrılanlar",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisler Aramızdan Ayrılanlar",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Meclisi Basın",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Meclisi Basın",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Meclisi Basın",
+        "entity1_label": "PERSON",
+        "entity2": "Aramızdan Ayrılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Meclisi Basın",
+        "entity1_label": "PERSON",
+        "entity2": "rılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Meclisi Basın",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Meclisi Basın",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Meclisi Basın",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Meclisi Basın",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "Aramızdan Ayrılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "rılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "Aramızdan Ayrılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "rılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Aramızdan Ayrılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "rılanlar Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "ANA SAYFA Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Aramızdan Ayrılanlar Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "rılanlar Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "İletişim İlan Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      }
+    ],
+    "total_sentences": 1,
+    "processed_sentences": 1
+  }
+}

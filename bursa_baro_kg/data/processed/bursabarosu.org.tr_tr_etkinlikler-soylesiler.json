@@ -1,0 +1,495 @@
+{
+  "url": "https://bursabarosu.org.tr/tr/etkinlikler-soylesiler",
+  "title": "BURSA BAROSU - Söyleşiler",
+  "content": "ANA SAYFA Etkinlikler Söyleşiler Yaşananlar Boşuna Değil-Çağdaş Söyleşiler \"Burcu Karakaş\" ile başladı Karakaş'ın “Biz Her Şeyiz - Diyanet'in İşleri” adlı kitabı üzerine, Diyanet İşleri Başkanlığı'nın ülke politikasındaki yeri, mali yapılanması, ideolojik rolü konuşuldu. Karakaş, kitabının içeriğini oluşturan materyali toplarken yaşadıklarını anlattı. ETKİNLİK GÜNDEM HABER Aysever: “Gericilikle müzakere edilmez, mücadele edilir!\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı. GÜNDEM HABER SÖYLEŞİ Av. Çelik “Sokrates'tan günümüze savunma ve savunma mesleği”ni anlattı Bursa Barosu'nun ağırlık olarak stajyer avukatlar için düzenlediği “Meslekte İz Bırakanlar” başlıklı söyleşi dizisinin dördüncüsünde konuk Denizli Barosu'ndan Av. Adil Giray Çelik oldu. GÜNDEM HABER PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
+  "scraped_at": "2025-09-19T17:34:51.678714",
+  "processed_at": "2025-09-19T17:35:05.659449",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Etkinlikler Söyleşiler Yaşananlar",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Etkinlikler Söyleşiler Yaşananlar Boşuna Değil-Çağdaş Söyleşiler \"Burcu Karakaş\" ile başladı Karakaş'ın “Biz Her Şeyiz - Diyanet'in İşleri” adlı kitabı üzerine, Diyanet İşleri Başkanlığı'nın ülke politikasındaki yeri, mali yapılanması, ideolojik rolü konuşuldu"
+      },
+      {
+        "text": "Boşuna Değil",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Etkinlikler Söyleşiler Yaşananlar Boşuna Değil-Çağdaş Söyleşiler \"Burcu Karakaş\" ile başladı Karakaş'ın “Biz Her Şeyiz - Diyanet'in İşleri” adlı kitabı üzerine, Diyanet İşleri Başkanlığı'nın ülke politikasındaki yeri, mali yapılanması, ideolojik rolü konuşuldu"
+      },
+      {
+        "text": "Çağdaş Söyleşiler",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Etkinlikler Söyleşiler Yaşananlar Boşuna Değil-Çağdaş Söyleşiler \"Burcu Karakaş\" ile başladı Karakaş'ın “Biz Her Şeyiz - Diyanet'in İşleri” adlı kitabı üzerine, Diyanet İşleri Başkanlığı'nın ülke politikasındaki yeri, mali yapılanması, ideolojik rolü konuşuldu"
+      },
+      {
+        "text": "Burcu Karakaş",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Etkinlikler Söyleşiler Yaşananlar Boşuna Değil-Çağdaş Söyleşiler \"Burcu Karakaş\" ile başladı Karakaş'ın “Biz Her Şeyiz - Diyanet'in İşleri” adlı kitabı üzerine, Diyanet İşleri Başkanlığı'nın ülke politikasındaki yeri, mali yapılanması, ideolojik rolü konuşuldu"
+      },
+      {
+        "text": "Biz Her Şeyiz",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Etkinlikler Söyleşiler Yaşananlar Boşuna Değil-Çağdaş Söyleşiler \"Burcu Karakaş\" ile başladı Karakaş'ın “Biz Her Şeyiz - Diyanet'in İşleri” adlı kitabı üzerine, Diyanet İşleri Başkanlığı'nın ülke politikasındaki yeri, mali yapılanması, ideolojik rolü konuşuldu"
+      },
+      {
+        "text": "İşleri Başkanlığı",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Etkinlikler Söyleşiler Yaşananlar Boşuna Değil-Çağdaş Söyleşiler \"Burcu Karakaş\" ile başladı Karakaş'ın “Biz Her Şeyiz - Diyanet'in İşleri” adlı kitabı üzerine, Diyanet İşleri Başkanlığı'nın ülke politikasındaki yeri, mali yapılanması, ideolojik rolü konuşuldu"
+      },
+      {
+        "text": "Fikri Sağlar",
+        "label": "PERSON",
+        "sentence_idx": 3,
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı"
+      },
+      {
+        "text": "Bursa Barosu",
+        "label": "PERSON",
+        "sentence_idx": 3,
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı"
+      },
+      {
+        "text": "Çağdaş Gazeteciler Derneği",
+        "label": "PERSON",
+        "sentence_idx": 3,
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı"
+      },
+      {
+        "text": "Bursa Şubesi",
+        "label": "PERSON",
+        "sentence_idx": 3,
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı"
+      },
+      {
+        "text": "Yaşananlar Boşuna Değil",
+        "label": "PERSON",
+        "sentence_idx": 3,
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı"
+      },
+      {
+        "text": "gerekiyor” Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 3,
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı"
+      },
+      {
+        "text": "Bursa Barosu ve Çağdaş Gazeteciler Derneği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 3,
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı"
+      },
+      {
+        "text": "Çağdaş Gazeteciler Derneği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 3,
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı"
+      },
+      {
+        "text": "Bursa",
+        "label": "LOCATION",
+        "sentence_idx": 3,
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı"
+      },
+      {
+        "text": "Denizli Barosu",
+        "label": "PERSON",
+        "sentence_idx": 5,
+        "sentence": "Çelik “Sokrates'tan günümüze savunma ve savunma mesleği”ni anlattı Bursa Barosu'nun ağırlık olarak stajyer avukatlar için düzenlediği “Meslekte İz Bırakanlar” başlıklı söyleşi dizisinin dördüncüsünde konuk Denizli Barosu'ndan Av"
+      },
+      {
+        "text": "anlattı Bursa Barosu'nun",
+        "label": "ORGANIZATION",
+        "sentence_idx": 5,
+        "sentence": "Çelik “Sokrates'tan günümüze savunma ve savunma mesleği”ni anlattı Bursa Barosu'nun ağırlık olarak stajyer avukatlar için düzenlediği “Meslekte İz Bırakanlar” başlıklı söyleşi dizisinin dördüncüsünde konuk Denizli Barosu'ndan Av"
+      },
+      {
+        "text": "konuk Denizli Barosu'ndan",
+        "label": "ORGANIZATION",
+        "sentence_idx": 5,
+        "sentence": "Çelik “Sokrates'tan günümüze savunma ve savunma mesleği”ni anlattı Bursa Barosu'nun ağırlık olarak stajyer avukatlar için düzenlediği “Meslekte İz Bırakanlar” başlıklı söyleşi dizisinin dördüncüsünde konuk Denizli Barosu'ndan Av"
+      },
+      {
+        "text": "Adil Giray Çelik",
+        "label": "PERSON",
+        "sentence_idx": 6,
+        "sentence": "Adil Giray Çelik oldu"
+      },
+      {
+        "text": "Etkinlikler Tiyatro Advocato",
+        "label": "PERSON",
+        "sentence_idx": 7,
+        "sentence": "GÜNDEM HABER PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
+      },
+      {
+        "text": "Müzik Aktiviteleri Spor",
+        "label": "PERSON",
+        "sentence_idx": 7,
+        "sentence": "GÜNDEM HABER PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
+      },
+      {
+        "text": "Aktiviteleri Ruhsat Törenleri",
+        "label": "PERSON",
+        "sentence_idx": 7,
+        "sentence": "GÜNDEM HABER PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
+      },
+      {
+        "text": "Söyleşiler Daha Fazlası",
+        "label": "PERSON",
+        "sentence_idx": 7,
+        "sentence": "GÜNDEM HABER PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Etkinlikler Söyleşiler Yaşananlar",
+        "entity1_label": "PERSON",
+        "entity2": "İşleri Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Etkinlikler Söyleşiler Yaşananlar Boşuna Değil-Çağdaş Söyleşiler \"Burcu Karakaş\" ile başladı Karakaş'ın “Biz Her Şeyiz - Diyanet'in İşleri” adlı kitabı üzerine, Diyanet İşleri Başkanlığı'nın ülke politikasındaki yeri, mali yapılanması, ideolojik rolü konuşuldu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Boşuna Değil",
+        "entity1_label": "PERSON",
+        "entity2": "İşleri Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Etkinlikler Söyleşiler Yaşananlar Boşuna Değil-Çağdaş Söyleşiler \"Burcu Karakaş\" ile başladı Karakaş'ın “Biz Her Şeyiz - Diyanet'in İşleri” adlı kitabı üzerine, Diyanet İşleri Başkanlığı'nın ülke politikasındaki yeri, mali yapılanması, ideolojik rolü konuşuldu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Çağdaş Söyleşiler",
+        "entity1_label": "PERSON",
+        "entity2": "İşleri Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Etkinlikler Söyleşiler Yaşananlar Boşuna Değil-Çağdaş Söyleşiler \"Burcu Karakaş\" ile başladı Karakaş'ın “Biz Her Şeyiz - Diyanet'in İşleri” adlı kitabı üzerine, Diyanet İşleri Başkanlığı'nın ülke politikasındaki yeri, mali yapılanması, ideolojik rolü konuşuldu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Burcu Karakaş",
+        "entity1_label": "PERSON",
+        "entity2": "İşleri Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Etkinlikler Söyleşiler Yaşananlar Boşuna Değil-Çağdaş Söyleşiler \"Burcu Karakaş\" ile başladı Karakaş'ın “Biz Her Şeyiz - Diyanet'in İşleri” adlı kitabı üzerine, Diyanet İşleri Başkanlığı'nın ülke politikasındaki yeri, mali yapılanması, ideolojik rolü konuşuldu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Biz Her Şeyiz",
+        "entity1_label": "PERSON",
+        "entity2": "İşleri Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Etkinlikler Söyleşiler Yaşananlar Boşuna Değil-Çağdaş Söyleşiler \"Burcu Karakaş\" ile başladı Karakaş'ın “Biz Her Şeyiz - Diyanet'in İşleri” adlı kitabı üzerine, Diyanet İşleri Başkanlığı'nın ülke politikasındaki yeri, mali yapılanması, ideolojik rolü konuşuldu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Fikri Sağlar",
+        "entity1_label": "PERSON",
+        "entity2": "gerekiyor” Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Fikri Sağlar",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu ve Çağdaş Gazeteciler Derneği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Fikri Sağlar",
+        "entity1_label": "PERSON",
+        "entity2": "Çağdaş Gazeteciler Derneği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Fikri Sağlar",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "gerekiyor” Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu ve Çağdaş Gazeteciler Derneği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Çağdaş Gazeteciler Derneği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Çağdaş Gazeteciler Derneği",
+        "entity1_label": "PERSON",
+        "entity2": "gerekiyor” Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Çağdaş Gazeteciler Derneği",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu ve Çağdaş Gazeteciler Derneği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Çağdaş Gazeteciler Derneği",
+        "entity1_label": "PERSON",
+        "entity2": "Çağdaş Gazeteciler Derneği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Çağdaş Gazeteciler Derneği",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Bursa Şubesi",
+        "entity1_label": "PERSON",
+        "entity2": "gerekiyor” Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Bursa Şubesi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu ve Çağdaş Gazeteciler Derneği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Bursa Şubesi",
+        "entity1_label": "PERSON",
+        "entity2": "Çağdaş Gazeteciler Derneği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Bursa Şubesi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Yaşananlar Boşuna Değil",
+        "entity1_label": "PERSON",
+        "entity2": "gerekiyor” Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Yaşananlar Boşuna Değil",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu ve Çağdaş Gazeteciler Derneği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Yaşananlar Boşuna Değil",
+        "entity1_label": "PERSON",
+        "entity2": "Çağdaş Gazeteciler Derneği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Yaşananlar Boşuna Değil",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Çağdaş Söyleşiler",
+        "entity1_label": "PERSON",
+        "entity2": "gerekiyor” Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Çağdaş Söyleşiler",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu ve Çağdaş Gazeteciler Derneği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Çağdaş Söyleşiler",
+        "entity1_label": "PERSON",
+        "entity2": "Çağdaş Gazeteciler Derneği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Çağdaş Söyleşiler",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "gerekiyor” Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Bursa Barosu ve Çağdaş Gazeteciler Derneği",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "\" GÜNDEM SÖYLEŞİ Fikri Sağlar: “Nefes alamayacak duruma gelmemek için demokrasi mücadelesi vermemiz gerekiyor” Bursa Barosu ve Çağdaş Gazeteciler Derneği Bursa Şubesi'nin ortaklaşa düzenlediği Yaşananlar Boşuna Değil-Çağdaş Söyleşiler'in konuğu Devlet ve Kültür eski bakanlarından Fikri Sağlar'dı",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "anlattı Bursa Barosu'nun",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çelik “Sokrates'tan günümüze savunma ve savunma mesleği”ni anlattı Bursa Barosu'nun ağırlık olarak stajyer avukatlar için düzenlediği “Meslekte İz Bırakanlar” başlıklı söyleşi dizisinin dördüncüsünde konuk Denizli Barosu'ndan Av",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "konuk Denizli Barosu'ndan",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çelik “Sokrates'tan günümüze savunma ve savunma mesleği”ni anlattı Bursa Barosu'nun ağırlık olarak stajyer avukatlar için düzenlediği “Meslekte İz Bırakanlar” başlıklı söyleşi dizisinin dördüncüsünde konuk Denizli Barosu'ndan Av",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "Denizli Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "anlattı Bursa Barosu'nun",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çelik “Sokrates'tan günümüze savunma ve savunma mesleği”ni anlattı Bursa Barosu'nun ağırlık olarak stajyer avukatlar için düzenlediği “Meslekte İz Bırakanlar” başlıklı söyleşi dizisinin dördüncüsünde konuk Denizli Barosu'ndan Av",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "Denizli Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "konuk Denizli Barosu'ndan",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çelik “Sokrates'tan günümüze savunma ve savunma mesleği”ni anlattı Bursa Barosu'nun ağırlık olarak stajyer avukatlar için düzenlediği “Meslekte İz Bırakanlar” başlıklı söyleşi dizisinin dördüncüsünde konuk Denizli Barosu'ndan Av",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "Denizli Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çelik “Sokrates'tan günümüze savunma ve savunma mesleği”ni anlattı Bursa Barosu'nun ağırlık olarak stajyer avukatlar için düzenlediği “Meslekte İz Bırakanlar” başlıklı söyleşi dizisinin dördüncüsünde konuk Denizli Barosu'ndan Av",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "anlattı Bursa Barosu'nun",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çelik “Sokrates'tan günümüze savunma ve savunma mesleği”ni anlattı Bursa Barosu'nun ağırlık olarak stajyer avukatlar için düzenlediği “Meslekte İz Bırakanlar” başlıklı söyleşi dizisinin dördüncüsünde konuk Denizli Barosu'ndan Av",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "konuk Denizli Barosu'ndan",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çelik “Sokrates'tan günümüze savunma ve savunma mesleği”ni anlattı Bursa Barosu'nun ağırlık olarak stajyer avukatlar için düzenlediği “Meslekte İz Bırakanlar” başlıklı söyleşi dizisinin dördüncüsünde konuk Denizli Barosu'ndan Av",
+        "sentence_idx": 5
+      }
+    ],
+    "total_sentences": 8,
+    "processed_sentences": 8
+  }
+}

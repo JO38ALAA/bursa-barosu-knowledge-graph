@@ -1,0 +1,828 @@
+{
+  "url": "http://bursabarosu.org.tr/tr/merkezler-genc-avukatlar-merkezi-1.html",
+  "title": "BURSA BAROSU - Genç Avukatlar Merkezi",
+  "content": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+  "scraped_at": "2025-09-19T17:34:14.588572",
+  "processed_at": "2025-09-19T17:35:05.641577",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Baro Merkezler Genç",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Avukatlar Merkezi Yönerge",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Yönetim Kurulu",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Merkezler Avukat Hakları",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Koordinasyon Merkezi Çocuk",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Hakları Merkezi Eğitim",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Merkezi Kadın Hakları",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Merkezi Staj Eğitim",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Merkezi Daha Fazlası",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "ANA SAYFA Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Genç Avukatlar Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Avukat Hakları Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "ve Koordinasyon Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Koordinasyon Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "ocuk Hakları Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Eğitim Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Avukat",
+        "label": "LEGAL_TERM",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Baro Merkezler Genç",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Merkezler Genç",
+        "entity1_label": "PERSON",
+        "entity2": "Genç Avukatlar Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Merkezler Genç",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Merkezler Genç",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Merkezler Genç",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Merkezler Genç",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Merkezler Genç",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Merkezler Genç",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Avukatlar Merkezi Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Avukatlar Merkezi Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "Genç Avukatlar Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Avukatlar Merkezi Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Avukatlar Merkezi Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Avukatlar Merkezi Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Avukatlar Merkezi Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Avukatlar Merkezi Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Avukatlar Merkezi Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Genç Avukatlar Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Yönetim Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Genç Avukatlar Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "Genç Avukatlar Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Genç Avukatlar Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Genç Avukatlar Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Genç Avukatlar Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Genç Avukatlar Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "ANA SAYFA Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Genç Avukatlar Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Avukat Hakları Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "ve Koordinasyon Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "ocuk Hakları Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Eğitim Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Genç Avukatlar Merkezi Yönerge Yönetim Kurulu ve Üyeler PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      }
+    ],
+    "total_sentences": 1,
+    "processed_sentences": 1
+  }
+}

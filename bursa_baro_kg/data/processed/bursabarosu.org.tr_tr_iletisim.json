@@ -1,0 +1,219 @@
+{
+  "url": "https://bursabarosu.org.tr/tr/iletisim",
+  "title": "BURSA BAROSU - İletişim",
+  "content": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+  "scraped_at": "2025-09-19T17:35:03.100001",
+  "processed_at": "2025-09-19T17:35:05.639935",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Bilgileri Banka Hesap",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Bilgileri Baronet Online",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Belge Talebi",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Rehber Bilgi Edinme",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Formu Sıkça Sorulan",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Ana Dizin Baro",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Etkinlikler Bilgi Bankası",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Merkezi Daha Fazlası",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Ana Dizin Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "İletişim İlan Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Bilgileri Banka Hesap",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bilgileri Banka Hesap",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bilgileri Baronet Online",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bilgileri Baronet Online",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Belge Talebi",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Belge Talebi",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Rehber Bilgi Edinme",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Rehber Bilgi Edinme",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Formu Sıkça Sorulan",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Formu Sıkça Sorulan",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Banka Hesap Bilgileri Baronet Online İşlemler Belge Talebi - Aidat ödeme Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      }
+    ],
+    "total_sentences": 1,
+    "processed_sentences": 1
+  }
+}

@@ -1,0 +1,1326 @@
+{
+  "url": "https://bursabarosu.org.tr/tr/merkezler-staj-egitim-merkezi",
+  "title": "BURSA BAROSU - Staj Eğitim Merkezi",
+  "content": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+  "scraped_at": "2025-09-19T17:34:54.037442",
+  "processed_at": "2025-09-19T17:35:05.823891",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Baro Merkezler Staj",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Eğitim Merkezi Duyurular",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Amaç Staj Yürütme",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Kurulu Staj",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Stajyer Listesi Ders",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Programı Farazi Dava",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Duruşma Çalışması Yönerge",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Merkezler Avukat Hakları",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Koordinasyon Merkezi Çocuk",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Hakları Merkezi Eğitim",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Merkezi Kadın Hakları",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Merkezi Staj Eğitim",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Merkezi Daha Fazlası",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "ANA SAYFA Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Staj Eğitim Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Avukat Hakları Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "ve Koordinasyon Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Koordinasyon Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "ocuk Hakları Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Eğitim Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Avukat",
+        "label": "LEGAL_TERM",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Dava",
+        "label": "LEGAL_TERM",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Baro Merkezler Staj",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Merkezler Staj",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Merkezler Staj",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Merkezler Staj",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Merkezler Staj",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Merkezler Staj",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Merkezler Staj",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Merkezler Staj",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Merkezler Staj",
+        "entity1_label": "PERSON",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Eğitim Merkezi Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Eğitim Merkezi Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Eğitim Merkezi Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Eğitim Merkezi Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Eğitim Merkezi Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Eğitim Merkezi Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Eğitim Merkezi Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Eğitim Merkezi Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Eğitim Merkezi Duyurular",
+        "entity1_label": "PERSON",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Amaç Staj Yürütme",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Amaç Staj Yürütme",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Amaç Staj Yürütme",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Amaç Staj Yürütme",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Amaç Staj Yürütme",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Amaç Staj Yürütme",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Amaç Staj Yürütme",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Amaç Staj Yürütme",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Amaç Staj Yürütme",
+        "entity1_label": "PERSON",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Staj",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Staj",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Staj",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Staj",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Staj",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Staj",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Staj",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Staj",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kurulu Staj",
+        "entity1_label": "PERSON",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Stajyer Listesi Ders",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Stajyer Listesi Ders",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Stajyer Listesi Ders",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Stajyer Listesi Ders",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Stajyer Listesi Ders",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Stajyer Listesi Ders",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Stajyer Listesi Ders",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Stajyer Listesi Ders",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Stajyer Listesi Ders",
+        "entity1_label": "PERSON",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Programı Farazi Dava",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Programı Farazi Dava",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Programı Farazi Dava",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Programı Farazi Dava",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Programı Farazi Dava",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Programı Farazi Dava",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Programı Farazi Dava",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Programı Farazi Dava",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Programı Farazi Dava",
+        "entity1_label": "PERSON",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duruşma Çalışması Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duruşma Çalışması Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duruşma Çalışması Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duruşma Çalışması Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duruşma Çalışması Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duruşma Çalışması Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duruşma Çalışması Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duruşma Çalışması Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Duruşma Çalışması Yönerge",
+        "entity1_label": "PERSON",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezler Avukat Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi Çocuk",
+        "entity1_label": "PERSON",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Hakları Merkezi Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Kadın Hakları",
+        "entity1_label": "PERSON",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Staj Eğitim",
+        "entity1_label": "PERSON",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "ve Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Koordinasyon Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "ocuk Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "ANA SAYFA Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "ANA SAYFA Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Staj Eğitim Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Staj Eğitim Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Avukat Hakları Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Avukat Hakları Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "ve Koordinasyon Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "ve Koordinasyon Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Koordinasyon Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "ocuk Hakları Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "ocuk Hakları Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Eğitim Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Eğitim Merkezi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Dava",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Merkezler Staj Eğitim Merkezi Duyurular Tanıtım ve Amaç Staj Yürütme Kurulu Staj İşlemleri Ruhsat İşlemleri Stajyer Listesi Ders Programı Farazi Dava ve Duruşma Çalışması Yönerge PAYLAŞ Merkezler Avukat Hakları Merkezi CMK Eğitim ve Koordinasyon Merkezi Çocuk Hakları Merkezi Eğitim Merkezi Kadın Hakları Merkezi Staj Eğitim Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      }
+    ],
+    "total_sentences": 1,
+    "processed_sentences": 1
+  }
+}

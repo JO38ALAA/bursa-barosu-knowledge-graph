@@ -1,0 +1,1722 @@
+{
+  "url": "https://bursabarosu.org.tr/tr/baro-disiplin-kurulu-1",
+  "title": "BURSA BAROSU - Disiplin Kurulu",
+  "content": "ANA SAYFA Baro Disiplin Kurulu AV. ATİLA ATİK Başkan AV. ATİLA ATİK Başkan 1965 Bursa doğumlu. İstanbul Üniversitesi Hukuk Fakültesi'nden 1987 yılında mezun oldu. 1988'den bu yana serbest avukatlık yapmaktadır. 2004-2006 yılları arasında disiplin kurulu üyeliği, 2006-2008 ve 2008-2010 yıllarında Bursa Barosu Yönetim Kurulu üyeliği, 2010-2012 döneminde Bursa Barosu'nda sayman olarak görev yaptı. Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı. AB ve Dış İlişkiler Komisyonu'nda başkan olarak görev aldı. Evli ve bir çocuk babası olan Atik, 2016- 2018 döneminde Bursa Barosu Başkan Yardımcılığı, 2018-2020 döneminde Disiplin Kurulu başkanlığına seçildi ve halen bu görevine devam etmektedir. AV. ÜLKÜ ŞİMŞEK Üye AV. ÜLKÜ ŞİMŞEK Üye 1972 yılında Bursa'da doğdu. Bursa Cumhuriyet Lisesinin ardından 1993 yılında İstanbul Üniversitesi Hukuk Fakültesi'ni bitirerek serbest avukatlığa başladı. İngilizce bilen Ülkü Şimşek, evli ve 1 çocuk annesidir. Av. ÖZCAN MEHMETALİOĞLU ÜYE Av. ÖZCAN MEHMETALİOĞLU ÜYE 1973 Bursa doğumludur. 1997 yılında İstanbul Üniversitesi Hukuk Fakültesi'nden mezun oldu. 1998 yılından bu yana Bursa Barosuna bağlı olarak serbest avukatlık yapmaktadır. 2018-2022 dönemi Bursa Barosu Disiplin Kurulu üyeliği yaptı. 2024-2026 döneminde yeniden Bursa Barosu Disiplin Kurulu üyeliğine seçilmiştir. AV. NİSA ÖREN Üye AV. NİSA ÖREN Üye 1994 Bursa doğumluyum. Lise öğrenimimi Bursa Anadolu Kız Lisesinde tamamladım. 2016 yılında Kocaeli Üniversitesi Hukuk Fakültesinden derece ile mezun oldum. 2019 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü Özel Hukuk Anabilim Dalında “Sendikal Feshe Karşı İşçinin Korunması” başlıklı tez çalışmasıyla yüksek lisansımı tamamladım. 2017 yılından beri Bursa Barosuna bağlı olarak serbest avukatlık yapmaktayım. Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım. 2019 yılından beri Bursa Barosu Tiyatro ekibinde yer almaktayım. 2020-2021 döneminde Bursa İpek Lions Klübü'nde sekreter olarak görev yaptım. 2021 yılından beri Kadının Statüsü Derneğinde başkan olarak görevim devam etmektedir. AV. ÖMER GÜL ÜYE AV. ÖMER GÜL ÜYE 1993 Bursa doğumluyum. 2017 yılında İstanbul Beykent Üniversitesi Hukuk Fakültesinden mezun oldum. 2020 yılında girdiğim Bursa Uludağ Üniversitesi Fen Edebiyat Fakültesi Felsefe bölümünde lisans eğitimim devam etmektedir. 2018 yılından itibaren Bursa Barosuna bağlı olarak serbest avukatlık yapmaktayım. Bursa Barosu bünyesinde 2017 yılında Stajyer Avukat Temsilcisi, 2024 yılında CMK eğitimcisi olarak görev aldım. PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+  "scraped_at": "2025-09-19T17:34:27.146758",
+  "processed_at": "2025-09-19T17:35:05.608605",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Baro Disiplin Kurulu",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Disiplin Kurulu AV"
+      },
+      {
+        "text": "ANA SAYFA Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Disiplin Kurulu AV"
+      },
+      {
+        "text": "Bursa",
+        "label": "LOCATION",
+        "sentence_idx": 2,
+        "sentence": "ATİLA ATİK Başkan 1965 Bursa doğumlu"
+      },
+      {
+        "text": "Üniversitesi Hukuk Fakültesi",
+        "label": "PERSON",
+        "sentence_idx": 3,
+        "sentence": "İstanbul Üniversitesi Hukuk Fakültesi'nden 1987 yılında mezun oldu"
+      },
+      {
+        "text": "İstanbul Üniversitesi Hukuk Fakültesi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 3,
+        "sentence": "İstanbul Üniversitesi Hukuk Fakültesi'nden 1987 yılında mezun oldu"
+      },
+      {
+        "text": "İstanbul",
+        "label": "LOCATION",
+        "sentence_idx": 3,
+        "sentence": "İstanbul Üniversitesi Hukuk Fakültesi'nden 1987 yılında mezun oldu"
+      },
+      {
+        "text": "Hukuk",
+        "label": "LEGAL_TERM",
+        "sentence_idx": 3,
+        "sentence": "İstanbul Üniversitesi Hukuk Fakültesi'nden 1987 yılında mezun oldu"
+      },
+      {
+        "text": "Bursa Barosu Yönetim",
+        "label": "PERSON",
+        "sentence_idx": 5,
+        "sentence": "2004-2006 yılları arasında disiplin kurulu üyeliği, 2006-2008 ve 2008-2010 yıllarında Bursa Barosu Yönetim Kurulu üyeliği, 2010-2012 döneminde Bursa Barosu'nda sayman olarak görev yaptı"
+      },
+      {
+        "text": "Bursa Barosu",
+        "label": "PERSON",
+        "sentence_idx": 5,
+        "sentence": "2004-2006 yılları arasında disiplin kurulu üyeliği, 2006-2008 ve 2008-2010 yıllarında Bursa Barosu Yönetim Kurulu üyeliği, 2010-2012 döneminde Bursa Barosu'nda sayman olarak görev yaptı"
+      },
+      {
+        "text": "yıllarında Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 5,
+        "sentence": "2004-2006 yılları arasında disiplin kurulu üyeliği, 2006-2008 ve 2008-2010 yıllarında Bursa Barosu Yönetim Kurulu üyeliği, 2010-2012 döneminde Bursa Barosu'nda sayman olarak görev yaptı"
+      },
+      {
+        "text": "döneminde Bursa Barosu'nda",
+        "label": "ORGANIZATION",
+        "sentence_idx": 5,
+        "sentence": "2004-2006 yılları arasında disiplin kurulu üyeliği, 2006-2008 ve 2008-2010 yıllarında Bursa Barosu Yönetim Kurulu üyeliği, 2010-2012 döneminde Bursa Barosu'nda sayman olarak görev yaptı"
+      },
+      {
+        "text": "Bursa Tüketici Sorunları",
+        "label": "PERSON",
+        "sentence_idx": 6,
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı"
+      },
+      {
+        "text": "Hakem Heyeti",
+        "label": "PERSON",
+        "sentence_idx": 6,
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı"
+      },
+      {
+        "text": "Bursa Hal Hakem",
+        "label": "PERSON",
+        "sentence_idx": 6,
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı"
+      },
+      {
+        "text": "Hakem Heyeti'nde baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 6,
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı"
+      },
+      {
+        "text": "Sorunları İl",
+        "label": "LOCATION",
+        "sentence_idx": 6,
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı"
+      },
+      {
+        "text": "Bursa Barosu Başkan",
+        "label": "PERSON",
+        "sentence_idx": 8,
+        "sentence": "Evli ve bir çocuk babası olan Atik, 2016- 2018 döneminde Bursa Barosu Başkan Yardımcılığı, 2018-2020 döneminde Disiplin Kurulu başkanlığına seçildi ve halen bu görevine devam etmektedir"
+      },
+      {
+        "text": "Disiplin Kurulu",
+        "label": "PERSON",
+        "sentence_idx": 8,
+        "sentence": "Evli ve bir çocuk babası olan Atik, 2016- 2018 döneminde Bursa Barosu Başkan Yardımcılığı, 2018-2020 döneminde Disiplin Kurulu başkanlığına seçildi ve halen bu görevine devam etmektedir"
+      },
+      {
+        "text": "döneminde Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 8,
+        "sentence": "Evli ve bir çocuk babası olan Atik, 2016- 2018 döneminde Bursa Barosu Başkan Yardımcılığı, 2018-2020 döneminde Disiplin Kurulu başkanlığına seçildi ve halen bu görevine devam etmektedir"
+      },
+      {
+        "text": "Bursa Cumhuriyet Lisesinin",
+        "label": "PERSON",
+        "sentence_idx": 12,
+        "sentence": "Bursa Cumhuriyet Lisesinin ardından 1993 yılında İstanbul Üniversitesi Hukuk Fakültesi'ni bitirerek serbest avukatlığa başladı"
+      },
+      {
+        "text": "Ülkü Şimşek",
+        "label": "PERSON",
+        "sentence_idx": 13,
+        "sentence": "İngilizce bilen Ülkü Şimşek, evli ve 1 çocuk annesidir"
+      },
+      {
+        "text": "Bursa Barosuna",
+        "label": "PERSON",
+        "sentence_idx": 18,
+        "sentence": "1998 yılından bu yana Bursa Barosuna bağlı olarak serbest avukatlık yapmaktadır"
+      },
+      {
+        "text": "Bursa Barosu Disiplin",
+        "label": "PERSON",
+        "sentence_idx": 19,
+        "sentence": "2018-2022 dönemi Bursa Barosu Disiplin Kurulu üyeliği yaptı"
+      },
+      {
+        "text": "dönemi Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 19,
+        "sentence": "2018-2022 dönemi Bursa Barosu Disiplin Kurulu üyeliği yaptı"
+      },
+      {
+        "text": "yeniden Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 20,
+        "sentence": "2024-2026 döneminde yeniden Bursa Barosu Disiplin Kurulu üyeliğine seçilmiştir"
+      },
+      {
+        "text": "Bursa Anadolu Kız",
+        "label": "PERSON",
+        "sentence_idx": 24,
+        "sentence": "Lise öğrenimimi Bursa Anadolu Kız Lisesinde tamamladım"
+      },
+      {
+        "text": "Kocaeli Üniversitesi Hukuk",
+        "label": "PERSON",
+        "sentence_idx": 25,
+        "sentence": "2016 yılında Kocaeli Üniversitesi Hukuk Fakültesinden derece ile mezun oldum"
+      },
+      {
+        "text": "Kocaeli Üniversitesi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 25,
+        "sentence": "2016 yılında Kocaeli Üniversitesi Hukuk Fakültesinden derece ile mezun oldum"
+      },
+      {
+        "text": "Marmara Üniversitesi Sosyal",
+        "label": "PERSON",
+        "sentence_idx": 26,
+        "sentence": "2019 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü Özel Hukuk Anabilim Dalında “Sendikal Feshe Karşı İşçinin Korunması” başlıklı tez çalışmasıyla yüksek lisansımı tamamladım"
+      },
+      {
+        "text": "Bilimler Enstitüsü Özel",
+        "label": "PERSON",
+        "sentence_idx": 26,
+        "sentence": "2019 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü Özel Hukuk Anabilim Dalında “Sendikal Feshe Karşı İşçinin Korunması” başlıklı tez çalışmasıyla yüksek lisansımı tamamladım"
+      },
+      {
+        "text": "Hukuk Anabilim Dalında",
+        "label": "PERSON",
+        "sentence_idx": 26,
+        "sentence": "2019 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü Özel Hukuk Anabilim Dalında “Sendikal Feshe Karşı İşçinin Korunması” başlıklı tez çalışmasıyla yüksek lisansımı tamamladım"
+      },
+      {
+        "text": "Sendikal Feshe Karşı",
+        "label": "PERSON",
+        "sentence_idx": 26,
+        "sentence": "2019 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü Özel Hukuk Anabilim Dalında “Sendikal Feshe Karşı İşçinin Korunması” başlıklı tez çalışmasıyla yüksek lisansımı tamamladım"
+      },
+      {
+        "text": "Marmara Üniversitesi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 26,
+        "sentence": "2019 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü Özel Hukuk Anabilim Dalında “Sendikal Feshe Karşı İşçinin Korunması” başlıklı tez çalışmasıyla yüksek lisansımı tamamladım"
+      },
+      {
+        "text": "Bursa Barosu Kadın",
+        "label": "PERSON",
+        "sentence_idx": 28,
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım"
+      },
+      {
+        "text": "Hakları Komisyonu",
+        "label": "PERSON",
+        "sentence_idx": 28,
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım"
+      },
+      {
+        "text": "Sosyal Güvenlik Hukuku",
+        "label": "PERSON",
+        "sentence_idx": 28,
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım"
+      },
+      {
+        "text": "Baro Dergisi Komisyonunda",
+        "label": "PERSON",
+        "sentence_idx": 28,
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım"
+      },
+      {
+        "text": "Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 28,
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım"
+      },
+      {
+        "text": "Hukuku Komisyonu, Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 28,
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım"
+      },
+      {
+        "text": "Bursa Barosu Tiyatro",
+        "label": "PERSON",
+        "sentence_idx": 29,
+        "sentence": "2019 yılından beri Bursa Barosu Tiyatro ekibinde yer almaktayım"
+      },
+      {
+        "text": "beri Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 29,
+        "sentence": "2019 yılından beri Bursa Barosu Tiyatro ekibinde yer almaktayım"
+      },
+      {
+        "text": "Lions Klübü",
+        "label": "PERSON",
+        "sentence_idx": 30,
+        "sentence": "2020-2021 döneminde Bursa İpek Lions Klübü'nde sekreter olarak görev yaptım"
+      },
+      {
+        "text": "Kadının Statüsü Derneğinde",
+        "label": "PERSON",
+        "sentence_idx": 31,
+        "sentence": "2021 yılından beri Kadının Statüsü Derneğinde başkan olarak görevim devam etmektedir"
+      },
+      {
+        "text": "Beykent Üniversitesi Hukuk",
+        "label": "PERSON",
+        "sentence_idx": 35,
+        "sentence": "2017 yılında İstanbul Beykent Üniversitesi Hukuk Fakültesinden mezun oldum"
+      },
+      {
+        "text": "Beykent Üniversitesi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 35,
+        "sentence": "2017 yılında İstanbul Beykent Üniversitesi Hukuk Fakültesinden mezun oldum"
+      },
+      {
+        "text": "Bursa Uludağ Üniversitesi",
+        "label": "PERSON",
+        "sentence_idx": 36,
+        "sentence": "2020 yılında girdiğim Bursa Uludağ Üniversitesi Fen Edebiyat Fakültesi Felsefe bölümünde lisans eğitimim devam etmektedir"
+      },
+      {
+        "text": "Fen Edebiyat Fakültesi",
+        "label": "PERSON",
+        "sentence_idx": 36,
+        "sentence": "2020 yılında girdiğim Bursa Uludağ Üniversitesi Fen Edebiyat Fakültesi Felsefe bölümünde lisans eğitimim devam etmektedir"
+      },
+      {
+        "text": "Uludağ Üniversitesi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 36,
+        "sentence": "2020 yılında girdiğim Bursa Uludağ Üniversitesi Fen Edebiyat Fakültesi Felsefe bölümünde lisans eğitimim devam etmektedir"
+      },
+      {
+        "text": "Stajyer Avukat Temsilcisi",
+        "label": "PERSON",
+        "sentence_idx": 38,
+        "sentence": "Bursa Barosu bünyesinde 2017 yılında Stajyer Avukat Temsilcisi, 2024 yılında CMK eğitimcisi olarak görev aldım"
+      },
+      {
+        "text": "Avukat",
+        "label": "LEGAL_TERM",
+        "sentence_idx": 38,
+        "sentence": "Bursa Barosu bünyesinde 2017 yılında Stajyer Avukat Temsilcisi, 2024 yılında CMK eğitimcisi olarak görev aldım"
+      },
+      {
+        "text": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "label": "PERSON",
+        "sentence_idx": 39,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Baro Tarihçe Başkan",
+        "label": "PERSON",
+        "sentence_idx": 39,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Yönetim Kurulu Disiplin",
+        "label": "PERSON",
+        "sentence_idx": 39,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Kurulu Denetleme Kurulu",
+        "label": "PERSON",
+        "sentence_idx": 39,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Türkiye Barolar Birliği",
+        "label": "PERSON",
+        "sentence_idx": 39,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Temsilcilikleri Bursa Barosu",
+        "label": "PERSON",
+        "sentence_idx": 39,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Personeli Merkezler Komisyonlar",
+        "label": "PERSON",
+        "sentence_idx": 39,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Servisler Baro Meclisi",
+        "label": "PERSON",
+        "sentence_idx": 39,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Basın Kiti Daha",
+        "label": "PERSON",
+        "sentence_idx": 39,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "PAYLAŞ Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 39,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Temsilcilikleri Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 39,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 39,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "Türkiye Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 39,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      },
+      {
+        "text": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "label": "ORGANIZATION",
+        "sentence_idx": 39,
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Baro Disiplin Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Disiplin Kurulu AV",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Üniversitesi Hukuk Fakültesi",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul Üniversitesi Hukuk Fakültesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İstanbul Üniversitesi Hukuk Fakültesi'nden 1987 yılında mezun oldu",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Üniversitesi Hukuk Fakültesi",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İstanbul Üniversitesi Hukuk Fakültesi'nden 1987 yılında mezun oldu",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Üniversitesi Hukuk Fakültesi",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İstanbul Üniversitesi Hukuk Fakültesi'nden 1987 yılında mezun oldu",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "İstanbul Üniversitesi Hukuk Fakültesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İstanbul Üniversitesi Hukuk Fakültesi'nden 1987 yılında mezun oldu",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "İstanbul Üniversitesi Hukuk Fakültesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İstanbul Üniversitesi Hukuk Fakültesi'nden 1987 yılında mezun oldu",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "İstanbul",
+        "entity1_label": "LOCATION",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "İstanbul Üniversitesi Hukuk Fakültesi'nden 1987 yılında mezun oldu",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "Bursa Barosu Yönetim",
+        "entity1_label": "PERSON",
+        "entity2": "yıllarında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2004-2006 yılları arasında disiplin kurulu üyeliği, 2006-2008 ve 2008-2010 yıllarında Bursa Barosu Yönetim Kurulu üyeliği, 2010-2012 döneminde Bursa Barosu'nda sayman olarak görev yaptı",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "Bursa Barosu Yönetim",
+        "entity1_label": "PERSON",
+        "entity2": "döneminde Bursa Barosu'nda",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2004-2006 yılları arasında disiplin kurulu üyeliği, 2006-2008 ve 2008-2010 yıllarında Bursa Barosu Yönetim Kurulu üyeliği, 2010-2012 döneminde Bursa Barosu'nda sayman olarak görev yaptı",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "Bursa Barosu Yönetim",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2004-2006 yılları arasında disiplin kurulu üyeliği, 2006-2008 ve 2008-2010 yıllarında Bursa Barosu Yönetim Kurulu üyeliği, 2010-2012 döneminde Bursa Barosu'nda sayman olarak görev yaptı",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "yıllarında Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2004-2006 yılları arasında disiplin kurulu üyeliği, 2006-2008 ve 2008-2010 yıllarında Bursa Barosu Yönetim Kurulu üyeliği, 2010-2012 döneminde Bursa Barosu'nda sayman olarak görev yaptı",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "döneminde Bursa Barosu'nda",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2004-2006 yılları arasında disiplin kurulu üyeliği, 2006-2008 ve 2008-2010 yıllarında Bursa Barosu Yönetim Kurulu üyeliği, 2010-2012 döneminde Bursa Barosu'nda sayman olarak görev yaptı",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2004-2006 yılları arasında disiplin kurulu üyeliği, 2006-2008 ve 2008-2010 yıllarında Bursa Barosu Yönetim Kurulu üyeliği, 2010-2012 döneminde Bursa Barosu'nda sayman olarak görev yaptı",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "yıllarında Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2004-2006 yılları arasında disiplin kurulu üyeliği, 2006-2008 ve 2008-2010 yıllarında Bursa Barosu Yönetim Kurulu üyeliği, 2010-2012 döneminde Bursa Barosu'nda sayman olarak görev yaptı",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "döneminde Bursa Barosu'nda",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2004-2006 yılları arasında disiplin kurulu üyeliği, 2006-2008 ve 2008-2010 yıllarında Bursa Barosu Yönetim Kurulu üyeliği, 2010-2012 döneminde Bursa Barosu'nda sayman olarak görev yaptı",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "Bursa Tüketici Sorunları",
+        "entity1_label": "PERSON",
+        "entity2": "Hakem Heyeti'nde baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Bursa Tüketici Sorunları",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Bursa Tüketici Sorunları",
+        "entity1_label": "PERSON",
+        "entity2": "Sorunları İl",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Hakem Heyeti",
+        "entity1_label": "PERSON",
+        "entity2": "Hakem Heyeti'nde baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Hakem Heyeti",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Hakem Heyeti",
+        "entity1_label": "PERSON",
+        "entity2": "Sorunları İl",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Bursa Hal Hakem",
+        "entity1_label": "PERSON",
+        "entity2": "Hakem Heyeti'nde baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Bursa Hal Hakem",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Bursa Hal Hakem",
+        "entity1_label": "PERSON",
+        "entity2": "Sorunları İl",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Hakem Heyeti'nde baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Hakem Heyeti'nde baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Sorunları İl",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Tüketici Sorunları İl Hakem Heyeti'nde ve 2 dönem de Bursa Hal Hakem Heyeti'nde baro temsilcisi olarak görev aldı",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Bursa Barosu Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "döneminde Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Evli ve bir çocuk babası olan Atik, 2016- 2018 döneminde Bursa Barosu Başkan Yardımcılığı, 2018-2020 döneminde Disiplin Kurulu başkanlığına seçildi ve halen bu görevine devam etmektedir",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Bursa Barosu Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Evli ve bir çocuk babası olan Atik, 2016- 2018 döneminde Bursa Barosu Başkan Yardımcılığı, 2018-2020 döneminde Disiplin Kurulu başkanlığına seçildi ve halen bu görevine devam etmektedir",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Disiplin Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "döneminde Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Evli ve bir çocuk babası olan Atik, 2016- 2018 döneminde Bursa Barosu Başkan Yardımcılığı, 2018-2020 döneminde Disiplin Kurulu başkanlığına seçildi ve halen bu görevine devam etmektedir",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Disiplin Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Evli ve bir çocuk babası olan Atik, 2016- 2018 döneminde Bursa Barosu Başkan Yardımcılığı, 2018-2020 döneminde Disiplin Kurulu başkanlığına seçildi ve halen bu görevine devam etmektedir",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "döneminde Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Evli ve bir çocuk babası olan Atik, 2016- 2018 döneminde Bursa Barosu Başkan Yardımcılığı, 2018-2020 döneminde Disiplin Kurulu başkanlığına seçildi ve halen bu görevine devam etmektedir",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "Bursa Cumhuriyet Lisesinin",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul Üniversitesi Hukuk Fakültesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Cumhuriyet Lisesinin ardından 1993 yılında İstanbul Üniversitesi Hukuk Fakültesi'ni bitirerek serbest avukatlığa başladı",
+        "sentence_idx": 12
+      },
+      {
+        "entity1": "Bursa Cumhuriyet Lisesinin",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Cumhuriyet Lisesinin ardından 1993 yılında İstanbul Üniversitesi Hukuk Fakültesi'ni bitirerek serbest avukatlığa başladı",
+        "sentence_idx": 12
+      },
+      {
+        "entity1": "Bursa Cumhuriyet Lisesinin",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Cumhuriyet Lisesinin ardından 1993 yılında İstanbul Üniversitesi Hukuk Fakültesi'ni bitirerek serbest avukatlığa başladı",
+        "sentence_idx": 12
+      },
+      {
+        "entity1": "Bursa Cumhuriyet Lisesinin",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Cumhuriyet Lisesinin ardından 1993 yılında İstanbul Üniversitesi Hukuk Fakültesi'ni bitirerek serbest avukatlığa başladı",
+        "sentence_idx": 12
+      },
+      {
+        "entity1": "Üniversitesi Hukuk Fakültesi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Cumhuriyet Lisesinin ardından 1993 yılında İstanbul Üniversitesi Hukuk Fakültesi'ni bitirerek serbest avukatlığa başladı",
+        "sentence_idx": 12
+      },
+      {
+        "entity1": "İstanbul Üniversitesi Hukuk Fakültesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Cumhuriyet Lisesinin ardından 1993 yılında İstanbul Üniversitesi Hukuk Fakültesi'ni bitirerek serbest avukatlığa başladı",
+        "sentence_idx": 12
+      },
+      {
+        "entity1": "Bursa",
+        "entity1_label": "LOCATION",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Cumhuriyet Lisesinin ardından 1993 yılında İstanbul Üniversitesi Hukuk Fakültesi'ni bitirerek serbest avukatlığa başladı",
+        "sentence_idx": 12
+      },
+      {
+        "entity1": "Bursa Barosuna",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "1998 yılından bu yana Bursa Barosuna bağlı olarak serbest avukatlık yapmaktadır",
+        "sentence_idx": 18
+      },
+      {
+        "entity1": "Bursa Barosu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "dönemi Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2018-2022 dönemi Bursa Barosu Disiplin Kurulu üyeliği yaptı",
+        "sentence_idx": 19
+      },
+      {
+        "entity1": "Bursa Barosu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2018-2022 dönemi Bursa Barosu Disiplin Kurulu üyeliği yaptı",
+        "sentence_idx": 19
+      },
+      {
+        "entity1": "dönemi Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2018-2022 dönemi Bursa Barosu Disiplin Kurulu üyeliği yaptı",
+        "sentence_idx": 19
+      },
+      {
+        "entity1": "Bursa Barosu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "yeniden Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2024-2026 döneminde yeniden Bursa Barosu Disiplin Kurulu üyeliğine seçilmiştir",
+        "sentence_idx": 20
+      },
+      {
+        "entity1": "yeniden Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2024-2026 döneminde yeniden Bursa Barosu Disiplin Kurulu üyeliğine seçilmiştir",
+        "sentence_idx": 20
+      },
+      {
+        "entity1": "Bursa Anadolu Kız",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Lise öğrenimimi Bursa Anadolu Kız Lisesinde tamamladım",
+        "sentence_idx": 24
+      },
+      {
+        "entity1": "Kocaeli Üniversitesi Hukuk",
+        "entity1_label": "PERSON",
+        "entity2": "Kocaeli Üniversitesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016 yılında Kocaeli Üniversitesi Hukuk Fakültesinden derece ile mezun oldum",
+        "sentence_idx": 25
+      },
+      {
+        "entity1": "Kocaeli Üniversitesi Hukuk",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016 yılında Kocaeli Üniversitesi Hukuk Fakültesinden derece ile mezun oldum",
+        "sentence_idx": 25
+      },
+      {
+        "entity1": "Kocaeli Üniversitesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2016 yılında Kocaeli Üniversitesi Hukuk Fakültesinden derece ile mezun oldum",
+        "sentence_idx": 25
+      },
+      {
+        "entity1": "Marmara Üniversitesi Sosyal",
+        "entity1_label": "PERSON",
+        "entity2": "Marmara Üniversitesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2019 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü Özel Hukuk Anabilim Dalında “Sendikal Feshe Karşı İşçinin Korunması” başlıklı tez çalışmasıyla yüksek lisansımı tamamladım",
+        "sentence_idx": 26
+      },
+      {
+        "entity1": "Marmara Üniversitesi Sosyal",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2019 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü Özel Hukuk Anabilim Dalında “Sendikal Feshe Karşı İşçinin Korunması” başlıklı tez çalışmasıyla yüksek lisansımı tamamladım",
+        "sentence_idx": 26
+      },
+      {
+        "entity1": "Bilimler Enstitüsü Özel",
+        "entity1_label": "PERSON",
+        "entity2": "Marmara Üniversitesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2019 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü Özel Hukuk Anabilim Dalında “Sendikal Feshe Karşı İşçinin Korunması” başlıklı tez çalışmasıyla yüksek lisansımı tamamladım",
+        "sentence_idx": 26
+      },
+      {
+        "entity1": "Bilimler Enstitüsü Özel",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2019 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü Özel Hukuk Anabilim Dalında “Sendikal Feshe Karşı İşçinin Korunması” başlıklı tez çalışmasıyla yüksek lisansımı tamamladım",
+        "sentence_idx": 26
+      },
+      {
+        "entity1": "Hukuk Anabilim Dalında",
+        "entity1_label": "PERSON",
+        "entity2": "Marmara Üniversitesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2019 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü Özel Hukuk Anabilim Dalında “Sendikal Feshe Karşı İşçinin Korunması” başlıklı tez çalışmasıyla yüksek lisansımı tamamladım",
+        "sentence_idx": 26
+      },
+      {
+        "entity1": "Hukuk Anabilim Dalında",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2019 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü Özel Hukuk Anabilim Dalında “Sendikal Feshe Karşı İşçinin Korunması” başlıklı tez çalışmasıyla yüksek lisansımı tamamladım",
+        "sentence_idx": 26
+      },
+      {
+        "entity1": "Sendikal Feshe Karşı",
+        "entity1_label": "PERSON",
+        "entity2": "Marmara Üniversitesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2019 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü Özel Hukuk Anabilim Dalında “Sendikal Feshe Karşı İşçinin Korunması” başlıklı tez çalışmasıyla yüksek lisansımı tamamladım",
+        "sentence_idx": 26
+      },
+      {
+        "entity1": "Sendikal Feshe Karşı",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2019 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü Özel Hukuk Anabilim Dalında “Sendikal Feshe Karşı İşçinin Korunması” başlıklı tez çalışmasıyla yüksek lisansımı tamamladım",
+        "sentence_idx": 26
+      },
+      {
+        "entity1": "Marmara Üniversitesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2019 yılında Marmara Üniversitesi Sosyal Bilimler Enstitüsü Özel Hukuk Anabilim Dalında “Sendikal Feshe Karşı İşçinin Korunması” başlıklı tez çalışmasıyla yüksek lisansımı tamamladım",
+        "sentence_idx": 26
+      },
+      {
+        "entity1": "Bursa Barosu Kadın",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Bursa Barosu Kadın",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuku Komisyonu, Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Bursa Barosu Kadın",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Hakları Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Hakları Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuku Komisyonu, Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Hakları Komisyonu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Sosyal Güvenlik Hukuku",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Sosyal Güvenlik Hukuku",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuku Komisyonu, Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Sosyal Güvenlik Hukuku",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Baro Dergisi Komisyonunda",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Baro Dergisi Komisyonunda",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuku Komisyonu, Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Baro Dergisi Komisyonunda",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Hukuku Komisyonu, Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu Kadın Hakları Komisyonu, İş ve Sosyal Güvenlik Hukuku Komisyonu, Baro Dergisi Komisyonunda görev aldım",
+        "sentence_idx": 28
+      },
+      {
+        "entity1": "Bursa Barosu Tiyatro",
+        "entity1_label": "PERSON",
+        "entity2": "beri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2019 yılından beri Bursa Barosu Tiyatro ekibinde yer almaktayım",
+        "sentence_idx": 29
+      },
+      {
+        "entity1": "Bursa Barosu Tiyatro",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2019 yılından beri Bursa Barosu Tiyatro ekibinde yer almaktayım",
+        "sentence_idx": 29
+      },
+      {
+        "entity1": "beri Bursa Barosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2019 yılından beri Bursa Barosu Tiyatro ekibinde yer almaktayım",
+        "sentence_idx": 29
+      },
+      {
+        "entity1": "Lions Klübü",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2020-2021 döneminde Bursa İpek Lions Klübü'nde sekreter olarak görev yaptım",
+        "sentence_idx": 30
+      },
+      {
+        "entity1": "Beykent Üniversitesi Hukuk",
+        "entity1_label": "PERSON",
+        "entity2": "Beykent Üniversitesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2017 yılında İstanbul Beykent Üniversitesi Hukuk Fakültesinden mezun oldum",
+        "sentence_idx": 35
+      },
+      {
+        "entity1": "Beykent Üniversitesi Hukuk",
+        "entity1_label": "PERSON",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2017 yılında İstanbul Beykent Üniversitesi Hukuk Fakültesinden mezun oldum",
+        "sentence_idx": 35
+      },
+      {
+        "entity1": "Beykent Üniversitesi Hukuk",
+        "entity1_label": "PERSON",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2017 yılında İstanbul Beykent Üniversitesi Hukuk Fakültesinden mezun oldum",
+        "sentence_idx": 35
+      },
+      {
+        "entity1": "Beykent Üniversitesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "İstanbul",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2017 yılında İstanbul Beykent Üniversitesi Hukuk Fakültesinden mezun oldum",
+        "sentence_idx": 35
+      },
+      {
+        "entity1": "Beykent Üniversitesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Hukuk",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2017 yılında İstanbul Beykent Üniversitesi Hukuk Fakültesinden mezun oldum",
+        "sentence_idx": 35
+      },
+      {
+        "entity1": "Bursa Uludağ Üniversitesi",
+        "entity1_label": "PERSON",
+        "entity2": "Uludağ Üniversitesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2020 yılında girdiğim Bursa Uludağ Üniversitesi Fen Edebiyat Fakültesi Felsefe bölümünde lisans eğitimim devam etmektedir",
+        "sentence_idx": 36
+      },
+      {
+        "entity1": "Bursa Uludağ Üniversitesi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2020 yılında girdiğim Bursa Uludağ Üniversitesi Fen Edebiyat Fakültesi Felsefe bölümünde lisans eğitimim devam etmektedir",
+        "sentence_idx": 36
+      },
+      {
+        "entity1": "Fen Edebiyat Fakültesi",
+        "entity1_label": "PERSON",
+        "entity2": "Uludağ Üniversitesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2020 yılında girdiğim Bursa Uludağ Üniversitesi Fen Edebiyat Fakültesi Felsefe bölümünde lisans eğitimim devam etmektedir",
+        "sentence_idx": 36
+      },
+      {
+        "entity1": "Fen Edebiyat Fakültesi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2020 yılında girdiğim Bursa Uludağ Üniversitesi Fen Edebiyat Fakültesi Felsefe bölümünde lisans eğitimim devam etmektedir",
+        "sentence_idx": 36
+      },
+      {
+        "entity1": "Uludağ Üniversitesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "2020 yılında girdiğim Bursa Uludağ Üniversitesi Fen Edebiyat Fakültesi Felsefe bölümünde lisans eğitimim devam etmektedir",
+        "sentence_idx": 36
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu bünyesinde 2017 yılında Stajyer Avukat Temsilcisi, 2024 yılında CMK eğitimcisi olarak görev aldım",
+        "sentence_idx": 38
+      },
+      {
+        "entity1": "Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu bünyesinde 2017 yılında Stajyer Avukat Temsilcisi, 2024 yılında CMK eğitimcisi olarak görev aldım",
+        "sentence_idx": 38
+      },
+      {
+        "entity1": "Stajyer Avukat Temsilcisi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu bünyesinde 2017 yılında Stajyer Avukat Temsilcisi, 2024 yılında CMK eğitimcisi olarak görev aldım",
+        "sentence_idx": 38
+      },
+      {
+        "entity1": "Stajyer Avukat Temsilcisi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu bünyesinde 2017 yılında Stajyer Avukat Temsilcisi, 2024 yılında CMK eğitimcisi olarak görev aldım",
+        "sentence_idx": 38
+      },
+      {
+        "entity1": "Stajyer Avukat Temsilcisi",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu bünyesinde 2017 yılında Stajyer Avukat Temsilcisi, 2024 yılında CMK eğitimcisi olarak görev aldım",
+        "sentence_idx": 38
+      },
+      {
+        "entity1": "Bursa",
+        "entity1_label": "LOCATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Bursa Barosu bünyesinde 2017 yılında Stajyer Avukat Temsilcisi, 2024 yılında CMK eğitimcisi olarak görev aldım",
+        "sentence_idx": 38
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Baro Tarihçe Başkan",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Yönetim Kurulu Disiplin",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Kurulu Denetleme Kurulu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Türkiye Barolar Birliği",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Temsilcilikleri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Personeli Merkezler Komisyonlar",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Servisler Baro Meclisi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Temsilcilikleri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Basın Kiti Daha",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "PAYLAŞ Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      },
+      {
+        "entity1": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 39
+      }
+    ],
+    "total_sentences": 40,
+    "processed_sentences": 36
+  }
+}

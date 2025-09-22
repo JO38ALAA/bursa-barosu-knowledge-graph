@@ -1,0 +1,561 @@
+{
+  "url": "https://bursabarosu.org.tr/tr/iletisim-bilgileri",
+  "title": "BURSA BAROSU - İletişim Bilgileri",
+  "content": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu.org.tr bursabarosu@hs01.kep.tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir.) +90 549 737 19 09 +90 549 737 19 09 CMK Servisi +90 224 272 50 44 +90 224 272 50 44 cmkmerkezi@bursabarosu.org.tr Adli Yardım Servisi +90 224 223 28 23 +90 533 439 15 79 +90 224 223 28 23 +90 533 439 15 79 adliyardimburosu@bursabarosu.org.tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir. Şikayetlerin değerlendirilebilmesi için şikayet konusunun ve şikayet edilenin ad-soyadının açıkça belirtildiği, şikayetçinin tebliğ adresini ve konu ile ilgili somut delillerini içeren ıslak imzalı dilekçe ile bizzat ya da avukatı kanalıyla Başkanlığımıza başvurulması, Avukatlık Yasasının 161/3 ve Avukatlık Kanunu Yönetmeliğinin 65/3. maddeleri gereğince belirlenecek masraf avansının ödenmesi gerekmektedir. Yukarıda belirtilen bilgi notuna uygun yapılmayan şikayet başvuruları dikkate alınmaz. PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
+  "scraped_at": "2025-09-19T17:34:56.351279",
+  "processed_at": "2025-09-19T17:35:05.846761",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Bilgileri Bursa Barosu",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu"
+      },
+      {
+        "text": "Kıbrıs Şehitleri Caddesi",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu"
+      },
+      {
+        "text": "Adalet Sarayı",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu"
+      },
+      {
+        "text": "Bilgileri Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu"
+      },
+      {
+        "text": "251 6249 baro@bursabarosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu"
+      },
+      {
+        "text": "Barosu Başkanlığı",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu"
+      },
+      {
+        "text": "Bursa",
+        "label": "LOCATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu"
+      },
+      {
+        "text": "Şehitleri Caddesi",
+        "label": "LOCATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu"
+      },
+      {
+        "text": "Diğer Birimler Telefon",
+        "label": "PERSON",
+        "sentence_idx": 4,
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir"
+      },
+      {
+        "text": "Faks Bursa Adliyesi",
+        "label": "PERSON",
+        "sentence_idx": 4,
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir"
+      },
+      {
+        "text": "Avukat Hakları Merkezi",
+        "label": "PERSON",
+        "sentence_idx": 4,
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir"
+      },
+      {
+        "text": "Avukatların Yaşadığı Sorunlara",
+        "label": "PERSON",
+        "sentence_idx": 4,
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir"
+      },
+      {
+        "text": "Avukat Hakları Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 4,
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir"
+      },
+      {
+        "text": "Avukat",
+        "label": "LEGAL_TERM",
+        "sentence_idx": 4,
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir"
+      },
+      {
+        "text": "Adli Yardım Servisi",
+        "label": "PERSON",
+        "sentence_idx": 7,
+        "sentence": "tr Adli Yardım Servisi +90 224 223 28 23 +90 533 439 15 79 +90 224 223 28 23 +90 533 439 15 79 adliyardimburosu@bursabarosu"
+      },
+      {
+        "text": "Avukat Bekleme Odası",
+        "label": "PERSON",
+        "sentence_idx": 9,
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir"
+      },
+      {
+        "text": "Zemin Kat Fotokopi",
+        "label": "PERSON",
+        "sentence_idx": 9,
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir"
+      },
+      {
+        "text": "Bölge Adliye Mahkemeleri",
+        "label": "PERSON",
+        "sentence_idx": 9,
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir"
+      },
+      {
+        "text": "Fotokopi Odası",
+        "label": "PERSON",
+        "sentence_idx": 9,
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir"
+      },
+      {
+        "text": "Staj Eğitim Merkezi",
+        "label": "PERSON",
+        "sentence_idx": 9,
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir"
+      },
+      {
+        "text": "Staj Eğitim Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 9,
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir"
+      },
+      {
+        "text": "Avukatlık Yasasının",
+        "label": "PERSON",
+        "sentence_idx": 10,
+        "sentence": "Şikayetlerin değerlendirilebilmesi için şikayet konusunun ve şikayet edilenin ad-soyadının açıkça belirtildiği, şikayetçinin tebliğ adresini ve konu ile ilgili somut delillerini içeren ıslak imzalı dilekçe ile bizzat ya da avukatı kanalıyla Başkanlığımıza başvurulması, Avukatlık Yasasının 161/3 ve Avukatlık Kanunu Yönetmeliğinin 65/3"
+      },
+      {
+        "text": "Avukatlık Kanunu Yönetmeliğinin",
+        "label": "PERSON",
+        "sentence_idx": 10,
+        "sentence": "Şikayetlerin değerlendirilebilmesi için şikayet konusunun ve şikayet edilenin ad-soyadının açıkça belirtildiği, şikayetçinin tebliğ adresini ve konu ile ilgili somut delillerini içeren ıslak imzalı dilekçe ile bizzat ya da avukatı kanalıyla Başkanlığımıza başvurulması, Avukatlık Yasasının 161/3 ve Avukatlık Kanunu Yönetmeliğinin 65/3"
+      },
+      {
+        "text": "Banka Hesap Bilgileri",
+        "label": "PERSON",
+        "sentence_idx": 13,
+        "sentence": "PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası"
+      },
+      {
+        "text": "Baronet Online",
+        "label": "PERSON",
+        "sentence_idx": 13,
+        "sentence": "PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası"
+      },
+      {
+        "text": "Rehber Bilgi Edinme",
+        "label": "PERSON",
+        "sentence_idx": 13,
+        "sentence": "PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası"
+      },
+      {
+        "text": "Formu Sıkça Sorulan",
+        "label": "PERSON",
+        "sentence_idx": 13,
+        "sentence": "PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası"
+      },
+      {
+        "text": "Sorular Daha Fazlası",
+        "label": "PERSON",
+        "sentence_idx": 13,
+        "sentence": "PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Bilgileri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bilgileri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bilgileri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "251 6249 baro@bursabarosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bilgileri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Barosu Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bilgileri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Bilgileri Bursa Barosu",
+        "entity1_label": "PERSON",
+        "entity2": "Şehitleri Caddesi",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kıbrıs Şehitleri Caddesi",
+        "entity1_label": "PERSON",
+        "entity2": "Bilgileri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kıbrıs Şehitleri Caddesi",
+        "entity1_label": "PERSON",
+        "entity2": "251 6249 baro@bursabarosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kıbrıs Şehitleri Caddesi",
+        "entity1_label": "PERSON",
+        "entity2": "Barosu Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kıbrıs Şehitleri Caddesi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Kıbrıs Şehitleri Caddesi",
+        "entity1_label": "PERSON",
+        "entity2": "Şehitleri Caddesi",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Adalet Sarayı",
+        "entity1_label": "PERSON",
+        "entity2": "Bilgileri Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Adalet Sarayı",
+        "entity1_label": "PERSON",
+        "entity2": "251 6249 baro@bursabarosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Adalet Sarayı",
+        "entity1_label": "PERSON",
+        "entity2": "Barosu Başkanlığı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Adalet Sarayı",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Adalet Sarayı",
+        "entity1_label": "PERSON",
+        "entity2": "Şehitleri Caddesi",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "251 6249 baro@bursabarosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "251 6249 baro@bursabarosu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Şehitleri Caddesi",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Barosu Başkanlığı",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Barosu Başkanlığı",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Şehitleri Caddesi",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim İletişim Bilgileri Bursa Barosu Başkanlığı 444 50 99 - Türkiye'nin her yerinden tek numara Kıbrıs Şehitleri Caddesi Adalet Sarayı G-Blok / BURSA +90 (224) 251 66 06 +90 (224) 251 6249 baro@bursabarosu",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Diğer Birimler Telefon",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Diğer Birimler Telefon",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Diğer Birimler Telefon",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Faks Bursa Adliyesi",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Faks Bursa Adliyesi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Faks Bursa Adliyesi",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Avukat Hakları Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Avukat Hakları Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Avukat Hakları Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Avukatların Yaşadığı Sorunlara",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat Hakları Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Avukatların Yaşadığı Sorunlara",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Avukatların Yaşadığı Sorunlara",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Bursa",
+        "entity1_label": "LOCATION",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr KEP ADRESİ Diğer Birimler Telefon Faks Bursa Adliyesi +90 224 272 50 04 30 Hat +90 224 271 60 65 +90 224 272 50 04 30 Hat +90 224 271 60 65 Avukat Hakları Merkezi (Avukatların Yaşadığı Sorunlara İlişkindir",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "Avukat Bekleme Odası",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Avukat Bekleme Odası",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Zemin Kat Fotokopi",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Zemin Kat Fotokopi",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Bölge Adliye Mahkemeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Bölge Adliye Mahkemeleri",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Fotokopi Odası",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Fotokopi Odası",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Staj Eğitim Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "Staj Eğitim Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Staj Eğitim Merkezi",
+        "entity1_label": "PERSON",
+        "entity2": "Avukat",
+        "entity2_label": "LEGAL_TERM",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "tr +90 224 223 49 21 Avukat Bekleme Odası ve Zemin Kat Fotokopi +90 224 272 50 45 +90 224 272 50 45 Bölge Adliye Mahkemeleri (BAM) Fotokopi Odası +90 224 453 62 40 +90 224 453 62 41 +90 224 453 62 40 +90 224 453 62 41 Staj Eğitim Merkezi +90 224 251 66 06 Dahili : 136 +90 224 251 66 06 Dahili: 136 ŞİKAYETLERLE İLGİLİ BİLGİ NOTU Avukatlar hakkında yapılacak şikayetlerin faks veya e-posta yolu ile işlem görmeyeceği yasa gereğidir",
+        "sentence_idx": 9
+      }
+    ],
+    "total_sentences": 14,
+    "processed_sentences": 10
+  }
+}

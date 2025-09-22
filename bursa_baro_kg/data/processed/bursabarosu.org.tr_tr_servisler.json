@@ -1,0 +1,198 @@
+{
+  "url": "https://bursabarosu.org.tr/tr/servisler",
+  "title": "BURSA BAROSU - Servisler",
+  "content": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+  "scraped_at": "2025-09-19T17:34:30.583113",
+  "processed_at": "2025-09-19T17:35:05.810310",
+  "nlp_result": {
+    "entities": [
+      {
+        "text": "Baro Servisler",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Servisi Adli Yardım",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Ana Dizin Baro",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Etkinlikler Bilgi Bankası",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Merkezi Daha Fazlası",
+        "label": "PERSON",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "ANA SAYFA Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "Ana Dizin Baro",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      },
+      {
+        "text": "İletişim İlan Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": 0,
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+      }
+    ],
+    "relationships": [
+      {
+        "entity1": "Baro Servisler",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Servisler",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Baro Servisler",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisi Adli Yardım",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisi Adli Yardım",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Servisi Adli Yardım",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Ana Dizin Baro",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlikler Bilgi Bankası",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "ANA SAYFA Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "Ana Dizin Baro",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Merkezi Daha Fazlası",
+        "entity1_label": "PERSON",
+        "entity2": "İletişim İlan Merkezi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro Servisler CMK Servisi Adli Yardım Uzlaşma PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+        "sentence_idx": 0
+      }
+    ],
+    "total_sentences": 1,
+    "processed_sentences": 1
+  }
+}
