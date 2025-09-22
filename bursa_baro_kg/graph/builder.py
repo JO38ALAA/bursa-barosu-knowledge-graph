@@ -44,6 +44,20 @@ class GraphBuilder:
         except Exception as e:
             logger.error(f"Neo4j bağlantı hatası: {e}")
             raise
+
+    def clean_database(self):
+        """Veritabanındaki tüm düğüm ve ilişkileri siler."""
+        try:
+            with self.driver.session() as session:
+                logger.warning("Veritabanı temizleniyor... Tüm düğümler ve ilişkiler silinecek.")
+                query = "MATCH (n) DETACH DELETE n"
+                session.run(query)
+                logger.info("Veritabanı başarıyla temizlendi.")
+                # İndekslerin yeniden oluştuğundan emin ol
+                self._create_indexes()
+        except Exception as e:
+            logger.error(f"Veritabanı temizleme hatası: {e}")
+            raise
     
     def _create_indexes(self):
         """Performans için gerekli indeksleri oluştur"""

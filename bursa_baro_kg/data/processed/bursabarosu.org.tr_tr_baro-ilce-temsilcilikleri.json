@@ -1,620 +1,347 @@
 {
   "url": "https://bursabarosu.org.tr/tr/baro-ilce-temsilcilikleri",
   "title": "BURSA BAROSU - İlçe Temsilcilikleri",
-  "content": "ANA SAYFA Baro İlçe Temsilcilikleri GEMLİK AV. ONURHAN KÖSE +90 224 514 30 54 İNEGÖL AV. EGEMEN AVCI +90 555 169 16 16 İZNİK AV. GAMZE OLGUN +90 224 757 10 45 KARACABEY AV. GÜLŞAH KOCACIKLI ÜNEN +90 224 676 99 77 MUDANYA AV. TUĞRUL CENGİZ +90 224 543 00 20 MUSTAFAKEMALPAŞA AV. GÜRKAN ESEN +90 224 613 80 80 ORHANGAZİ AV. BURAK SIR +90 224 573 00 76 YENİŞEHİR AV. FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-  "scraped_at": "2025-09-19T17:34:20.281525",
-  "processed_at": "2025-09-22T07:41:38.669480",
+  "content": "ANA SAYFA Baro İlçe Temsilcilikleri GEMLİK AV. ONURHAN KÖSE +90 224 514 30 54 İNEGÖL AV. EGEMEN AVCI +90 555 169 16 16 İZNİK AV. GAMZE OLGUN +90 224 757 10 45 KARACABEY AV. GÜLŞAH KOCACIKLI ÜNEN +90 224 676 99 77 MUDANYA AV. TUĞRUL CENGİZ +90 224 543 00 20 MUSTAFAKEMALPAŞA AV. GÜRKAN ESEN +90 224 613 80 80 ORHANGAZİ AV. BURAK SIR +90 224 573 00 76 YENİŞEHİR AV. FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti Daha Fazlası",
+  "scraped_at": "2025-09-22T10:24:26.438118",
+  "processed_at": "2025-09-22T10:24:35.760147",
   "nlp_result": {
     "entities": [
       {
-        "text": "ANA SAYFA Baro",
-        "label": "ORGANIZATION",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Baro İlçe Temsilcilikleri GEMLİK AV"
-      },
-      {
-        "text": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
-        "label": "PERSON",
-        "sentence_idx": 8,
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
-      },
-      {
-        "text": "Baro Tarihçe Başkan",
-        "label": "PERSON",
-        "sentence_idx": 8,
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
-      },
-      {
-        "text": "Yönetim Kurulu Disiplin",
-        "label": "PERSON",
-        "sentence_idx": 8,
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
-      },
-      {
-        "text": "Kurulu Denetleme Kurulu",
-        "label": "PERSON",
-        "sentence_idx": 8,
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
-      },
-      {
-        "text": "Türkiye Barolar Birliği",
-        "label": "PERSON",
-        "sentence_idx": 8,
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
-      },
-      {
-        "text": "Temsilcilikleri Bursa Barosu",
-        "label": "PERSON",
-        "sentence_idx": 8,
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
-      },
-      {
-        "text": "Personeli Merkezler Komisyonlar",
-        "label": "PERSON",
-        "sentence_idx": 8,
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
-      },
-      {
-        "text": "Servisler Baro Meclisi",
-        "label": "PERSON",
-        "sentence_idx": 8,
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
-      },
-      {
-        "text": "Basın Kiti Daha",
-        "label": "PERSON",
-        "sentence_idx": 8,
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
-      },
-      {
-        "text": "20 PAYLAŞ Baro",
-        "label": "ORGANIZATION",
-        "sentence_idx": 8,
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
-      },
-      {
-        "text": "Temsilcilikleri Bursa Barosu",
-        "label": "ORGANIZATION",
-        "sentence_idx": 8,
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
-      },
-      {
         "text": "Baro",
         "label": "ORGANIZATION",
-        "sentence_idx": 8,
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "GE",
+        "label": "LOCATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##M",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##LİK",
+        "label": "LOCATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "ONURHAN KÖSE",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "İN",
+        "label": "LOCATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##EG",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##ÖL",
+        "label": "LOCATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "EGEMEN AVCI",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "İZNİK",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "G",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##AMZE OLGUN",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "KAR",
+        "label": "LOCATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##ACABEY",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "GÜLŞAH KOCACIKLI ÜNEN",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "MUDANYA",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "TUĞRUL CENGİZ",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "MUSTAFAKEMALPAŞA",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "GÜRKAN ESEN",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "ORHANGAZİ AV",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": ". BURAK SIR",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "YENİŞEHİR",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "FULDEN ZANBAK",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
         "text": "Türkiye Barolar Birliği",
         "label": "ORGANIZATION",
-        "sentence_idx": 8,
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
+        "text": "Bursa Barosu",
         "label": "ORGANIZATION",
-        "sentence_idx": 8,
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Bursa",
-        "label": "LOCATION",
-        "sentence_idx": 8,
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası"
+        "text": "Baro Meclisi",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       }
     ],
     "relationships": [
       {
-        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
-        "entity1_label": "PERSON",
-        "entity2": "20 PAYLAŞ Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
-        "entity1_label": "PERSON",
-        "entity2": "Temsilcilikleri Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
-        "entity1_label": "PERSON",
-        "entity2": "Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
-        "entity1_label": "PERSON",
-        "entity2": "Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
-        "entity1_label": "PERSON",
-        "entity2": "90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Baro Tarihçe Başkan",
-        "entity1_label": "PERSON",
-        "entity2": "20 PAYLAŞ Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Baro Tarihçe Başkan",
-        "entity1_label": "PERSON",
-        "entity2": "Temsilcilikleri Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Baro Tarihçe Başkan",
-        "entity1_label": "PERSON",
-        "entity2": "Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Baro Tarihçe Başkan",
-        "entity1_label": "PERSON",
-        "entity2": "Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Baro Tarihçe Başkan",
-        "entity1_label": "PERSON",
-        "entity2": "90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Baro Tarihçe Başkan",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Yönetim Kurulu Disiplin",
-        "entity1_label": "PERSON",
-        "entity2": "20 PAYLAŞ Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Yönetim Kurulu Disiplin",
-        "entity1_label": "PERSON",
-        "entity2": "Temsilcilikleri Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Yönetim Kurulu Disiplin",
-        "entity1_label": "PERSON",
-        "entity2": "Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Yönetim Kurulu Disiplin",
-        "entity1_label": "PERSON",
-        "entity2": "Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Yönetim Kurulu Disiplin",
-        "entity1_label": "PERSON",
-        "entity2": "90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Yönetim Kurulu Disiplin",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Kurulu Denetleme Kurulu",
-        "entity1_label": "PERSON",
-        "entity2": "20 PAYLAŞ Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Kurulu Denetleme Kurulu",
-        "entity1_label": "PERSON",
-        "entity2": "Temsilcilikleri Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Kurulu Denetleme Kurulu",
-        "entity1_label": "PERSON",
-        "entity2": "Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Kurulu Denetleme Kurulu",
-        "entity1_label": "PERSON",
-        "entity2": "Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Kurulu Denetleme Kurulu",
-        "entity1_label": "PERSON",
-        "entity2": "90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Kurulu Denetleme Kurulu",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Türkiye Barolar Birliği",
-        "entity1_label": "PERSON",
-        "entity2": "20 PAYLAŞ Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Türkiye Barolar Birliği",
-        "entity1_label": "PERSON",
-        "entity2": "Temsilcilikleri Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Türkiye Barolar Birliği",
-        "entity1_label": "PERSON",
-        "entity2": "Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Türkiye Barolar Birliği",
-        "entity1_label": "PERSON",
-        "entity2": "Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Türkiye Barolar Birliği",
-        "entity1_label": "PERSON",
-        "entity2": "90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Türkiye Barolar Birliği",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Temsilcilikleri Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "20 PAYLAŞ Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Temsilcilikleri Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "Temsilcilikleri Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Temsilcilikleri Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Temsilcilikleri Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Temsilcilikleri Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Temsilcilikleri Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Personeli Merkezler Komisyonlar",
-        "entity1_label": "PERSON",
-        "entity2": "20 PAYLAŞ Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Personeli Merkezler Komisyonlar",
-        "entity1_label": "PERSON",
-        "entity2": "Temsilcilikleri Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Personeli Merkezler Komisyonlar",
-        "entity1_label": "PERSON",
-        "entity2": "Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Personeli Merkezler Komisyonlar",
-        "entity1_label": "PERSON",
-        "entity2": "Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Personeli Merkezler Komisyonlar",
-        "entity1_label": "PERSON",
-        "entity2": "90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Personeli Merkezler Komisyonlar",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Servisler Baro Meclisi",
-        "entity1_label": "PERSON",
-        "entity2": "20 PAYLAŞ Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Servisler Baro Meclisi",
-        "entity1_label": "PERSON",
-        "entity2": "Temsilcilikleri Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Servisler Baro Meclisi",
-        "entity1_label": "PERSON",
-        "entity2": "Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Servisler Baro Meclisi",
-        "entity1_label": "PERSON",
-        "entity2": "Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Servisler Baro Meclisi",
-        "entity1_label": "PERSON",
-        "entity2": "90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Servisler Baro Meclisi",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Basın Kiti Daha",
-        "entity1_label": "PERSON",
-        "entity2": "20 PAYLAŞ Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Basın Kiti Daha",
-        "entity1_label": "PERSON",
-        "entity2": "Temsilcilikleri Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Basın Kiti Daha",
-        "entity1_label": "PERSON",
-        "entity2": "Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Basın Kiti Daha",
-        "entity1_label": "PERSON",
-        "entity2": "Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Basın Kiti Daha",
-        "entity1_label": "PERSON",
-        "entity2": "90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "Basın Kiti Daha",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
-      },
-      {
-        "entity1": "20 PAYLAŞ Baro",
+        "entity1": "Baro",
         "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
+        "entity2": "GE",
         "entity2_label": "LOCATION",
         "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
-        "sentence_idx": 8
+        "sentence": "ANA SAYFA Baro İlçe Temsilcilikleri GEMLİK AV",
+        "sentence_idx": 0
       },
       {
         "entity1": "Baro",
         "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
+        "entity2": "G",
+        "entity2_label": "PERSON",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro İlçe Temsilcilikleri GEMLİK AV",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "GE",
+        "entity1_label": "LOCATION",
+        "entity2": "G",
+        "entity2_label": "PERSON",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Baro İlçe Temsilcilikleri GEMLİK AV",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "ONURHAN KÖSE",
+        "entity1_label": "PERSON",
+        "entity2": "İN",
         "entity2_label": "LOCATION",
         "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence": "ONURHAN KÖSE +90 224 514 30 54 İNEGÖL AV",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "İN",
+        "entity1_label": "LOCATION",
+        "entity2": "G",
+        "entity2_label": "PERSON",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ONURHAN KÖSE +90 224 514 30 54 İNEGÖL AV",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "GE",
+        "entity1_label": "LOCATION",
+        "entity2": "EGEMEN AVCI",
+        "entity2_label": "PERSON",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "EGEMEN AVCI +90 555 169 16 16 İZNİK AV",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "GE",
+        "entity1_label": "LOCATION",
+        "entity2": "İZNİK",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "EGEMEN AVCI +90 555 169 16 16 İZNİK AV",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "EGEMEN AVCI",
+        "entity1_label": "PERSON",
+        "entity2": "İZNİK",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "EGEMEN AVCI +90 555 169 16 16 İZNİK AV",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "İZNİK",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "G",
+        "entity2_label": "PERSON",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "EGEMEN AVCI +90 555 169 16 16 İZNİK AV",
+        "sentence_idx": 2
+      },
+      {
+        "entity1": "G",
+        "entity1_label": "PERSON",
+        "entity2": "KAR",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GAMZE OLGUN +90 224 757 10 45 KARACABEY AV",
+        "sentence_idx": 3
+      },
+      {
+        "entity1": "G",
+        "entity1_label": "PERSON",
+        "entity2": "MUDANYA",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜLŞAH KOCACIKLI ÜNEN +90 224 676 99 77 MUDANYA AV",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "GÜLŞAH KOCACIKLI ÜNEN",
+        "entity1_label": "PERSON",
+        "entity2": "MUDANYA",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜLŞAH KOCACIKLI ÜNEN +90 224 676 99 77 MUDANYA AV",
+        "sentence_idx": 4
+      },
+      {
+        "entity1": "G",
+        "entity1_label": "PERSON",
+        "entity2": "MUSTAFAKEMALPAŞA",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "TUĞRUL CENGİZ +90 224 543 00 20 MUSTAFAKEMALPAŞA AV",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "TUĞRUL CENGİZ",
+        "entity1_label": "PERSON",
+        "entity2": "MUSTAFAKEMALPAŞA",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "TUĞRUL CENGİZ +90 224 543 00 20 MUSTAFAKEMALPAŞA AV",
+        "sentence_idx": 5
+      },
+      {
+        "entity1": "G",
+        "entity1_label": "PERSON",
+        "entity2": "ORHANGAZİ AV",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜRKAN ESEN +90 224 613 80 80 ORHANGAZİ AV",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "GÜRKAN ESEN",
+        "entity1_label": "PERSON",
+        "entity2": "ORHANGAZİ AV",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "GÜRKAN ESEN +90 224 613 80 80 ORHANGAZİ AV",
+        "sentence_idx": 6
+      },
+      {
+        "entity1": "Baro",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "FULDEN ZANBAK",
+        "entity2_label": "PERSON",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti Daha Fazlası",
         "sentence_idx": 8
       },
       {
-        "entity1": "90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
+        "entity1": "FULDEN ZANBAK",
+        "entity1_label": "PERSON",
+        "entity2": "Türkiye Barolar Birliği",
+        "entity2_label": "ORGANIZATION",
         "relation_type": "MENTIONED_WITH",
-        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri İlçe Temsilcilikleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "FULDEN ZANBAK",
+        "entity1_label": "PERSON",
+        "entity2": "Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti Daha Fazlası",
+        "sentence_idx": 8
+      },
+      {
+        "entity1": "FULDEN ZANBAK",
+        "entity1_label": "PERSON",
+        "entity2": "Baro Meclisi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "FULDEN ZANBAK +90 537 562 57 20 PAYLAŞ Baro Tarihçe Başkan Yönetim Kurulu Disiplin Kurulu Denetleme Kurulu Türkiye Barolar Birliği Delegeleri Bursa Barosu Personeli Merkezler Komisyonlar Servisler Aramızdan Ayrılanlar Baro Meclisi Basın Kiti Daha Fazlası",
         "sentence_idx": 8
       }
     ],

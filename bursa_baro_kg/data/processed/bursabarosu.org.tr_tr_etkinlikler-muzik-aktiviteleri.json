@@ -3,249 +3,35 @@
   "title": "BURSA BAROSU - Müzik Aktiviteleri",
   "content": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
   "scraped_at": "2025-09-19T17:34:31.729096",
-  "processed_at": "2025-09-22T07:41:39.151730",
+  "processed_at": "2025-09-22T10:24:52.843404",
   "nlp_result": {
     "entities": [
       {
-        "text": "Etkinlikler Müzik Aktiviteleri",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
-      },
-      {
         "text": "Türk Müziği Topluluğu",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Çalışmaları Türk Halk",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Müziği Topluluğu Çalışmaları",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
+        "text": "Türk Halk Müziği Topluluğu",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
         "text": "Bursa Baro Orkestrası",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Etkinlikler Tiyatro Advocato",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Müzik Aktiviteleri Spor",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Aktiviteleri Ruhsat Törenleri",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Söyleşiler Daha Fazlası",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Çalışmaları Bursa Baro",
         "label": "ORGANIZATION",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Bursa",
-        "label": "LOCATION",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
+        "text": "Tiyatro Advocato Müzik Aktiv",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       }
     ],
-    "relationships": [
-      {
-        "entity1": "Etkinlikler Müzik Aktiviteleri",
-        "entity1_label": "PERSON",
-        "entity2": "Çalışmaları Bursa Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Müzik Aktiviteleri",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Türk Müziği Topluluğu",
-        "entity1_label": "PERSON",
-        "entity2": "Çalışmaları Bursa Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Türk Müziği Topluluğu",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Çalışmaları Türk Halk",
-        "entity1_label": "PERSON",
-        "entity2": "Çalışmaları Bursa Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Çalışmaları Türk Halk",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Müziği Topluluğu Çalışmaları",
-        "entity1_label": "PERSON",
-        "entity2": "Çalışmaları Bursa Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Müziği Topluluğu Çalışmaları",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Bursa Baro Orkestrası",
-        "entity1_label": "PERSON",
-        "entity2": "Çalışmaları Bursa Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Bursa Baro Orkestrası",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Tiyatro Advocato",
-        "entity1_label": "PERSON",
-        "entity2": "Çalışmaları Bursa Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Tiyatro Advocato",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Müzik Aktiviteleri Spor",
-        "entity1_label": "PERSON",
-        "entity2": "Çalışmaları Bursa Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Müzik Aktiviteleri Spor",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Aktiviteleri Ruhsat Törenleri",
-        "entity1_label": "PERSON",
-        "entity2": "Çalışmaları Bursa Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Aktiviteleri Ruhsat Törenleri",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Söyleşiler Daha Fazlası",
-        "entity1_label": "PERSON",
-        "entity2": "Çalışmaları Bursa Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Söyleşiler Daha Fazlası",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Çalışmaları Bursa Baro",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Müzik Aktiviteleri Türk Müziği Topluluğu Çalışmaları Türk Halk Müziği Topluluğu Çalışmaları Bursa Baro Orkestrası PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      }
-    ],
+    "relationships": [],
     "total_sentences": 1,
     "processed_sentences": 1
   }

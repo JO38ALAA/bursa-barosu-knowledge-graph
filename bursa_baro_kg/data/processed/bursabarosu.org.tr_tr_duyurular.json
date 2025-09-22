@@ -3,86 +3,146 @@
   "title": "BURSA BAROSU - Duyurular",
   "content": "ANA SAYFA Gündem Duyurular KONFERANS: \"Dilekçe Yazma Teknikleri\" 23.08.2025 | 12:00-15:00 | BAOB Av.Özgür Aksoy Konferans Salonu DUYURU KONFERANS SPOR HUKUKUNDA AVUKATLIK 31.07.2025-18:00-BAOB AV.ÖZGÜR AKSOY KONFERANS SALONU DUYURU BİRİLİKİŞİLİK ALT UZMANLIK EĞİTİMLERİ BURSA BAROSU - ULUSEM İŞBİRLİĞİ İLE DUYURU EĞİTİM YAZ PARTİSİ 18 Temmuz 2025 Cuma - Saat:20.00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV.ÖZGÜR AKSOY anısına DUYURU YARIŞMA MAKALE YARIŞMASI - 2025 AV.CENGİZ GÖRAL anısına DUYURU YARIŞMA KONFERANS | KİRA HUKUKU 5 Temmuz 2025 - 13:30 - BAOB Ortak Salon DUYURU KONFERANS KONFERANS | İflas İdare Memurluğu ve Tasfiye Uygulamalarında Karşılaşılan Sorunlar 21.06.2025 | 13:00-17:00 | BAOB Av.Özgür Aksoy Konferans Salonu DUYURU KONFERANS KONFERANS Oto Sigortalarında Yargıtay Kararları Işığında Güncel Gelişmeler 14.06.2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
   "scraped_at": "2025-09-19T17:34:34.186984",
-  "processed_at": "2025-09-22T07:41:39.136503",
+  "processed_at": "2025-09-22T10:24:51.531243",
   "nlp_result": {
     "entities": [
       {
-        "text": "Gündem Duyurular",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Gündem Duyurular KONFERANS: \"Dilekçe Yazma Teknikleri\" 23"
-      },
-      {
-        "text": "Dilekçe Yazma Teknikleri",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Gündem Duyurular KONFERANS: \"Dilekçe Yazma Teknikleri\" 23"
-      },
-      {
-        "text": "Özgür Aksoy Konferans",
-        "label": "PERSON",
-        "sentence_idx": 3,
-        "sentence": "Özgür Aksoy Konferans Salonu DUYURU KONFERANS SPOR HUKUKUNDA AVUKATLIK 31"
-      },
-      {
-        "text": "EĞİTİMLERİ BURSA BAROSU",
+        "text": "BAOB",
         "label": "ORGANIZATION",
-        "sentence_idx": 6,
-        "sentence": "ÖZGÜR AKSOY KONFERANS SALONU DUYURU BİRİLİKİŞİLİK ALT UZMANLIK EĞİTİMLERİ BURSA BAROSU - ULUSEM İŞBİRLİĞİ İLE DUYURU EĞİTİM YAZ PARTİSİ 18 Temmuz 2025 Cuma - Saat:20"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "BURSA",
-        "label": "LOCATION",
-        "sentence_idx": 6,
-        "sentence": "ÖZGÜR AKSOY KONFERANS SALONU DUYURU BİRİLİKİŞİLİK ALT UZMANLIK EĞİTİMLERİ BURSA BAROSU - ULUSEM İŞBİRLİĞİ İLE DUYURU EĞİTİM YAZ PARTİSİ 18 Temmuz 2025 Cuma - Saat:20"
+        "text": ".",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Özgür Aksoy",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "SPOR HUKUK",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": ". ÖZGÜR AKSOY",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "BURSA BAROSU",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##SEM",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##25",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Cihangir Pub Podyump",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "BURSA BAROSU & İSTANBUL TAHK",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "MERKEZ",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##MUZ",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Bölge Adliye Mahkemesi Konferans",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "AV. ÖZGÜR AKSOY",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "CENGİZ GÖRAL",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "KİRA HUKUK",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "İflas İdare Memurluğu ve Tasfiye",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Oto Sigorta",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Yargıtay",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "BAM",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Baro Medya",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "TBB",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
         "text": "18 Temmuz 2025",
         "label": "DATE",
         "sentence_idx": 6,
         "sentence": "ÖZGÜR AKSOY KONFERANS SALONU DUYURU BİRİLİKİŞİLİK ALT UZMANLIK EĞİTİMLERİ BURSA BAROSU - ULUSEM İŞBİRLİĞİ İLE DUYURU EĞİTİM YAZ PARTİSİ 18 Temmuz 2025 Cuma - Saat:20"
-      },
-      {
-        "text": "Cihangir Pub Podyumpark",
-        "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV"
-      },
-      {
-        "text": "Bölge Adliye Mahkemesi",
-        "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV"
-      },
-      {
-        "text": "Konferans Salonu",
-        "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV"
-      },
-      {
-        "text": "| BURSA BAROSU",
-        "label": "ORGANIZATION",
-        "sentence_idx": 7,
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV"
-      },
-      {
-        "text": "Adliye Mahkemesi",
-        "label": "ORGANIZATION",
-        "sentence_idx": 7,
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV"
-      },
-      {
-        "text": "İSTANBUL TAHKİM MERKEZİ",
-        "label": "ORGANIZATION",
-        "sentence_idx": 7,
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV"
-      },
-      {
-        "text": "İSTANBUL",
-        "label": "LOCATION",
-        "sentence_idx": 7,
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV"
       },
       {
         "text": "7 TEMMUZ 2025",
@@ -97,591 +157,84 @@
         "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV"
       },
       {
-        "text": "Ortak Salon",
-        "label": "PERSON",
-        "sentence_idx": 9,
-        "sentence": "CENGİZ GÖRAL anısına DUYURU YARIŞMA KONFERANS | KİRA HUKUKU 5 Temmuz 2025 - 13:30 - BAOB Ortak Salon DUYURU KONFERANS KONFERANS | İflas İdare Memurluğu ve Tasfiye Uygulamalarında Karşılaşılan Sorunlar 21"
-      },
-      {
-        "text": "Tasfiye Uygulamalarında Karşılaşılan",
-        "label": "PERSON",
-        "sentence_idx": 9,
-        "sentence": "CENGİZ GÖRAL anısına DUYURU YARIŞMA KONFERANS | KİRA HUKUKU 5 Temmuz 2025 - 13:30 - BAOB Ortak Salon DUYURU KONFERANS KONFERANS | İflas İdare Memurluğu ve Tasfiye Uygulamalarında Karşılaşılan Sorunlar 21"
-      },
-      {
         "text": "5 Temmuz 2025",
         "label": "DATE",
         "sentence_idx": 9,
         "sentence": "CENGİZ GÖRAL anısına DUYURU YARIŞMA KONFERANS | KİRA HUKUKU 5 Temmuz 2025 - 13:30 - BAOB Ortak Salon DUYURU KONFERANS KONFERANS | İflas İdare Memurluğu ve Tasfiye Uygulamalarında Karşılaşılan Sorunlar 21"
-      },
-      {
-        "text": "Oto Sigortalarında Yargıtay",
-        "label": "PERSON",
-        "sentence_idx": 12,
-        "sentence": "Özgür Aksoy Konferans Salonu DUYURU KONFERANS KONFERANS Oto Sigortalarında Yargıtay Kararları Işığında Güncel Gelişmeler 14"
-      },
-      {
-        "text": "Kararları Işığında Güncel",
-        "label": "PERSON",
-        "sentence_idx": 12,
-        "sentence": "Özgür Aksoy Konferans Salonu DUYURU KONFERANS KONFERANS Oto Sigortalarında Yargıtay Kararları Işığında Güncel Gelişmeler 14"
-      },
-      {
-        "text": "Oto Sigortalarında Yargıtay",
-        "label": "ORGANIZATION",
-        "sentence_idx": 12,
-        "sentence": "Özgür Aksoy Konferans Salonu DUYURU KONFERANS KONFERANS Oto Sigortalarında Yargıtay Kararları Işığında Güncel Gelişmeler 14"
-      },
-      {
-        "text": "Gündem Sosyal Sorumluluk",
-        "label": "PERSON",
-        "sentence_idx": 14,
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
-      },
-      {
-        "text": "Çalışmaları Baro Medya",
-        "label": "PERSON",
-        "sentence_idx": 14,
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
-      },
-      {
-        "text": "Basında Bursa Barosu",
-        "label": "PERSON",
-        "sentence_idx": 14,
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
-      },
-      {
-        "text": "Basın Açıklamaları",
-        "label": "PERSON",
-        "sentence_idx": 14,
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
-      },
-      {
-        "text": "Duyuruları Duyurular Daha",
-        "label": "PERSON",
-        "sentence_idx": 14,
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
-      },
-      {
-        "text": "Sorumluluk Çalışmaları Baro",
-        "label": "ORGANIZATION",
-        "sentence_idx": 14,
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
       }
     ],
     "relationships": [
       {
-        "entity1": "EĞİTİMLERİ BURSA BAROSU",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "BURSA",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ÖZGÜR AKSOY KONFERANS SALONU DUYURU BİRİLİKİŞİLİK ALT UZMANLIK EĞİTİMLERİ BURSA BAROSU - ULUSEM İŞBİRLİĞİ İLE DUYURU EĞİTİM YAZ PARTİSİ 18 Temmuz 2025 Cuma - Saat:20",
-        "sentence_idx": 6
-      },
-      {
-        "entity1": "EĞİTİMLERİ BURSA BAROSU",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "18 Temmuz 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ÖZGÜR AKSOY KONFERANS SALONU DUYURU BİRİLİKİŞİLİK ALT UZMANLIK EĞİTİMLERİ BURSA BAROSU - ULUSEM İŞBİRLİĞİ İLE DUYURU EĞİTİM YAZ PARTİSİ 18 Temmuz 2025 Cuma - Saat:20",
-        "sentence_idx": 6
-      },
-      {
-        "entity1": "BURSA",
-        "entity1_label": "LOCATION",
-        "entity2": "18 Temmuz 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ÖZGÜR AKSOY KONFERANS SALONU DUYURU BİRİLİKİŞİLİK ALT UZMANLIK EĞİTİMLERİ BURSA BAROSU - ULUSEM İŞBİRLİĞİ İLE DUYURU EĞİTİM YAZ PARTİSİ 18 Temmuz 2025 Cuma - Saat:20",
-        "sentence_idx": 6
-      },
-      {
-        "entity1": "Cihangir Pub Podyumpark",
+        "entity1": "Özgür Aksoy",
         "entity1_label": "PERSON",
-        "entity2": "| BURSA BAROSU",
+        "entity2": "SPOR HUKUK",
         "entity2_label": "ORGANIZATION",
         "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
+        "sentence": "Özgür Aksoy Konferans Salonu DUYURU KONFERANS SPOR HUKUKUNDA AVUKATLIK 31",
+        "sentence_idx": 3
       },
       {
-        "entity1": "Cihangir Pub Podyumpark",
-        "entity1_label": "PERSON",
-        "entity2": "Adliye Mahkemesi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Cihangir Pub Podyumpark",
-        "entity1_label": "PERSON",
-        "entity2": "İSTANBUL TAHKİM MERKEZİ",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Cihangir Pub Podyumpark",
-        "entity1_label": "PERSON",
-        "entity2": "BURSA",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Cihangir Pub Podyumpark",
-        "entity1_label": "PERSON",
-        "entity2": "İSTANBUL",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Cihangir Pub Podyumpark",
-        "entity1_label": "PERSON",
-        "entity2": "7 TEMMUZ 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Cihangir Pub Podyumpark",
-        "entity1_label": "PERSON",
-        "entity2": "Mahkemesi",
-        "entity2_label": "LEGAL_TERM",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bölge Adliye Mahkemesi",
-        "entity1_label": "PERSON",
-        "entity2": "| BURSA BAROSU",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bölge Adliye Mahkemesi",
-        "entity1_label": "PERSON",
-        "entity2": "Adliye Mahkemesi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bölge Adliye Mahkemesi",
-        "entity1_label": "PERSON",
-        "entity2": "İSTANBUL TAHKİM MERKEZİ",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bölge Adliye Mahkemesi",
-        "entity1_label": "PERSON",
-        "entity2": "BURSA",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bölge Adliye Mahkemesi",
-        "entity1_label": "PERSON",
-        "entity2": "İSTANBUL",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bölge Adliye Mahkemesi",
-        "entity1_label": "PERSON",
-        "entity2": "7 TEMMUZ 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bölge Adliye Mahkemesi",
-        "entity1_label": "PERSON",
-        "entity2": "Mahkemesi",
-        "entity2_label": "LEGAL_TERM",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Konferans Salonu",
-        "entity1_label": "PERSON",
-        "entity2": "| BURSA BAROSU",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Konferans Salonu",
-        "entity1_label": "PERSON",
-        "entity2": "Adliye Mahkemesi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Konferans Salonu",
-        "entity1_label": "PERSON",
-        "entity2": "İSTANBUL TAHKİM MERKEZİ",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Konferans Salonu",
-        "entity1_label": "PERSON",
-        "entity2": "BURSA",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Konferans Salonu",
-        "entity1_label": "PERSON",
-        "entity2": "İSTANBUL",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Konferans Salonu",
-        "entity1_label": "PERSON",
-        "entity2": "7 TEMMUZ 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Konferans Salonu",
-        "entity1_label": "PERSON",
-        "entity2": "Mahkemesi",
-        "entity2_label": "LEGAL_TERM",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "| BURSA BAROSU",
+        "entity1": "SPOR HUKUK",
         "entity1_label": "ORGANIZATION",
-        "entity2": "BURSA",
-        "entity2_label": "LOCATION",
+        "entity2": "Özgür Aksoy",
+        "entity2_label": "PERSON",
         "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
+        "sentence": "Özgür Aksoy Konferans Salonu DUYURU KONFERANS SPOR HUKUKUNDA AVUKATLIK 31",
+        "sentence_idx": 3
       },
       {
-        "entity1": "| BURSA BAROSU",
+        "entity1": "BAOB",
         "entity1_label": "ORGANIZATION",
-        "entity2": "İSTANBUL",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "| BURSA BAROSU",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "7 TEMMUZ 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "| BURSA BAROSU",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "Mahkemesi",
-        "entity2_label": "LEGAL_TERM",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Adliye Mahkemesi",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "BURSA",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Adliye Mahkemesi",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "İSTANBUL",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Adliye Mahkemesi",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "7 TEMMUZ 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Adliye Mahkemesi",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "Mahkemesi",
-        "entity2_label": "LEGAL_TERM",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "İSTANBUL TAHKİM MERKEZİ",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "BURSA",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "İSTANBUL TAHKİM MERKEZİ",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "İSTANBUL",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "İSTANBUL TAHKİM MERKEZİ",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "7 TEMMUZ 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "İSTANBUL TAHKİM MERKEZİ",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "Mahkemesi",
-        "entity2_label": "LEGAL_TERM",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "BURSA",
-        "entity1_label": "LOCATION",
-        "entity2": "7 TEMMUZ 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "BURSA",
-        "entity1_label": "LOCATION",
-        "entity2": "Mahkemesi",
-        "entity2_label": "LEGAL_TERM",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "İSTANBUL",
-        "entity1_label": "LOCATION",
-        "entity2": "7 TEMMUZ 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "İSTANBUL",
-        "entity1_label": "LOCATION",
-        "entity2": "Mahkemesi",
-        "entity2_label": "LEGAL_TERM",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "7 TEMMUZ 2025",
-        "entity1_label": "DATE",
-        "entity2": "Mahkemesi",
-        "entity2_label": "LEGAL_TERM",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "00 - Cihangir Pub Podyumpark DUYURU TAHKİM GÜNÜ | BURSA BAROSU & İSTANBUL TAHKİM MERKEZİ (ISTAC) 7 TEMMUZ 2025 PAZARTESİ | 14:00-16:00 Bölge Adliye Mahkemesi Konferans Salonu DUYURU ŞİİR YARIŞMASI - 2025 AV",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Ortak Salon",
-        "entity1_label": "PERSON",
-        "entity2": "5 Temmuz 2025",
-        "entity2_label": "DATE",
+        "entity2": "CENGİZ GÖRAL",
+        "entity2_label": "PERSON",
         "relation_type": "MENTIONED_WITH",
         "sentence": "CENGİZ GÖRAL anısına DUYURU YARIŞMA KONFERANS | KİRA HUKUKU 5 Temmuz 2025 - 13:30 - BAOB Ortak Salon DUYURU KONFERANS KONFERANS | İflas İdare Memurluğu ve Tasfiye Uygulamalarında Karşılaşılan Sorunlar 21",
         "sentence_idx": 9
       },
       {
-        "entity1": "Tasfiye Uygulamalarında Karşılaşılan",
+        "entity1": "CENGİZ GÖRAL",
         "entity1_label": "PERSON",
-        "entity2": "5 Temmuz 2025",
-        "entity2_label": "DATE",
+        "entity2": "KİRA HUKUK",
+        "entity2_label": "ORGANIZATION",
         "relation_type": "MENTIONED_WITH",
         "sentence": "CENGİZ GÖRAL anısına DUYURU YARIŞMA KONFERANS | KİRA HUKUKU 5 Temmuz 2025 - 13:30 - BAOB Ortak Salon DUYURU KONFERANS KONFERANS | İflas İdare Memurluğu ve Tasfiye Uygulamalarında Karşılaşılan Sorunlar 21",
         "sentence_idx": 9
       },
       {
-        "entity1": "Özgür Aksoy Konferans",
+        "entity1": "CENGİZ GÖRAL",
         "entity1_label": "PERSON",
-        "entity2": "Oto Sigortalarında Yargıtay",
+        "entity2": "BAOB",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "CENGİZ GÖRAL anısına DUYURU YARIŞMA KONFERANS | KİRA HUKUKU 5 Temmuz 2025 - 13:30 - BAOB Ortak Salon DUYURU KONFERANS KONFERANS | İflas İdare Memurluğu ve Tasfiye Uygulamalarında Karşılaşılan Sorunlar 21",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "CENGİZ GÖRAL",
+        "entity1_label": "PERSON",
+        "entity2": "İflas İdare Memurluğu ve Tasfiye",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "CENGİZ GÖRAL anısına DUYURU YARIŞMA KONFERANS | KİRA HUKUKU 5 Temmuz 2025 - 13:30 - BAOB Ortak Salon DUYURU KONFERANS KONFERANS | İflas İdare Memurluğu ve Tasfiye Uygulamalarında Karşılaşılan Sorunlar 21",
+        "sentence_idx": 9
+      },
+      {
+        "entity1": "Özgür Aksoy",
+        "entity1_label": "PERSON",
+        "entity2": "Oto Sigorta",
         "entity2_label": "ORGANIZATION",
         "relation_type": "MENTIONED_WITH",
         "sentence": "Özgür Aksoy Konferans Salonu DUYURU KONFERANS KONFERANS Oto Sigortalarında Yargıtay Kararları Işığında Güncel Gelişmeler 14",
         "sentence_idx": 12
       },
       {
-        "entity1": "Oto Sigortalarında Yargıtay",
+        "entity1": "Özgür Aksoy",
         "entity1_label": "PERSON",
-        "entity2": "Oto Sigortalarında Yargıtay",
+        "entity2": "Yargıtay",
         "entity2_label": "ORGANIZATION",
         "relation_type": "MENTIONED_WITH",
         "sentence": "Özgür Aksoy Konferans Salonu DUYURU KONFERANS KONFERANS Oto Sigortalarında Yargıtay Kararları Işığında Güncel Gelişmeler 14",
         "sentence_idx": 12
-      },
-      {
-        "entity1": "Kararları Işığında Güncel",
-        "entity1_label": "PERSON",
-        "entity2": "Oto Sigortalarında Yargıtay",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Özgür Aksoy Konferans Salonu DUYURU KONFERANS KONFERANS Oto Sigortalarında Yargıtay Kararları Işığında Güncel Gelişmeler 14",
-        "sentence_idx": 12
-      },
-      {
-        "entity1": "Gündem Sosyal Sorumluluk",
-        "entity1_label": "PERSON",
-        "entity2": "Sorumluluk Çalışmaları Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 14
-      },
-      {
-        "entity1": "Gündem Sosyal Sorumluluk",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 14
-      },
-      {
-        "entity1": "Çalışmaları Baro Medya",
-        "entity1_label": "PERSON",
-        "entity2": "Sorumluluk Çalışmaları Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 14
-      },
-      {
-        "entity1": "Çalışmaları Baro Medya",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 14
-      },
-      {
-        "entity1": "Basında Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "Sorumluluk Çalışmaları Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 14
-      },
-      {
-        "entity1": "Basında Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 14
-      },
-      {
-        "entity1": "Basın Açıklamaları",
-        "entity1_label": "PERSON",
-        "entity2": "Sorumluluk Çalışmaları Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 14
-      },
-      {
-        "entity1": "Basın Açıklamaları",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 14
-      },
-      {
-        "entity1": "Duyuruları Duyurular Daha",
-        "entity1_label": "PERSON",
-        "entity2": "Sorumluluk Çalışmaları Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 14
-      },
-      {
-        "entity1": "Duyuruları Duyurular Daha",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 14
-      },
-      {
-        "entity1": "Sorumluluk Çalışmaları Baro",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "2025 | 10:00 | BAM KONFERANS SALONU DUYURU KONFERANS « 1 2 3 4 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 14
       }
     ],
     "total_sentences": 15,

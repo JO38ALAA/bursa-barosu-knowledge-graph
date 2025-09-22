@@ -3,403 +3,319 @@
   "title": "BURSA BAROSU - Bilişim Hukuku Komisyonu",
   "content": "ANA SAYFA Baro Komisyonlar Bilişim Hukuku Komisyonu Komisyonun Tanıtımı ve Genel Amaçları Komisyonumuz 2002 yılında kurulmuş olup, ilk toplantısını 16.04.2002 tarihinde yapmıştır. Komisyonumuzun temel amaçları; Baronun kullanmakta olduğu tüm yazılım ve donanımının yeterli ve verimli hale getirilmesi, bunun için güncelleme ve yenileme veya ihtiyaç duyulan ilavelerin yapılması için çalışma yapmak; Meslektaşlarımızın kullanmakta olduğu ve ihtiyaç duydukları mesleki yazılım programlarının daha kaliteli, yeterli ve ekonomik bir şekilde teminin veya yapımının, kullanımının, tanıtımının yapılması; Meslektaşlarımıza bilgisayar kullanımı ile ilgili ihtiyaç duyulan alan ve konularda ayrıntılı bilgi ve eğitim verilmesi; Baromuzun özellikle internet bağlantısının hızlandırılması için araştırmalar yapılarak erişim hızının arttırılması, intranet (yerel ağ) bağlantılarının güvenli ve güncel hale getirilmesi için çalışmalar yapılması; Baro internet sayfasının kullanımının arttırılması, geliştirilmesi, yaygın bir şekilde kullanılması, ziyaret edilmesi, tanıtılması, güncel halde tutulması hususları başta olmak üzere bilişim ve internet alanında çeşitli çalışmaların yapılması komisyonumuzun temel amacıdır. ÜYELER: SIRA ADI SOYADI ERHAN YAŞBEY ÖZEN DAĞDEVİREN 1 HİLAL KARAKAŞ EKER BAŞKAN 2 İLKNUR KARAYAĞLI AVCI BAŞKAN YARDIMCISI 3 ÖZLEM KAHRAMAN ÖNDE YAZMAN 4 AKIN GÜN 5 ALİ RIZA ATAER 6 ASLI ÇETİN 7 AYÇA AKGÜN 8 AYŞE SENANUR AYGÜR 9 BARIŞ SAYAR 10 BENGİ KADIOĞLU 11 BERRAK ÖZCAN 12 BURAK BATTAL 13 BÜŞRA TEZANLAYAN 14 ÇINLA KARACA ORUÇOĞLU 15 DİLARA YILDIRIM 16 DOĞUKAN VURAL 17 ELİF ŞUARA GÜNGÖR 18 ENES BURHAN 19 EZGİ BİLGİN 20 EZGİ KARABATI 21 FIRAT GÜL 22 GÖKÇEN YÜCEL 23 GÜL TOMRUK GÖKALP 24 GÜLCE KAZAZ 25 HAŞİM KIRIK 26 İBRAHİM OSMAN ORUÇOĞLU 27 İLKE EKŞİ 28 İREM NALBANT 29 İSMAİL AKMAN 30 İSMAİL ÖZGECAN ÖZDEMİR 31 KARDELEN AKGÜN 32 KEMAL ÖZGÜR YETKİN 33 MEHMET YILDIRIM 34 MEHMET KAAN KARA 35 MERT BULUT 36 MERVE YEŞİL 37 METİN GÖKALP 38 NİLGÜN ÖZBULUT 39 NÜSRA ÖZTÜRK 40 OĞUZHAN SEYMEN 41 OKAN DURSUN 42 ORKUN TEKİN 43 RÜMEYSA YAREN KOÇ 44 SEDAT GÖKDEMİR 45 SEMANUR UÇAR FİDANCI 46 SERVET SARICA 47 SİBEL GÜNDÜZ TOPCU 48 SİMGE BELİN ÖZTÜRK 49 ŞABAN CANKAT TAŞKIN 50 TANSU KARAGÖZ 51 ÜLKER ŞAHVERDİ 52 VİDADİ BEKTAŞ DEMİRCİ 53 ZEYNEP YAZICI 54 ZÜLAL EMEK REÇBER 55 ZEYNEP HESAPDAR ARTUN 56 ELİFNUR UZEL BAYRAMOĞLU DOSYALAR bilisim-komisyonu-bulteni-sayi-3.pdf 253,00 KB bilisim-komisyonu-bulteni-sayi_1.pdf 253,00 KB bilisim-komisyonu-bulteni-sayi_2.pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
   "scraped_at": "2025-09-19T17:34:36.890158",
-  "processed_at": "2025-09-22T07:41:38.703476",
+  "processed_at": "2025-09-22T10:24:36.809471",
   "nlp_result": {
     "entities": [
       {
-        "text": "Baro Komisyonlar Bilişim",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Baro Komisyonlar Bilişim Hukuku Komisyonu Komisyonun Tanıtımı ve Genel Amaçları Komisyonumuz 2002 yılında kurulmuş olup, ilk toplantısını 16"
-      },
-      {
-        "text": "Hukuku Komisyonu Komisyonun",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Baro Komisyonlar Bilişim Hukuku Komisyonu Komisyonun Tanıtımı ve Genel Amaçları Komisyonumuz 2002 yılında kurulmuş olup, ilk toplantısını 16"
-      },
-      {
-        "text": "Genel Amaçları Komisyonumuz",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Baro Komisyonlar Bilişim Hukuku Komisyonu Komisyonun Tanıtımı ve Genel Amaçları Komisyonumuz 2002 yılında kurulmuş olup, ilk toplantısını 16"
-      },
-      {
-        "text": "ANA SAYFA Baro",
+        "text": "Baro Komisyonlar Bilişim Hukuku Komisyonu",
         "label": "ORGANIZATION",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Baro Komisyonlar Bilişim Hukuku Komisyonu Komisyonun Tanıtımı ve Genel Amaçları Komisyonumuz 2002 yılında kurulmuş olup, ilk toplantısını 16"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "çalışmalar yapılması; Baro",
+        "text": "##net",
         "label": "ORGANIZATION",
-        "sentence_idx": 3,
-        "sentence": "Komisyonumuzun temel amaçları; Baronun kullanmakta olduğu tüm yazılım ve donanımının yeterli ve verimli hale getirilmesi, bunun için güncelleme ve yenileme veya ihtiyaç duyulan ilavelerin yapılması için çalışma yapmak; Meslektaşlarımızın kullanmakta olduğu ve ihtiyaç duydukları mesleki yazılım programlarının daha kaliteli, yeterli ve ekonomik bir şekilde teminin veya yapımının, kullanımının, tanıtımının yapılması; Meslektaşlarımıza bilgisayar kullanımı ile ilgili ihtiyaç duyulan alan ve konularda ayrıntılı bilgi ve eğitim verilmesi; Baromuzun özellikle internet bağlantısının hızlandırılması için araştırmalar yapılarak erişim hızının arttırılması, intranet (yerel ağ) bağlantılarının güvenli ve güncel hale getirilmesi için çalışmalar yapılması; Baro internet sayfasının kullanımının arttırılması, geliştirilmesi, yaygın bir şekilde kullanılması, ziyaret edilmesi, tanıtılması, güncel halde tutulması hususları başta olmak üzere bilişim ve internet alanında çeşitli çalışmaların yapılması komisyonumuzun temel amacıdır"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Baro Komisyonlarına",
+        "text": "ERHAN YAŞBEY ÖZEN DAĞDEVİREN",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Merkezlerine Başvuru Formu",
+        "text": "H",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Komisyonu Arabuluculuk",
+        "text": "##İLAL KARAKAŞ EKER",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Alternatif Uyuşmazlık Çözümleri",
+        "text": "İLKNUR KARAYAĞLI AVCI",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Komisyonu Atatürk Araştırmaları",
+        "text": "ÖZ",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Komisyonu Bilişim Hukuku",
+        "text": "##LEM KAHRAMAN ÖNDE YAZMAN",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Komisyonu Çevre",
+        "text": "AKIN GÜN",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Kent Hukuku Komisyonu",
+        "text": "ALİ RIZA ATAER",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Deniz Ticaret Hukuku",
+        "text": "ASLI ÇETİN",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Komisyonu Edebiyat Komisyonu",
+        "text": "AYÇA AKGÜN",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Engelli Hakları Komisyonu",
+        "text": "AYŞE SENANUR AYGÜR",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Hayvan Hakları Komisyonu",
+        "text": "BARIŞ SAYAR",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Hukuku Komisyonu",
+        "text": "BENGİ KADIOĞLU",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Vergi Hukuku Komisyonu",
+        "text": "B",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Hakları Komisyonu",
+        "text": "##ERRAK ÖZCAN",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Sosyal Güvenlik Hukuku",
+        "text": "BURAK BATTAL",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Hukuku Komisyonu Mülteciler",
+        "text": "BÜŞRA TEZANLAYAN",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Yabancılar Hukuku Komisyonu",
+        "text": "ÇINLA KARACA ORUÇOĞLU",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Sağlık Hukuku Komisyonu",
+        "text": "DİLARA YILDIRIM",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Sigorta Hukuku Komisyonu",
+        "text": "DOĞUKAN VURAL",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Sosyal Etkinlikler Komisyonu",
+        "text": "ELİF ŞUARA GÜNGÖR",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Daha Fazlası",
+        "text": "ENES BURHAN",
         "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Komisyonlar --- Baro",
-        "label": "ORGANIZATION",
-        "sentence_idx": 7,
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası"
+        "text": "E",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##ZGİ BİLGİN",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##Gİ KARABATI",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "FIRAT GÜL",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "GÖ",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##KÇEN YÜCEL",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "GÜL TOMRUK GÖKALP",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "GÜLCE KAZAZ",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "HAŞİM KIRIK",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "İBRAHİM OSMAN ORUÇOĞLU",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "İLKE EKŞİ",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "İREM NALBANT",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "İSMAİL AKMAN",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "İSMAİL ÖZGECAN ÖZDEMİR",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "KARDELEN AKGÜN",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "K",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##EMAL ÖZGÜR YETKİN",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "M",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##EHMET YILDIRIM",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##EHMET KAAN KARA",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "MERT BULUT",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "MERVE YEŞİL",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "METİN GÖKALP",
+        "label": "PERSON",
+        "sentence_idx": null,
+        "sentence": null
       }
     ],
     "relationships": [
       {
-        "entity1": "Baro Komisyonlar Bilişim",
-        "entity1_label": "PERSON",
-        "entity2": "ANA SAYFA Baro",
-        "entity2_label": "ORGANIZATION",
+        "entity1": "Baro Komisyonlar Bilişim Hukuku Komisyonu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "H",
+        "entity2_label": "PERSON",
         "relation_type": "MENTIONED_WITH",
         "sentence": "ANA SAYFA Baro Komisyonlar Bilişim Hukuku Komisyonu Komisyonun Tanıtımı ve Genel Amaçları Komisyonumuz 2002 yılında kurulmuş olup, ilk toplantısını 16",
         "sentence_idx": 0
       },
       {
-        "entity1": "Hukuku Komisyonu Komisyonun",
-        "entity1_label": "PERSON",
-        "entity2": "ANA SAYFA Baro",
-        "entity2_label": "ORGANIZATION",
+        "entity1": "Baro Komisyonlar Bilişim Hukuku Komisyonu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "B",
+        "entity2_label": "PERSON",
         "relation_type": "MENTIONED_WITH",
         "sentence": "ANA SAYFA Baro Komisyonlar Bilişim Hukuku Komisyonu Komisyonun Tanıtımı ve Genel Amaçları Komisyonumuz 2002 yılında kurulmuş olup, ilk toplantısını 16",
         "sentence_idx": 0
       },
       {
-        "entity1": "Genel Amaçları Komisyonumuz",
-        "entity1_label": "PERSON",
-        "entity2": "ANA SAYFA Baro",
-        "entity2_label": "ORGANIZATION",
+        "entity1": "Baro Komisyonlar Bilişim Hukuku Komisyonu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "K",
+        "entity2_label": "PERSON",
         "relation_type": "MENTIONED_WITH",
         "sentence": "ANA SAYFA Baro Komisyonlar Bilişim Hukuku Komisyonu Komisyonun Tanıtımı ve Genel Amaçları Komisyonumuz 2002 yılında kurulmuş olup, ilk toplantısını 16",
         "sentence_idx": 0
-      },
-      {
-        "entity1": "Baro Komisyonlarına",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Merkezlerine Başvuru Formu",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Komisyonu Arabuluculuk",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Alternatif Uyuşmazlık Çözümleri",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Komisyonu Atatürk Araştırmaları",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Komisyonu Bilişim Hukuku",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Komisyonu Çevre",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Kent Hukuku Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Deniz Ticaret Hukuku",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Komisyonu Edebiyat Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Engelli Hakları Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Hayvan Hakları Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Hukuku Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Vergi Hukuku Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Hakları Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Sosyal Güvenlik Hukuku",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Hukuku Komisyonu Mülteciler",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Yabancılar Hukuku Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Sağlık Hukuku Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Sigorta Hukuku Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Sosyal Etkinlikler Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Daha Fazlası",
-        "entity1_label": "PERSON",
-        "entity2": "Komisyonlar --- Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "pdf 253,00 KB PAYLAŞ Komisyonlar --- Baro Komisyonlarına ve Merkezlerine Başvuru Formu --- --- KOMİSYON ÇALIŞMA YÖNERGESİ --- AB ve Dış İlişkiler Komisyonu Arabuluculuk ve Alternatif Uyuşmazlık Çözümleri Komisyonu Atatürk Araştırmaları Komisyonu Bilişim Hukuku Komisyonu Çevre ve Kent Hukuku Komisyonu Deniz Ticaret Hukuku Komisyonu Edebiyat Komisyonu Engelli Hakları Komisyonu Hayvan Hakları Komisyonu İcra ve İflas Hukuku Komisyonu İdare ve Vergi Hukuku Komisyonu İnsan Hakları Komisyonu İş ve Sosyal Güvenlik Hukuku Komisyonu KVK Hukuku Komisyonu Mülteciler ve Yabancılar Hukuku Komisyonu Sağlık Hukuku Komisyonu Sigorta Hukuku Komisyonu Sosyal Etkinlikler Komisyonu Daha Fazlası",
-        "sentence_idx": 7
       }
     ],
     "total_sentences": 8,

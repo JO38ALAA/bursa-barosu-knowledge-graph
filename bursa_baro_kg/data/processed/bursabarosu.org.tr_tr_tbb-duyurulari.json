@@ -3,328 +3,193 @@
   "title": "BURSA BAROSU - TBB Duyuruları",
   "content": "ANA SAYFA Gündem TBB Duyuruları BAROKART üzerinden gerçekleştirilen iş ve işlemlere dair hizmetlerin mülkiyeti Birliğimize ait E-BAROBİRLİK Sistemi hakkında TBB DUYURUSU (2025/39) DUYURU TBB DUYURUSU ÇABA Projesi kapsamında çocukların adalete erişimini desteklemek amacıyla avukatlara yönelik eğitim programları hk. TBB DUYURUSU (2025/22) DUYURU TBB DUYURUSU Avrupa Konseyi'nin Strazburg'da bulunan merkezine yapılacak görevlendirme ile ilgili. DUYURU NO:2024/65: Türkiye'de Göç Bağlamında İnsan Haklarının Korumasının Güçlendirilmesi Projesi” kapsamında, bir meslektaşımız iki ay süre ile Avrupa Konseyi'nin Strazburg'da bulunan merkezinde görevlendirilecektir. DUYURU TBB DUYURUSU TBB ile TÖMER arasında yapılan indirim protokolü DUYURU TBB DUYURUSU Hukuk Mesleklerine Giriş Sınavı başarı belgesinin staj başvuru dosyalarına kazandırılması hakkında. TBB DUYURUSU (2024/28) DUYURU TBB DUYURUSU TBB-SYDF “Bakmakla Yükümlü Olunan Kişiler Tedavi Yardımları ve Dayanışma Aidatı Toplama Uygulama Esasları Yönergesi'' Değişikliği Hakkında. TBB DUYURUSU (2024/32) DUYURU TBB DUYURUSU TBB DUYURUSU (2024/26) 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun'un avukatları yükümlü kapsamına alan 2. maddesinde yer alan ilgili ibarenin Anayasa Mahkemesince iptali hakkında. DUYURU TBB DUYURUSU ILAP kapsamında hazırlanan çevrimiçi staj ve meslek içi eğitim platformu hakkında, TBB DUYURUSU (2024/16) DUYURU TBB DUYURUSU Türkiye Barolar Birliği Meslek Kuralları Değişikliği Hakkında. TBB DUYURUSU (2023/85) DUYURU TBB DUYURUSU 0-5 Yıl Kıdem Aidatları Hakkında TBB DUYURUSU (2023/44) DUYURU TBB DUYURUSU « 1 2 3 4 ... 10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
   "scraped_at": "2025-09-19T17:34:43.779136",
-  "processed_at": "2025-09-22T07:41:39.366969",
+  "processed_at": "2025-09-22T10:25:05.943793",
   "nlp_result": {
     "entities": [
       {
+        "text": "##B Duyuru",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##ART",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "E - BAROBİRLİK",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "TBB",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "ÇABA Projesi",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
         "text": "Avrupa Konseyi",
-        "label": "PERSON",
-        "sentence_idx": 1,
-        "sentence": "TBB DUYURUSU (2025/22) DUYURU TBB DUYURUSU Avrupa Konseyi'nin Strazburg'da bulunan merkezine yapılacak görevlendirme ile ilgili"
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Göç Bağlamında",
-        "label": "PERSON",
-        "sentence_idx": 2,
-        "sentence": "DUYURU NO:2024/65: Türkiye'de Göç Bağlamında İnsan Haklarının Korumasının Güçlendirilmesi Projesi” kapsamında, bir meslektaşımız iki ay süre ile Avrupa Konseyi'nin Strazburg'da bulunan merkezinde görevlendirilecektir"
+        "text": "Strazburg",
+        "label": "LOCATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Haklarının Korumasının Güçlendirilmesi",
-        "label": "PERSON",
-        "sentence_idx": 2,
-        "sentence": "DUYURU NO:2024/65: Türkiye'de Göç Bağlamında İnsan Haklarının Korumasının Güçlendirilmesi Projesi” kapsamında, bir meslektaşımız iki ay süre ile Avrupa Konseyi'nin Strazburg'da bulunan merkezinde görevlendirilecektir"
+        "text": "Türkiye ' de Göç Bağlamında İnsan Haklarının Korumasının Güçlendirilmesi Projesi",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Hukuk Mesleklerine Giriş",
-        "label": "PERSON",
-        "sentence_idx": 3,
-        "sentence": "DUYURU TBB DUYURUSU TBB ile TÖMER arasında yapılan indirim protokolü DUYURU TBB DUYURUSU Hukuk Mesleklerine Giriş Sınavı başarı belgesinin staj başvuru dosyalarına kazandırılması hakkında"
+        "text": "TÖMER",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Hukuk Mesleklerine Giriş Sınavı",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "TBB - SYDF “",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Olunan Kişiler Tedavi Yardım",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Dayanışma Aidat",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##B",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Anayasa Mahkemesin",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "ILAP",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Türkiye Barolar Birliği Meslek Kuralları",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "A",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Sorumluluk",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Baro Medya",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
         "text": "Hukuk",
         "label": "LEGAL_TERM",
         "sentence_idx": 3,
         "sentence": "DUYURU TBB DUYURUSU TBB ile TÖMER arasında yapılan indirim protokolü DUYURU TBB DUYURUSU Hukuk Mesleklerine Giriş Sınavı başarı belgesinin staj başvuru dosyalarına kazandırılması hakkında"
-      },
-      {
-        "text": "Bakmakla Yükümlü Olunan",
-        "label": "PERSON",
-        "sentence_idx": 4,
-        "sentence": "TBB DUYURUSU (2024/28) DUYURU TBB DUYURUSU TBB-SYDF “Bakmakla Yükümlü Olunan Kişiler Tedavi Yardımları ve Dayanışma Aidatı Toplama Uygulama Esasları Yönergesi'' Değişikliği Hakkında"
-      },
-      {
-        "text": "Kişiler Tedavi Yardımları",
-        "label": "PERSON",
-        "sentence_idx": 4,
-        "sentence": "TBB DUYURUSU (2024/28) DUYURU TBB DUYURUSU TBB-SYDF “Bakmakla Yükümlü Olunan Kişiler Tedavi Yardımları ve Dayanışma Aidatı Toplama Uygulama Esasları Yönergesi'' Değişikliği Hakkında"
-      },
-      {
-        "text": "Dayanışma Aidatı Toplama",
-        "label": "PERSON",
-        "sentence_idx": 4,
-        "sentence": "TBB DUYURUSU (2024/28) DUYURU TBB DUYURUSU TBB-SYDF “Bakmakla Yükümlü Olunan Kişiler Tedavi Yardımları ve Dayanışma Aidatı Toplama Uygulama Esasları Yönergesi'' Değişikliği Hakkında"
-      },
-      {
-        "text": "Uygulama Esasları Yönergesi",
-        "label": "PERSON",
-        "sentence_idx": 4,
-        "sentence": "TBB DUYURUSU (2024/28) DUYURU TBB DUYURUSU TBB-SYDF “Bakmakla Yükümlü Olunan Kişiler Tedavi Yardımları ve Dayanışma Aidatı Toplama Uygulama Esasları Yönergesi'' Değişikliği Hakkında"
-      },
-      {
-        "text": "Değişikliği Hakkında",
-        "label": "PERSON",
-        "sentence_idx": 4,
-        "sentence": "TBB DUYURUSU (2024/28) DUYURU TBB DUYURUSU TBB-SYDF “Bakmakla Yükümlü Olunan Kişiler Tedavi Yardımları ve Dayanışma Aidatı Toplama Uygulama Esasları Yönergesi'' Değişikliği Hakkında"
-      },
-      {
-        "text": "Suç Gelirlerinin Aklanmasının",
-        "label": "PERSON",
-        "sentence_idx": 5,
-        "sentence": "TBB DUYURUSU (2024/32) DUYURU TBB DUYURUSU TBB DUYURUSU (2024/26) 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun'un avukatları yükümlü kapsamına alan 2"
-      },
-      {
-        "text": "Önlenmesi Hakkında Kanun",
-        "label": "PERSON",
-        "sentence_idx": 5,
-        "sentence": "TBB DUYURUSU (2024/32) DUYURU TBB DUYURUSU TBB DUYURUSU (2024/26) 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun'un avukatları yükümlü kapsamına alan 2"
-      },
-      {
-        "text": "Anayasa Mahkemesince",
-        "label": "PERSON",
-        "sentence_idx": 6,
-        "sentence": "maddesinde yer alan ilgili ibarenin Anayasa Mahkemesince iptali hakkında"
-      },
-      {
-        "text": "Türkiye Barolar Birliği",
-        "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "DUYURU TBB DUYURUSU ILAP kapsamında hazırlanan çevrimiçi staj ve meslek içi eğitim platformu hakkında, TBB DUYURUSU (2024/16) DUYURU TBB DUYURUSU Türkiye Barolar Birliği Meslek Kuralları Değişikliği Hakkında"
-      },
-      {
-        "text": "Meslek Kuralları Değişikliği",
-        "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "DUYURU TBB DUYURUSU ILAP kapsamında hazırlanan çevrimiçi staj ve meslek içi eğitim platformu hakkında, TBB DUYURUSU (2024/16) DUYURU TBB DUYURUSU Türkiye Barolar Birliği Meslek Kuralları Değişikliği Hakkında"
-      },
-      {
-        "text": "Barolar Birliği",
-        "label": "ORGANIZATION",
-        "sentence_idx": 7,
-        "sentence": "DUYURU TBB DUYURUSU ILAP kapsamında hazırlanan çevrimiçi staj ve meslek içi eğitim platformu hakkında, TBB DUYURUSU (2024/16) DUYURU TBB DUYURUSU Türkiye Barolar Birliği Meslek Kuralları Değişikliği Hakkında"
-      },
-      {
-        "text": "Türkiye Barolar Birliği",
-        "label": "ORGANIZATION",
-        "sentence_idx": 7,
-        "sentence": "DUYURU TBB DUYURUSU ILAP kapsamında hazırlanan çevrimiçi staj ve meslek içi eğitim platformu hakkında, TBB DUYURUSU (2024/16) DUYURU TBB DUYURUSU Türkiye Barolar Birliği Meslek Kuralları Değişikliği Hakkında"
-      },
-      {
-        "text": "DUYURU TBB DUYURUSU Türkiye Barolar Birliği",
-        "label": "ORGANIZATION",
-        "sentence_idx": 7,
-        "sentence": "DUYURU TBB DUYURUSU ILAP kapsamında hazırlanan çevrimiçi staj ve meslek içi eğitim platformu hakkında, TBB DUYURUSU (2024/16) DUYURU TBB DUYURUSU Türkiye Barolar Birliği Meslek Kuralları Değişikliği Hakkında"
-      },
-      {
-        "text": "Yıl Kıdem Aidatları",
-        "label": "PERSON",
-        "sentence_idx": 8,
-        "sentence": "TBB DUYURUSU (2023/85) DUYURU TBB DUYURUSU 0-5 Yıl Kıdem Aidatları Hakkında TBB DUYURUSU (2023/44) DUYURU TBB DUYURUSU « 1 2 3 4"
-      },
-      {
-        "text": "Gündem Sosyal Sorumluluk",
-        "label": "PERSON",
-        "sentence_idx": 9,
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
-      },
-      {
-        "text": "Çalışmaları Baro Medya",
-        "label": "PERSON",
-        "sentence_idx": 9,
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
-      },
-      {
-        "text": "Basında Bursa Barosu",
-        "label": "PERSON",
-        "sentence_idx": 9,
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
-      },
-      {
-        "text": "Basın Açıklamaları",
-        "label": "PERSON",
-        "sentence_idx": 9,
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
-      },
-      {
-        "text": "Duyuruları Duyurular Daha",
-        "label": "PERSON",
-        "sentence_idx": 9,
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
-      },
-      {
-        "text": "Sorumluluk Çalışmaları Baro",
-        "label": "ORGANIZATION",
-        "sentence_idx": 9,
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
-      },
-      {
-        "text": "Bursa",
-        "label": "LOCATION",
-        "sentence_idx": 9,
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
       }
     ],
     "relationships": [
       {
-        "entity1": "Hukuk Mesleklerine Giriş",
-        "entity1_label": "PERSON",
-        "entity2": "Hukuk",
-        "entity2_label": "LEGAL_TERM",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "DUYURU TBB DUYURUSU TBB ile TÖMER arasında yapılan indirim protokolü DUYURU TBB DUYURUSU Hukuk Mesleklerine Giriş Sınavı başarı belgesinin staj başvuru dosyalarına kazandırılması hakkında",
-        "sentence_idx": 3
-      },
-      {
-        "entity1": "Türkiye Barolar Birliği",
-        "entity1_label": "PERSON",
-        "entity2": "Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "DUYURU TBB DUYURUSU ILAP kapsamında hazırlanan çevrimiçi staj ve meslek içi eğitim platformu hakkında, TBB DUYURUSU (2024/16) DUYURU TBB DUYURUSU Türkiye Barolar Birliği Meslek Kuralları Değişikliği Hakkında",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Türkiye Barolar Birliği",
-        "entity1_label": "PERSON",
-        "entity2": "Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "DUYURU TBB DUYURUSU ILAP kapsamında hazırlanan çevrimiçi staj ve meslek içi eğitim platformu hakkında, TBB DUYURUSU (2024/16) DUYURU TBB DUYURUSU Türkiye Barolar Birliği Meslek Kuralları Değişikliği Hakkında",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Türkiye Barolar Birliği",
-        "entity1_label": "PERSON",
-        "entity2": "DUYURU TBB DUYURUSU Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "DUYURU TBB DUYURUSU ILAP kapsamında hazırlanan çevrimiçi staj ve meslek içi eğitim platformu hakkında, TBB DUYURUSU (2024/16) DUYURU TBB DUYURUSU Türkiye Barolar Birliği Meslek Kuralları Değişikliği Hakkında",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Meslek Kuralları Değişikliği",
-        "entity1_label": "PERSON",
-        "entity2": "Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "DUYURU TBB DUYURUSU ILAP kapsamında hazırlanan çevrimiçi staj ve meslek içi eğitim platformu hakkında, TBB DUYURUSU (2024/16) DUYURU TBB DUYURUSU Türkiye Barolar Birliği Meslek Kuralları Değişikliği Hakkında",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Meslek Kuralları Değişikliği",
-        "entity1_label": "PERSON",
-        "entity2": "Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "DUYURU TBB DUYURUSU ILAP kapsamında hazırlanan çevrimiçi staj ve meslek içi eğitim platformu hakkında, TBB DUYURUSU (2024/16) DUYURU TBB DUYURUSU Türkiye Barolar Birliği Meslek Kuralları Değişikliği Hakkında",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Meslek Kuralları Değişikliği",
-        "entity1_label": "PERSON",
-        "entity2": "DUYURU TBB DUYURUSU Türkiye Barolar Birliği",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "DUYURU TBB DUYURUSU ILAP kapsamında hazırlanan çevrimiçi staj ve meslek içi eğitim platformu hakkında, TBB DUYURUSU (2024/16) DUYURU TBB DUYURUSU Türkiye Barolar Birliği Meslek Kuralları Değişikliği Hakkında",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Gündem Sosyal Sorumluluk",
-        "entity1_label": "PERSON",
-        "entity2": "Sorumluluk Çalışmaları Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Gündem Sosyal Sorumluluk",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Çalışmaları Baro Medya",
-        "entity1_label": "PERSON",
-        "entity2": "Sorumluluk Çalışmaları Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Çalışmaları Baro Medya",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Basında Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "Sorumluluk Çalışmaları Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Basında Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Basın Açıklamaları",
-        "entity1_label": "PERSON",
-        "entity2": "Sorumluluk Çalışmaları Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Basın Açıklamaları",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Duyuruları Duyurular Daha",
-        "entity1_label": "PERSON",
-        "entity2": "Sorumluluk Çalışmaları Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Duyuruları Duyurular Daha",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Sorumluluk Çalışmaları Baro",
+        "entity1": "TBB",
         "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
+        "entity2": "Strazburg",
         "entity2_label": "LOCATION",
         "relation_type": "MENTIONED_WITH",
-        "sentence": "10 » PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 9
+        "sentence": "TBB DUYURUSU (2025/22) DUYURU TBB DUYURUSU Avrupa Konseyi'nin Strazburg'da bulunan merkezine yapılacak görevlendirme ile ilgili",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "Avrupa Konseyi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Strazburg",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "TBB DUYURUSU (2025/22) DUYURU TBB DUYURUSU Avrupa Konseyi'nin Strazburg'da bulunan merkezine yapılacak görevlendirme ile ilgili",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "Strazburg",
+        "entity1_label": "LOCATION",
+        "entity2": "Avrupa Konseyi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "TBB DUYURUSU (2025/22) DUYURU TBB DUYURUSU Avrupa Konseyi'nin Strazburg'da bulunan merkezine yapılacak görevlendirme ile ilgili",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "Strazburg",
+        "entity1_label": "LOCATION",
+        "entity2": "TBB",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "TBB DUYURUSU (2025/22) DUYURU TBB DUYURUSU Avrupa Konseyi'nin Strazburg'da bulunan merkezine yapılacak görevlendirme ile ilgili",
+        "sentence_idx": 1
+      },
+      {
+        "entity1": "Strazburg",
+        "entity1_label": "LOCATION",
+        "entity2": "A",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "TBB DUYURUSU (2025/22) DUYURU TBB DUYURUSU Avrupa Konseyi'nin Strazburg'da bulunan merkezine yapılacak görevlendirme ile ilgili",
+        "sentence_idx": 1
       }
     ],
     "total_sentences": 10,

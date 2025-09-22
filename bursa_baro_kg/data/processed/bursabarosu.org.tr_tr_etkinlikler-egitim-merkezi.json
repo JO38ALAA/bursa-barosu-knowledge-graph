@@ -3,108 +3,23 @@
   "title": "BURSA BAROSU - Eğitim Merkezi",
   "content": "ANA SAYFA Etkinlikler Eğitim Merkezi Meslek İçi Eğitimler Staj Eğitimleri PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
   "scraped_at": "2025-09-19T17:34:59.699969",
-  "processed_at": "2025-09-22T07:41:39.146334",
+  "processed_at": "2025-09-22T10:24:51.918513",
   "nlp_result": {
     "entities": [
       {
-        "text": "Etkinlikler Eğitim Merkezi",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Meslek İçi Eğitimler Staj Eğitimleri PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Eğitimler Staj Eğitimleri",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Meslek İçi Eğitimler Staj Eğitimleri PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Etkinlikler Tiyatro Advocato",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Meslek İçi Eğitimler Staj Eğitimleri PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Müzik Aktiviteleri Spor",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Meslek İçi Eğitimler Staj Eğitimleri PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Aktiviteleri Ruhsat Törenleri",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Meslek İçi Eğitimler Staj Eğitimleri PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Söyleşiler Daha Fazlası",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Meslek İçi Eğitimler Staj Eğitimleri PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Etkinlikler Eğitim Merkezi",
+        "text": "Eğitim",
         "label": "ORGANIZATION",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Meslek İçi Eğitimler Staj Eğitimleri PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Tiyatro Advocato Müzik Aktiv",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       }
     ],
-    "relationships": [
-      {
-        "entity1": "Etkinlikler Eğitim Merkezi",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Meslek İçi Eğitimler Staj Eğitimleri PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Eğitimler Staj Eğitimleri",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Meslek İçi Eğitimler Staj Eğitimleri PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Tiyatro Advocato",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Meslek İçi Eğitimler Staj Eğitimleri PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Müzik Aktiviteleri Spor",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Meslek İçi Eğitimler Staj Eğitimleri PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Aktiviteleri Ruhsat Törenleri",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Meslek İçi Eğitimler Staj Eğitimleri PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Söyleşiler Daha Fazlası",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Meslek İçi Eğitimler Staj Eğitimleri PAYLAŞ Etkinlikler Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 0
-      }
-    ],
+    "relationships": [],
     "total_sentences": 1,
     "processed_sentences": 1
   }

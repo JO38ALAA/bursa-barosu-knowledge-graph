@@ -3,50 +3,38 @@
   "title": "BURSA BAROSU - Bilgi Edinme Formu",
   "content": "ANA SAYFA Bilgi Edinme Formu 4982 Sayılı Bilgi Edinme Kanunu Gereği, tavsiye, hukuki yardım ve mütalaa istemli sorular değerlendirilmemektedir. 1136 Sayılı Avukatlık Kanunu gereğince Hukuki Görüş Belirtme yetkisi yalnızca avukatlara aittir. GERÇEK/TÜZEL KİŞİ Seçin Gerçek Kişi Tüzel Kişi UNVAN AD SOYAD T.C. KİMLİK NO CEVAP TÜRÜ Seçin E-posta ile cevap almak istiyorum Posta ile cevap almak istiyorum E-POSTA ADRESİ ADRESİNİZ TALEBİNİZ GÖNDER PAYLAŞ",
   "scraped_at": "2025-09-19T17:34:33.018024",
-  "processed_at": "2025-09-22T07:41:39.129982",
+  "processed_at": "2025-09-22T10:24:50.090690",
   "nlp_result": {
     "entities": [
       {
-        "text": "Bilgi Edinme Formu",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Bilgi Edinme Formu 4982 Sayılı Bilgi Edinme Kanunu Gereği, tavsiye, hukuki yardım ve mütalaa istemli sorular değerlendirilmemektedir"
+        "text": "4982 Sayılı Bilgi Edinme Kanunu",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Sayılı Bilgi Edinme",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Bilgi Edinme Formu 4982 Sayılı Bilgi Edinme Kanunu Gereği, tavsiye, hukuki yardım ve mütalaa istemli sorular değerlendirilmemektedir"
+        "text": "1136 Sayılı Avukatlık Kanunu",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Kanunu Gereği",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Bilgi Edinme Formu 4982 Sayılı Bilgi Edinme Kanunu Gereği, tavsiye, hukuki yardım ve mütalaa istemli sorular değerlendirilmemektedir"
+        "text": "E - posta",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Sayılı Avukatlık Kanunu",
-        "label": "PERSON",
-        "sentence_idx": 1,
-        "sentence": "1136 Sayılı Avukatlık Kanunu gereğince Hukuki Görüş Belirtme yetkisi yalnızca avukatlara aittir"
+        "text": "Posta",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Hukuki Görüş Belirtme",
-        "label": "PERSON",
-        "sentence_idx": 1,
-        "sentence": "1136 Sayılı Avukatlık Kanunu gereğince Hukuki Görüş Belirtme yetkisi yalnızca avukatlara aittir"
-      },
-      {
-        "text": "Seçin Gerçek Kişi",
-        "label": "PERSON",
-        "sentence_idx": 2,
-        "sentence": "GERÇEK/TÜZEL KİŞİ Seçin Gerçek Kişi Tüzel Kişi UNVAN AD SOYAD T"
-      },
-      {
-        "text": "Tüzel Kişi",
-        "label": "PERSON",
-        "sentence_idx": 2,
-        "sentence": "GERÇEK/TÜZEL KİŞİ Seçin Gerçek Kişi Tüzel Kişi UNVAN AD SOYAD T"
+        "text": "E -",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       }
     ],
     "relationships": [],

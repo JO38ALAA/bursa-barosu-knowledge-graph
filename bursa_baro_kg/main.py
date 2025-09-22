@@ -229,7 +229,7 @@ class BursaBaroKnowledgeGraph:
         logger.info(f"Graf oluşturma tamamlandı: {graph_count} dosya işlendi")
         return graph_count
     
-    def run_full_pipeline(self, max_pages=None):
+    def run_full_pipeline(self, max_pages=None, clean_db=False):
         """Tam pipeline'ı çalıştır"""
         logger.info("🚀 TAM PİPELİNE BAŞLATIYOR 🚀")
         
@@ -239,6 +239,11 @@ class BursaBaroKnowledgeGraph:
             return False
         
         try:
+            # Veritabanını temizle (istenirse)
+            if clean_db:
+                logger.info("Veritabanı temizleme adımı isteniyor...")
+                self.graph_builder.clean_database()
+            
             # Adım 1: URL'leri çek
             urls = self.step1_fetch_urls()
             if not urls:
@@ -318,6 +323,8 @@ def main():
     parser = argparse.ArgumentParser(description='Bursa Barosu Bilgi Grafı Pipeline')
     parser.add_argument('--max-pages', type=int, default=None, 
                        help='Maksimum işlenecek sayfa sayısı (varsayılan: tümü)')
+    parser.add_argument('--clean', action='store_true',
+                        help='Pipeline başlamadan önce veritabanını temizler')
     args = parser.parse_args()
     
     print("=" * 60)
@@ -333,7 +340,10 @@ def main():
     orchestrator = BursaBaroKnowledgeGraph()
     
     # Pipeline'ı çalıştır
-    success = orchestrator.run_full_pipeline(max_pages=args.max_pages)
+    success = orchestrator.run_full_pipeline(
+        max_pages=args.max_pages,
+        clean_db=args.clean
+    )
     
     if success:
         print("\n✅ Proje başarıyla tamamlandı!")

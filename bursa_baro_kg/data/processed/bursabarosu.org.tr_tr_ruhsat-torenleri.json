@@ -3,20 +3,98 @@
   "title": "BURSA BAROSU - Ruhsat Törenleri",
   "content": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4 ... 31 » PAYLAŞ Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Söyleşiler Daha Fazlası",
   "scraped_at": "2025-09-22T07:41:38.411023",
-  "processed_at": "2025-09-22T07:41:39.334916",
+  "processed_at": "2025-09-22T10:25:01.598066",
   "nlp_result": {
     "entities": [
       {
-        "text": "Etkinlikler Ruhsat Törenleri",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4"
+        "text": "Ruhsat",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Ruhsat Töreni",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4"
+        "text": "18 Eylül 2025 Ruhsat Töreni",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "11 Eylül 2025 Ruhsat Töreni",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "28 Ağustos 2025 Ruhsat Töreni",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##U",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "14 Ağustos 2025 Ruhsat Töreni",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "31 Temmuz 2025 Ruhsat Töreni",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "10 Temmuz 2025 Ruhsat Töreni",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "03 Temmuz 2025 Ruhsat Töreni",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "26 Haziran 2025 Ruhsat Töreni",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "12 Haziran 2025 Ruhsat Töreni",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "29 Mayıs 2025 Ruhsat Töreni",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Eğitim Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Advocato",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Aktiv",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
         "text": "18 Eylül 2025",
@@ -77,256 +155,9 @@
         "label": "DATE",
         "sentence_idx": 0,
         "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4"
-      },
-      {
-        "text": "Etkinlikler Eğitim Merkezi",
-        "label": "PERSON",
-        "sentence_idx": 1,
-        "sentence": "31 » PAYLAŞ Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Tiyatro Advocato Müzik",
-        "label": "PERSON",
-        "sentence_idx": 1,
-        "sentence": "31 » PAYLAŞ Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Aktiviteleri Spor Aktiviteleri",
-        "label": "PERSON",
-        "sentence_idx": 1,
-        "sentence": "31 » PAYLAŞ Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Söyleşiler Daha Fazlası",
-        "label": "PERSON",
-        "sentence_idx": 1,
-        "sentence": "31 » PAYLAŞ Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Söyleşiler Daha Fazlası"
-      },
-      {
-        "text": "Etkinlikler Eğitim Merkezi",
-        "label": "ORGANIZATION",
-        "sentence_idx": 1,
-        "sentence": "31 » PAYLAŞ Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Söyleşiler Daha Fazlası"
       }
     ],
-    "relationships": [
-      {
-        "entity1": "Etkinlikler Ruhsat Törenleri",
-        "entity1_label": "PERSON",
-        "entity2": "18 Eylül 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Ruhsat Törenleri",
-        "entity1_label": "PERSON",
-        "entity2": "11 Eylül 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Ruhsat Törenleri",
-        "entity1_label": "PERSON",
-        "entity2": "28 Ağustos 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Ruhsat Törenleri",
-        "entity1_label": "PERSON",
-        "entity2": "14 Ağustos 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Ruhsat Törenleri",
-        "entity1_label": "PERSON",
-        "entity2": "31 Temmuz 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Ruhsat Törenleri",
-        "entity1_label": "PERSON",
-        "entity2": "10 Temmuz 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Ruhsat Törenleri",
-        "entity1_label": "PERSON",
-        "entity2": "03 Temmuz 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Ruhsat Törenleri",
-        "entity1_label": "PERSON",
-        "entity2": "26 Haziran 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Ruhsat Törenleri",
-        "entity1_label": "PERSON",
-        "entity2": "12 Haziran 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Ruhsat Törenleri",
-        "entity1_label": "PERSON",
-        "entity2": "29 Mayıs 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ruhsat Töreni",
-        "entity1_label": "PERSON",
-        "entity2": "18 Eylül 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ruhsat Töreni",
-        "entity1_label": "PERSON",
-        "entity2": "11 Eylül 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ruhsat Töreni",
-        "entity1_label": "PERSON",
-        "entity2": "28 Ağustos 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ruhsat Töreni",
-        "entity1_label": "PERSON",
-        "entity2": "14 Ağustos 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ruhsat Töreni",
-        "entity1_label": "PERSON",
-        "entity2": "31 Temmuz 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ruhsat Töreni",
-        "entity1_label": "PERSON",
-        "entity2": "10 Temmuz 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ruhsat Töreni",
-        "entity1_label": "PERSON",
-        "entity2": "03 Temmuz 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ruhsat Töreni",
-        "entity1_label": "PERSON",
-        "entity2": "26 Haziran 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ruhsat Töreni",
-        "entity1_label": "PERSON",
-        "entity2": "12 Haziran 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ruhsat Töreni",
-        "entity1_label": "PERSON",
-        "entity2": "29 Mayıs 2025",
-        "entity2_label": "DATE",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Ruhsat Törenleri 18 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 11 Eylül 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 28 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 14 Ağustos 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 31 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 10 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 03 Temmuz 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 26 Haziran 2025 Ruhsat Töreni GÜNDEM RUHSAT TÖRENİ 12 Haziran 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ 29 Mayıs 2025 Ruhsat Töreni GÜNDEM HABER RUHSAT TÖRENİ « 1 2 3 4",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Eğitim Merkezi",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "31 » PAYLAŞ Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 1
-      },
-      {
-        "entity1": "Tiyatro Advocato Müzik",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "31 » PAYLAŞ Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 1
-      },
-      {
-        "entity1": "Aktiviteleri Spor Aktiviteleri",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "31 » PAYLAŞ Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 1
-      },
-      {
-        "entity1": "Söyleşiler Daha Fazlası",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "31 » PAYLAŞ Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Söyleşiler Daha Fazlası",
-        "sentence_idx": 1
-      }
-    ],
+    "relationships": [],
     "total_sentences": 2,
     "processed_sentences": 2
   }

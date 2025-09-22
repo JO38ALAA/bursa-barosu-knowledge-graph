@@ -3,274 +3,73 @@
   "title": "BURSA BAROSU - Banka Hesap Bilgileri",
   "content": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
   "scraped_at": "2025-09-19T17:34:19.194637",
-  "processed_at": "2025-09-22T07:41:38.585110",
+  "processed_at": "2025-09-22T10:24:31.913798",
   "nlp_result": {
     "entities": [
       {
-        "text": "Banka Hesap Bilgileri",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası"
-      },
-      {
         "text": "Türkiye Ekonomi Bankası",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası"
-      },
-      {
-        "text": "Demirtaş Şubesi Hesap",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası"
-      },
-      {
-        "text": "Baronet Online",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası"
-      },
-      {
-        "text": "Rehber Bilgi Edinme",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası"
-      },
-      {
-        "text": "Formu Sıkça Sorulan",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası"
-      },
-      {
-        "text": "Sorular Daha Fazlası",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası"
-      },
-      {
-        "text": "Adı: BURSA BAROSU",
         "label": "ORGANIZATION",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "BAROSU BAŞKANLIĞI",
-        "label": "ORGANIZATION",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası"
-      },
-      {
-        "text": "BURSA",
+        "text": "Demirtaş",
         "label": "LOCATION",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "BUR",
+        "label": "LOCATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "##SA BAROS",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Baronet Online İşlemler",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       }
     ],
     "relationships": [
       {
-        "entity1": "Banka Hesap Bilgileri",
-        "entity1_label": "PERSON",
-        "entity2": "Adı: BURSA BAROSU",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Banka Hesap Bilgileri",
-        "entity1_label": "PERSON",
-        "entity2": "BAROSU BAŞKANLIĞI",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Banka Hesap Bilgileri",
-        "entity1_label": "PERSON",
-        "entity2": "BURSA",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
         "entity1": "Türkiye Ekonomi Bankası",
-        "entity1_label": "PERSON",
-        "entity2": "Adı: BURSA BAROSU",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Türkiye Ekonomi Bankası",
-        "entity1_label": "PERSON",
-        "entity2": "BAROSU BAŞKANLIĞI",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Türkiye Ekonomi Bankası",
-        "entity1_label": "PERSON",
-        "entity2": "BURSA",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Demirtaş Şubesi Hesap",
-        "entity1_label": "PERSON",
-        "entity2": "Adı: BURSA BAROSU",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Demirtaş Şubesi Hesap",
-        "entity1_label": "PERSON",
-        "entity2": "BAROSU BAŞKANLIĞI",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Demirtaş Şubesi Hesap",
-        "entity1_label": "PERSON",
-        "entity2": "BURSA",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Baronet Online",
-        "entity1_label": "PERSON",
-        "entity2": "Adı: BURSA BAROSU",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Baronet Online",
-        "entity1_label": "PERSON",
-        "entity2": "BAROSU BAŞKANLIĞI",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Baronet Online",
-        "entity1_label": "PERSON",
-        "entity2": "BURSA",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Rehber Bilgi Edinme",
-        "entity1_label": "PERSON",
-        "entity2": "Adı: BURSA BAROSU",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Rehber Bilgi Edinme",
-        "entity1_label": "PERSON",
-        "entity2": "BAROSU BAŞKANLIĞI",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Rehber Bilgi Edinme",
-        "entity1_label": "PERSON",
-        "entity2": "BURSA",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Formu Sıkça Sorulan",
-        "entity1_label": "PERSON",
-        "entity2": "Adı: BURSA BAROSU",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Formu Sıkça Sorulan",
-        "entity1_label": "PERSON",
-        "entity2": "BAROSU BAŞKANLIĞI",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Formu Sıkça Sorulan",
-        "entity1_label": "PERSON",
-        "entity2": "BURSA",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Sorular Daha Fazlası",
-        "entity1_label": "PERSON",
-        "entity2": "Adı: BURSA BAROSU",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Sorular Daha Fazlası",
-        "entity1_label": "PERSON",
-        "entity2": "BAROSU BAŞKANLIĞI",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Sorular Daha Fazlası",
-        "entity1_label": "PERSON",
-        "entity2": "BURSA",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Adı: BURSA BAROSU",
         "entity1_label": "ORGANIZATION",
-        "entity2": "BURSA",
+        "entity2": "Demirtaş",
         "entity2_label": "LOCATION",
         "relation_type": "MENTIONED_WITH",
         "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
         "sentence_idx": 0
       },
       {
-        "entity1": "BAROSU BAŞKANLIĞI",
+        "entity1": "Türkiye Ekonomi Bankası",
         "entity1_label": "ORGANIZATION",
-        "entity2": "BURSA",
+        "entity2": "BUR",
         "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Demirtaş",
+        "entity1_label": "LOCATION",
+        "entity2": "Baronet Online İşlemler",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "BUR",
+        "entity1_label": "LOCATION",
+        "entity2": "Baronet Online İşlemler",
+        "entity2_label": "ORGANIZATION",
         "relation_type": "MENTIONED_WITH",
         "sentence": "ANA SAYFA İletişim Banka Hesap Bilgileri Türkiye Ekonomi Bankası - Demirtaş Şubesi Hesap Adı: BURSA BAROSU BAŞKANLIĞI IBAN: TR390003200000000121297913 PAYLAŞ İletişim Banka Hesap Bilgileri Baronet Online İşlemler Rehber Bilgi Edinme Formu Sıkça Sorulan Sorular Daha Fazlası",
         "sentence_idx": 0

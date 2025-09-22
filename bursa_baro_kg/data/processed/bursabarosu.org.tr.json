@@ -3,20 +3,32 @@
   "title": "BURSA BAROSU",
   "content": "BİLGİ DANIŞMA MERKEZİ Bilgi edinmenin en kısa yolu! Siz sorun, biz cevaplayalım BİLGİ EDİNME FORMUNU AÇ",
   "scraped_at": "2025-09-19T17:35:04.259087",
-  "processed_at": "2025-09-22T07:41:38.483052",
+  "processed_at": "2025-09-22T10:24:30.131060",
   "nlp_result": {
     "entities": [
       {
         "text": "BİLGİ DANIŞMA MERKEZİ",
         "label": "ORGANIZATION",
-        "sentence_idx": 0,
-        "sentence": "BİLGİ DANIŞMA MERKEZİ Bilgi edinmenin en kısa yolu"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "BİLGİ DANIŞMA",
+        "text": "Bilgi",
         "label": "ORGANIZATION",
-        "sentence_idx": 0,
-        "sentence": "BİLGİ DANIŞMA MERKEZİ Bilgi edinmenin en kısa yolu"
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "BİLG",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "ED",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       }
     ],
     "relationships": [],

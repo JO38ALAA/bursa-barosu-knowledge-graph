@@ -1,263 +1,43 @@
 {
   "url": "https://bursabarosu.org.tr/tr/etkinlikler",
   "title": "BURSA BAROSU - Etkinlikler",
-  "content": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-  "scraped_at": "2025-09-19T17:34:21.387096",
-  "processed_at": "2025-09-22T07:41:39.199132",
+  "content": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Gündem Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
+  "scraped_at": "2025-09-22T10:24:27.664846",
+  "processed_at": "2025-09-22T10:24:55.387076",
   "nlp_result": {
     "entities": [
       {
-        "text": "Etkinlikler Eğitim Merkezi",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
-      },
-      {
-        "text": "Tiyatro Advocato Müzik",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
-      },
-      {
-        "text": "Aktiviteleri Spor Aktiviteleri",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
-      },
-      {
-        "text": "Ruhsat Törenleri Söyleşiler",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
-      },
-      {
-        "text": "Ana Dizin Baro",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
-      },
-      {
-        "text": "Etkinlikler Bilgi Bankası",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
-      },
-      {
-        "text": "Merkezi Daha Fazlası",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
-      },
-      {
-        "text": "Ana Dizin Baro",
+        "text": "Eğitim",
         "label": "ORGANIZATION",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Etkinlikler Eğitim Merkezi",
+        "text": "Advocato",
         "label": "ORGANIZATION",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "İletişim İlan Merkezi",
+        "text": "Baro",
         "label": "ORGANIZATION",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası"
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Gündem Bilgi Bankası",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Merkezi",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       }
     ],
-    "relationships": [
-      {
-        "entity1": "Etkinlikler Eğitim Merkezi",
-        "entity1_label": "PERSON",
-        "entity2": "Ana Dizin Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Eğitim Merkezi",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Eğitim Merkezi",
-        "entity1_label": "PERSON",
-        "entity2": "İletişim İlan Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Tiyatro Advocato Müzik",
-        "entity1_label": "PERSON",
-        "entity2": "Ana Dizin Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Tiyatro Advocato Müzik",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Tiyatro Advocato Müzik",
-        "entity1_label": "PERSON",
-        "entity2": "İletişim İlan Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Aktiviteleri Spor Aktiviteleri",
-        "entity1_label": "PERSON",
-        "entity2": "Ana Dizin Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Aktiviteleri Spor Aktiviteleri",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Aktiviteleri Spor Aktiviteleri",
-        "entity1_label": "PERSON",
-        "entity2": "İletişim İlan Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ruhsat Törenleri Söyleşiler",
-        "entity1_label": "PERSON",
-        "entity2": "Ana Dizin Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ruhsat Törenleri Söyleşiler",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ruhsat Törenleri Söyleşiler",
-        "entity1_label": "PERSON",
-        "entity2": "İletişim İlan Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ana Dizin Baro",
-        "entity1_label": "PERSON",
-        "entity2": "Ana Dizin Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ana Dizin Baro",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ana Dizin Baro",
-        "entity1_label": "PERSON",
-        "entity2": "İletişim İlan Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Bilgi Bankası",
-        "entity1_label": "PERSON",
-        "entity2": "Ana Dizin Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Bilgi Bankası",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Bilgi Bankası",
-        "entity1_label": "PERSON",
-        "entity2": "İletişim İlan Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Merkezi Daha Fazlası",
-        "entity1_label": "PERSON",
-        "entity2": "Ana Dizin Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Merkezi Daha Fazlası",
-        "entity1_label": "PERSON",
-        "entity2": "Etkinlikler Eğitim Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Merkezi Daha Fazlası",
-        "entity1_label": "PERSON",
-        "entity2": "İletişim İlan Merkezi",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Etkinlikler Eğitim Merkezi Tiyatro Advocato Müzik Aktiviteleri Spor Aktiviteleri Ruhsat Törenleri Söyleşiler PAYLAŞ Ana Dizin Baro Etkinlikler Bilgi Bankası İletişim İlan Merkezi Daha Fazlası",
-        "sentence_idx": 0
-      }
-    ],
+    "relationships": [],
     "total_sentences": 1,
     "processed_sentences": 1
   }

@@ -3,327 +3,174 @@
   "title": "BURSA BAROSU - Sosyal Sorumluluk Çalışmaları",
   "content": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı. Bursa Barosu 12. Çocuk ve Hukuk konulu resim yarışması ödülleri törenle verildi Bursa Barosu'nca ortaokul öğrencileri arasında bu yıl 12.si düzenlenen “Çocuk ve Hukuk” konulu resim yarışması sonuçlandı. Dilek Ağacı Projesi'nin ikincisi gerçekleştiriliyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nca düzenlenen Dilek Ağacı Projesi'nin ikincisi gerçekleştiriliyor. Çocukların dilekleri gerçekleşti Çocukların dilekleri gerçekleşti Bursa Barosu'nun Dilek Ağacı meyve verdi! Okullar tatile girmeden bir gün önce verilen hediyeler, çocukları çok mutlu etti. Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor. Cezaevi Çocuk Şenliği'nin 9.'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9.'cusu gerçekleştirildi. Sincansarnıç ve Söğütalanlı çocuklara en güzel hediye Bursa Barosu Sosyal Etkinlikler Komisyonu'nun düzenlediği kampanya kapsamında toplanan kitaplar, Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan ilk-ortaokullarına teslim edildi. PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
   "scraped_at": "2025-09-19T17:34:41.485020",
-  "processed_at": "2025-09-22T07:41:39.350726",
+  "processed_at": "2025-09-22T10:25:04.754305",
   "nlp_result": {
     "entities": [
       {
         "text": "Gündem Sosyal Sorumluluk",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı"
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Çalışmaları Dilek Ağacı",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı"
+        "text": "Dilek Ağa",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Bursa Barosu Sosyal",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı"
+        "text": "##oca İlk ve Ortaokulu",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Etkinlikler Komisyonu",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı"
+        "text": "Bursa Barosu",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Etkinlik",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Komisyonu",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Dilek Ağacı",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Karacabey",
+        "label": "LOCATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Karakoca İlk ve Ortaokulu",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Çocuk ve Hukuk",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "ve Hukuk",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
         "text": "Dilek Ağacı Projesi",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı"
-      },
-      {
-        "text": "Karacabey Karakoca",
-        "label": "PERSON",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı"
-      },
-      {
-        "text": "Ortaokulu'nda Bursa Barosu",
         "label": "ORGANIZATION",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Bursa",
+        "text": "Bursa Barosu '",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Ağacı Projesi",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Mustafakemalpaşa İlçesi",
         "label": "LOCATION",
-        "sentence_idx": 0,
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Bursa Barosu",
-        "label": "PERSON",
-        "sentence_idx": 1,
-        "sentence": "Bursa Barosu 12"
+        "text": "##sarnıç",
+        "label": "LOCATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "Bursa Barosu",
+        "text": "##alan",
+        "label": "LOCATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Birimi",
         "label": "ORGANIZATION",
-        "sentence_idx": 1,
-        "sentence": "Bursa Barosu 12"
+        "sentence_idx": null,
+        "sentence": null
       },
       {
-        "text": "verildi Bursa Barosu'nca",
+        "text": "Şenliği",
         "label": "ORGANIZATION",
-        "sentence_idx": 2,
-        "sentence": "Çocuk ve Hukuk konulu resim yarışması ödülleri törenle verildi Bursa Barosu'nca ortaokul öğrencileri arasında bu yıl 12"
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Avukatlar Günü",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Ulusal Egemenlik ve Çocuk Bayramı",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Bursa E Tipi Cezaevi '",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "Baro Medya",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
+      },
+      {
+        "text": "TBB",
+        "label": "ORGANIZATION",
+        "sentence_idx": null,
+        "sentence": null
       },
       {
         "text": "Hukuk",
         "label": "LEGAL_TERM",
         "sentence_idx": 2,
         "sentence": "Çocuk ve Hukuk konulu resim yarışması ödülleri törenle verildi Bursa Barosu'nca ortaokul öğrencileri arasında bu yıl 12"
-      },
-      {
-        "text": "gerçekleştiriliyor Bursa Barosu",
-        "label": "ORGANIZATION",
-        "sentence_idx": 4,
-        "sentence": "Dilek Ağacı Projesi'nin ikincisi gerçekleştiriliyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nca düzenlenen Dilek Ağacı Projesi'nin ikincisi gerçekleştiriliyor"
-      },
-      {
-        "text": "Dilek Ağacı",
-        "label": "PERSON",
-        "sentence_idx": 5,
-        "sentence": "Çocukların dilekleri gerçekleşti Çocukların dilekleri gerçekleşti Bursa Barosu'nun Dilek Ağacı meyve verdi"
-      },
-      {
-        "text": "gerçekleşti Bursa Barosu'nun",
-        "label": "ORGANIZATION",
-        "sentence_idx": 5,
-        "sentence": "Çocukların dilekleri gerçekleşti Çocukların dilekleri gerçekleşti Bursa Barosu'nun Dilek Ağacı meyve verdi"
-      },
-      {
-        "text": "Bursa Barosu Dilek",
-        "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor"
-      },
-      {
-        "text": "Ağacı Projesi",
-        "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor"
-      },
-      {
-        "text": "Bursa Barosu Danışma",
-        "label": "PERSON",
-        "sentence_idx": 7,
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor"
-      },
-      {
-        "text": "Çocuklar, Bursa Barosu",
-        "label": "ORGANIZATION",
-        "sentence_idx": 7,
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor"
-      },
-      {
-        "text": "kavuşuyor Bursa Barosu",
-        "label": "ORGANIZATION",
-        "sentence_idx": 7,
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor"
-      },
-      {
-        "text": "Ağacı, Bursa Barosu",
-        "label": "ORGANIZATION",
-        "sentence_idx": 7,
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor"
-      },
-      {
-        "text": "Bursa Barosu Danışma",
-        "label": "ORGANIZATION",
-        "sentence_idx": 7,
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor"
-      },
-      {
-        "text": "Cezaevi Çocuk Şenliği",
-        "label": "PERSON",
-        "sentence_idx": 8,
-        "sentence": "Cezaevi Çocuk Şenliği'nin 9"
-      },
-      {
-        "text": "Avukatlar Günü",
-        "label": "PERSON",
-        "sentence_idx": 9,
-        "sentence": "'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9"
-      },
-      {
-        "text": "Ulusal Egemenlik",
-        "label": "PERSON",
-        "sentence_idx": 9,
-        "sentence": "'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9"
-      },
-      {
-        "text": "Çocuk Bayramı",
-        "label": "PERSON",
-        "sentence_idx": 9,
-        "sentence": "'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9"
-      },
-      {
-        "text": "Tipi Cezaevi",
-        "label": "PERSON",
-        "sentence_idx": 9,
-        "sentence": "'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9"
-      },
-      {
-        "text": "gerçekleştirildi Bursa Barosu'nca",
-        "label": "ORGANIZATION",
-        "sentence_idx": 9,
-        "sentence": "'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9"
-      },
-      {
-        "text": "hediye Bursa Barosu",
-        "label": "ORGANIZATION",
-        "sentence_idx": 11,
-        "sentence": "Sincansarnıç ve Söğütalanlı çocuklara en güzel hediye Bursa Barosu Sosyal Etkinlikler Komisyonu'nun düzenlediği kampanya kapsamında toplanan kitaplar, Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan ilk-ortaokullarına teslim edildi"
-      },
-      {
-        "text": "Çalışmaları Baro Medya",
-        "label": "PERSON",
-        "sentence_idx": 12,
-        "sentence": "PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
-      },
-      {
-        "text": "Basında Bursa Barosu",
-        "label": "PERSON",
-        "sentence_idx": 12,
-        "sentence": "PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
-      },
-      {
-        "text": "Basın Açıklamaları",
-        "label": "PERSON",
-        "sentence_idx": 12,
-        "sentence": "PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
-      },
-      {
-        "text": "Duyuruları Duyurular Daha",
-        "label": "PERSON",
-        "sentence_idx": 12,
-        "sentence": "PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
-      },
-      {
-        "text": "Sorumluluk Çalışmaları Baro",
-        "label": "ORGANIZATION",
-        "sentence_idx": 12,
-        "sentence": "PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası"
       }
     ],
     "relationships": [
       {
         "entity1": "Gündem Sosyal Sorumluluk",
-        "entity1_label": "PERSON",
-        "entity2": "Ortaokulu'nda Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Gündem Sosyal Sorumluluk",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Çalışmaları Dilek Ağacı",
-        "entity1_label": "PERSON",
-        "entity2": "Ortaokulu'nda Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Çalışmaları Dilek Ağacı",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Bursa Barosu Sosyal",
-        "entity1_label": "PERSON",
-        "entity2": "Ortaokulu'nda Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Bursa Barosu Sosyal",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Ortaokulu'nda Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Etkinlikler Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Dilek Ağacı Projesi",
-        "entity1_label": "PERSON",
-        "entity2": "Ortaokulu'nda Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Dilek Ağacı Projesi",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Karacabey Karakoca",
-        "entity1_label": "PERSON",
-        "entity2": "Ortaokulu'nda Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Karacabey Karakoca",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
-        "sentence_idx": 0
-      },
-      {
-        "entity1": "Ortaokulu'nda Bursa Barosu",
         "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
+        "entity2": "Karacabey",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Dilek Ağa",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Karacabey",
         "entity2_label": "LOCATION",
         "relation_type": "MENTIONED_WITH",
         "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
@@ -331,440 +178,125 @@
       },
       {
         "entity1": "Bursa Barosu",
-        "entity1_label": "PERSON",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Karacabey",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Etkinlik",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Karacabey",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Komisyonu",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Karacabey",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Dilek Ağacı",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Karacabey",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Karacabey",
+        "entity1_label": "LOCATION",
+        "entity2": "Karakoca İlk ve Ortaokulu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Karacabey",
+        "entity1_label": "LOCATION",
         "entity2": "Bursa Barosu",
         "entity2_label": "ORGANIZATION",
         "relation_type": "MENTIONED_WITH",
-        "sentence": "Bursa Barosu 12",
-        "sentence_idx": 1
+        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
+        "sentence_idx": 0
       },
       {
-        "entity1": "Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Bursa Barosu 12",
-        "sentence_idx": 1
-      },
-      {
-        "entity1": "Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "verildi Bursa Barosu'nca",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuk ve Hukuk konulu resim yarışması ödülleri törenle verildi Bursa Barosu'nca ortaokul öğrencileri arasında bu yıl 12",
-        "sentence_idx": 2
-      },
-      {
-        "entity1": "Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "Hukuk",
-        "entity2_label": "LEGAL_TERM",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuk ve Hukuk konulu resim yarışması ödülleri törenle verildi Bursa Barosu'nca ortaokul öğrencileri arasında bu yıl 12",
-        "sentence_idx": 2
-      },
-      {
-        "entity1": "verildi Bursa Barosu'nca",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuk ve Hukuk konulu resim yarışması ödülleri törenle verildi Bursa Barosu'nca ortaokul öğrencileri arasında bu yıl 12",
-        "sentence_idx": 2
-      },
-      {
-        "entity1": "verildi Bursa Barosu'nca",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "Hukuk",
-        "entity2_label": "LEGAL_TERM",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuk ve Hukuk konulu resim yarışması ödülleri törenle verildi Bursa Barosu'nca ortaokul öğrencileri arasında bu yıl 12",
-        "sentence_idx": 2
-      },
-      {
-        "entity1": "Bursa",
+        "entity1": "Karacabey",
         "entity1_label": "LOCATION",
-        "entity2": "Hukuk",
-        "entity2_label": "LEGAL_TERM",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuk ve Hukuk konulu resim yarışması ödülleri törenle verildi Bursa Barosu'nca ortaokul öğrencileri arasında bu yıl 12",
-        "sentence_idx": 2
-      },
-      {
-        "entity1": "Dilek Ağacı Projesi",
-        "entity1_label": "PERSON",
-        "entity2": "gerçekleştiriliyor Bursa Barosu",
+        "entity2": "Dilek Ağacı Projesi",
         "entity2_label": "ORGANIZATION",
         "relation_type": "MENTIONED_WITH",
-        "sentence": "Dilek Ağacı Projesi'nin ikincisi gerçekleştiriliyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nca düzenlenen Dilek Ağacı Projesi'nin ikincisi gerçekleştiriliyor",
-        "sentence_idx": 4
+        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
+        "sentence_idx": 0
       },
       {
-        "entity1": "Bursa Barosu Sosyal",
-        "entity1_label": "PERSON",
-        "entity2": "gerçekleştiriliyor Bursa Barosu",
+        "entity1": "Karacabey",
+        "entity1_label": "LOCATION",
+        "entity2": "Etkinlik",
         "entity2_label": "ORGANIZATION",
         "relation_type": "MENTIONED_WITH",
-        "sentence": "Dilek Ağacı Projesi'nin ikincisi gerçekleştiriliyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nca düzenlenen Dilek Ağacı Projesi'nin ikincisi gerçekleştiriliyor",
-        "sentence_idx": 4
+        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
+        "sentence_idx": 0
       },
       {
-        "entity1": "Etkinlikler Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "gerçekleştiriliyor Bursa Barosu",
+        "entity1": "Karacabey",
+        "entity1_label": "LOCATION",
+        "entity2": "Komisyonu",
         "entity2_label": "ORGANIZATION",
         "relation_type": "MENTIONED_WITH",
-        "sentence": "Dilek Ağacı Projesi'nin ikincisi gerçekleştiriliyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nca düzenlenen Dilek Ağacı Projesi'nin ikincisi gerçekleştiriliyor",
-        "sentence_idx": 4
+        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
+        "sentence_idx": 0
       },
       {
-        "entity1": "gerçekleştiriliyor Bursa Barosu",
+        "entity1": "Karacabey",
+        "entity1_label": "LOCATION",
+        "entity2": "Dilek Ağa",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Karacabey",
+        "entity1_label": "LOCATION",
+        "entity2": "Ağacı Projesi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Karacabey",
+        "entity1_label": "LOCATION",
+        "entity2": "Dilek Ağacı",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Karacabey",
+        "entity1_label": "LOCATION",
+        "entity2": "Gündem Sosyal Sorumluluk",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "ANA SAYFA Gündem Sosyal Sorumluluk Çalışmaları Dilek Ağacı'nın meyveleri Karakoca İlk ve Ortaokulu'nda Bursa Barosu Sosyal Etkinlikler Komisyonu tarafından düzenlenen Dilek Ağacı Projesi kapsamında bu kez Karacabey Karakoca İlk ve Ortaokulu'nun spor salonunun ihtiyaçları karşılandı",
+        "sentence_idx": 0
+      },
+      {
+        "entity1": "Dilek Ağa",
         "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Dilek Ağacı Projesi'nin ikincisi gerçekleştiriliyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nca düzenlenen Dilek Ağacı Projesi'nin ikincisi gerçekleştiriliyor",
-        "sentence_idx": 4
-      },
-      {
-        "entity1": "Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "gerçekleşti Bursa Barosu'nun",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocukların dilekleri gerçekleşti Çocukların dilekleri gerçekleşti Bursa Barosu'nun Dilek Ağacı meyve verdi",
-        "sentence_idx": 5
-      },
-      {
-        "entity1": "Dilek Ağacı",
-        "entity1_label": "PERSON",
-        "entity2": "gerçekleşti Bursa Barosu'nun",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocukların dilekleri gerçekleşti Çocukların dilekleri gerçekleşti Bursa Barosu'nun Dilek Ağacı meyve verdi",
-        "sentence_idx": 5
-      },
-      {
-        "entity1": "Dilek Ağacı",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocukların dilekleri gerçekleşti Çocukların dilekleri gerçekleşti Bursa Barosu'nun Dilek Ağacı meyve verdi",
-        "sentence_idx": 5
-      },
-      {
-        "entity1": "gerçekleşti Bursa Barosu'nun",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocukların dilekleri gerçekleşti Çocukların dilekleri gerçekleşti Bursa Barosu'nun Dilek Ağacı meyve verdi",
-        "sentence_idx": 5
-      },
-      {
-        "entity1": "Bursa Barosu Dilek",
-        "entity1_label": "PERSON",
-        "entity2": "Çocuklar, Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bursa Barosu Dilek",
-        "entity1_label": "PERSON",
-        "entity2": "kavuşuyor Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bursa Barosu Dilek",
-        "entity1_label": "PERSON",
-        "entity2": "Ağacı, Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bursa Barosu Dilek",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa Barosu Danışma",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bursa Barosu Dilek",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Ağacı Projesi",
-        "entity1_label": "PERSON",
-        "entity2": "Çocuklar, Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Ağacı Projesi",
-        "entity1_label": "PERSON",
-        "entity2": "kavuşuyor Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Ağacı Projesi",
-        "entity1_label": "PERSON",
-        "entity2": "Ağacı, Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Ağacı Projesi",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa Barosu Danışma",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Ağacı Projesi",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bursa Barosu Sosyal",
-        "entity1_label": "PERSON",
-        "entity2": "Çocuklar, Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bursa Barosu Sosyal",
-        "entity1_label": "PERSON",
-        "entity2": "kavuşuyor Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bursa Barosu Sosyal",
-        "entity1_label": "PERSON",
-        "entity2": "Ağacı, Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bursa Barosu Sosyal",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa Barosu Danışma",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Etkinlikler Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Çocuklar, Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Etkinlikler Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "kavuşuyor Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Etkinlikler Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Ağacı, Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Etkinlikler Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa Barosu Danışma",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Dilek Ağacı Projesi",
-        "entity1_label": "PERSON",
-        "entity2": "Çocuklar, Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Dilek Ağacı Projesi",
-        "entity1_label": "PERSON",
-        "entity2": "kavuşuyor Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Dilek Ağacı Projesi",
-        "entity1_label": "PERSON",
-        "entity2": "Ağacı, Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Dilek Ağacı Projesi",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa Barosu Danışma",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Dilek Ağacı",
-        "entity1_label": "PERSON",
-        "entity2": "Çocuklar, Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Dilek Ağacı",
-        "entity1_label": "PERSON",
-        "entity2": "kavuşuyor Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Dilek Ağacı",
-        "entity1_label": "PERSON",
-        "entity2": "Ağacı, Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Dilek Ağacı",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa Barosu Danışma",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bursa Barosu Danışma",
-        "entity1_label": "PERSON",
-        "entity2": "Çocuklar, Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bursa Barosu Danışma",
-        "entity1_label": "PERSON",
-        "entity2": "kavuşuyor Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bursa Barosu Danışma",
-        "entity1_label": "PERSON",
-        "entity2": "Ağacı, Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bursa Barosu Danışma",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa Barosu Danışma",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Bursa Barosu Danışma",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Çocuklar, Bursa Barosu",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "kavuşuyor Bursa Barosu",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
-        "sentence_idx": 7
-      },
-      {
-        "entity1": "Ağacı, Bursa Barosu",
-        "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
+        "entity2": "Mustafakemalpaşa İlçesi",
         "entity2_label": "LOCATION",
         "relation_type": "MENTIONED_WITH",
         "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
@@ -772,210 +304,111 @@
       },
       {
         "entity1": "Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "gerçekleştirildi Bursa Barosu'nca",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Avukatlar Günü",
-        "entity1_label": "PERSON",
-        "entity2": "gerçekleştirildi Bursa Barosu'nca",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Avukatlar Günü",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Ulusal Egemenlik",
-        "entity1_label": "PERSON",
-        "entity2": "gerçekleştirildi Bursa Barosu'nca",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Ulusal Egemenlik",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Çocuk Bayramı",
-        "entity1_label": "PERSON",
-        "entity2": "gerçekleştirildi Bursa Barosu'nca",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Çocuk Bayramı",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Tipi Cezaevi",
-        "entity1_label": "PERSON",
-        "entity2": "gerçekleştirildi Bursa Barosu'nca",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "Tipi Cezaevi",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9",
-        "sentence_idx": 9
-      },
-      {
-        "entity1": "gerçekleştirildi Bursa Barosu'nca",
         "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
+        "entity2": "Mustafakemalpaşa İlçesi",
         "entity2_label": "LOCATION",
         "relation_type": "MENTIONED_WITH",
-        "sentence": "'cusu gerçekleştirildi Bursa Barosu'nca Avukatlar Günü ile Ulusal Egemenlik ve Çocuk Bayramı'nın yer aldığı nisan aylarında Bursa E Tipi Cezaevi'nde düzenlediği çocuk şenliğini 9",
-        "sentence_idx": 9
+        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
+        "sentence_idx": 7
       },
       {
-        "entity1": "Bursa Barosu Sosyal",
-        "entity1_label": "PERSON",
-        "entity2": "hediye Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Sincansarnıç ve Söğütalanlı çocuklara en güzel hediye Bursa Barosu Sosyal Etkinlikler Komisyonu'nun düzenlediği kampanya kapsamında toplanan kitaplar, Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan ilk-ortaokullarına teslim edildi",
-        "sentence_idx": 11
-      },
-      {
-        "entity1": "Etkinlikler Komisyonu",
-        "entity1_label": "PERSON",
-        "entity2": "hediye Bursa Barosu",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "Sincansarnıç ve Söğütalanlı çocuklara en güzel hediye Bursa Barosu Sosyal Etkinlikler Komisyonu'nun düzenlediği kampanya kapsamında toplanan kitaplar, Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan ilk-ortaokullarına teslim edildi",
-        "sentence_idx": 11
-      },
-      {
-        "entity1": "hediye Bursa Barosu",
+        "entity1": "Etkinlik",
         "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
+        "entity2": "Mustafakemalpaşa İlçesi",
         "entity2_label": "LOCATION",
         "relation_type": "MENTIONED_WITH",
-        "sentence": "Sincansarnıç ve Söğütalanlı çocuklara en güzel hediye Bursa Barosu Sosyal Etkinlikler Komisyonu'nun düzenlediği kampanya kapsamında toplanan kitaplar, Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan ilk-ortaokullarına teslim edildi",
-        "sentence_idx": 11
+        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
+        "sentence_idx": 7
       },
       {
-        "entity1": "Gündem Sosyal Sorumluluk",
-        "entity1_label": "PERSON",
-        "entity2": "Sorumluluk Çalışmaları Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 12
-      },
-      {
-        "entity1": "Çalışmaları Baro Medya",
-        "entity1_label": "PERSON",
-        "entity2": "Sorumluluk Çalışmaları Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 12
-      },
-      {
-        "entity1": "Çalışmaları Baro Medya",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 12
-      },
-      {
-        "entity1": "Basında Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "Sorumluluk Çalışmaları Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 12
-      },
-      {
-        "entity1": "Basında Bursa Barosu",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 12
-      },
-      {
-        "entity1": "Basın Açıklamaları",
-        "entity1_label": "PERSON",
-        "entity2": "Sorumluluk Çalışmaları Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 12
-      },
-      {
-        "entity1": "Basın Açıklamaları",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 12
-      },
-      {
-        "entity1": "Duyuruları Duyurular Daha",
-        "entity1_label": "PERSON",
-        "entity2": "Sorumluluk Çalışmaları Baro",
-        "entity2_label": "ORGANIZATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 12
-      },
-      {
-        "entity1": "Duyuruları Duyurular Daha",
-        "entity1_label": "PERSON",
-        "entity2": "Bursa",
-        "entity2_label": "LOCATION",
-        "relation_type": "MENTIONED_WITH",
-        "sentence": "PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 12
-      },
-      {
-        "entity1": "Sorumluluk Çalışmaları Baro",
+        "entity1": "Komisyonu",
         "entity1_label": "ORGANIZATION",
-        "entity2": "Bursa",
+        "entity2": "Mustafakemalpaşa İlçesi",
         "entity2_label": "LOCATION",
         "relation_type": "MENTIONED_WITH",
-        "sentence": "PAYLAŞ Gündem Sosyal Sorumluluk Çalışmaları Baro Medya Basında Bursa Barosu Basın Açıklamaları TBB Duyuruları Duyurular Daha Fazlası",
-        "sentence_idx": 12
+        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
+        "sentence_idx": 7
+      },
+      {
+        "entity1": "Dilek Ağacı",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Mustafakemalpaşa İlçesi",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
+        "sentence_idx": 7
+      },
+      {
+        "entity1": "Dilek Ağacı Projesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Mustafakemalpaşa İlçesi",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
+        "sentence_idx": 7
+      },
+      {
+        "entity1": "Ağacı Projesi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Mustafakemalpaşa İlçesi",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
+        "sentence_idx": 7
+      },
+      {
+        "entity1": "Mustafakemalpaşa İlçesi",
+        "entity1_label": "LOCATION",
+        "entity2": "Dilek Ağa",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
+        "sentence_idx": 7
+      },
+      {
+        "entity1": "Mustafakemalpaşa İlçesi",
+        "entity1_label": "LOCATION",
+        "entity2": "Bursa Barosu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
+        "sentence_idx": 7
+      },
+      {
+        "entity1": "Mustafakemalpaşa İlçesi",
+        "entity1_label": "LOCATION",
+        "entity2": "Birimi",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
+        "sentence_idx": 7
+      },
+      {
+        "entity1": "Mustafakemalpaşa İlçesi",
+        "entity1_label": "LOCATION",
+        "entity2": "Etkinlik",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
+        "sentence_idx": 7
+      },
+      {
+        "entity1": "Mustafakemalpaşa İlçesi",
+        "entity1_label": "LOCATION",
+        "entity2": "Komisyonu",
+        "entity2_label": "ORGANIZATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
+        "sentence_idx": 7
+      },
+      {
+        "entity1": "Birimi",
+        "entity1_label": "ORGANIZATION",
+        "entity2": "Mustafakemalpaşa İlçesi",
+        "entity2_label": "LOCATION",
+        "relation_type": "MENTIONED_WITH",
+        "sentence": "Çocuklar, Bursa Barosu Dilek Ağacı Projesi'yle hayallerine kavuşuyor Bursa Barosu Sosyal Etkinlikler Komisyonu'nun Dilek Ağacı Projesi ile Mustafakemalpaşa İlçesi'ne bağlı Sincansarnıç ve Söğütalan köyleri ilk ve ortaokul öğrencilerinin dileklerinin asıldığı Dilek Ağacı, Bursa Barosu Danışma Birimi'nde, çocukların dileklerini karşılayacak avukatları bekliyor",
+        "sentence_idx": 7
       }
     ],
     "total_sentences": 13,
